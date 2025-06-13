@@ -1,9 +1,7 @@
 # Corso di Fondamenti e Applicazioni del Machine Learning
 ## Specifiche progetto
 
-Con riferimento ai file:
-• **manuale.csv**
-• **training.csv**
+Con riferimento ai file **manuale.csv** e**training.csv**
 
 eseguire i seguenti task:
 
