@@ -1,2489 +1,570 @@
-﻿Stagione,Calciatore,Squadra,Età,Partite Giocate,Minuti Giocati,Reti,Assist,Reti Non Su Rigore,Rigori Tirati,Ammonizioni,Espulsioni,Ruolo?,
-2024-25,James Abankwah,Udinese,20,6,88,0,0,0,0,1,0,Dif,Cen
-2024-25,Saud Abdulhamid,Roma,25,4,205,0,1,0,0,0,0,Dif,
-2024-25,Oliver Abildgaard,Como,28,1,7,0,0,0,0,0,0,Cen,
-2024-25,Tammy Abraham,Roma,26,1,1,0,0,0,0,0,0,Att,
-2024-25,Tammy Abraham,Milan,26,28,1.183,3,4,2,2,1,0,Att,
-2024-25,Federico Accornero,Genoa,20,1,5,0,0,0,0,0,0,Cen,
-2024-25,Francesco Acerbi,Inter,36,23,1.71,0,1,0,0,0,0,Dif,
-2024-25,Zach Adams,Torino,28,36,2.652,9,3,9,9,2,0,Att,
-2024-25,Yacine Adli,Fiorentina,24,26,1.234,4,6,4,4,3,1,Cen,
-2024-25,Vasilije Adžić,Juventus,18,6,42,0,0,0,0,0,0,Cen,Att
-2024-25,Michel Aebischer,Bologna,27,14,724,0,0,0,0,2,0,Cen,
-2024-25,Honest Ahanor,Genoa,16,6,270,0,0,0,0,0,0,Dif,Cen
-2024-25,Junior Ajayi,Hellas Verona,19,2,13,0,0,0,0,0,0,Att,
-2024-25,Jean-Daniel Akpa-Akpro,Monza,31,14,966,0,0,0,0,4,0,Cen,
-2024-25,David Akpan Ankeye,Genoa,22,4,45,0,0,0,0,0,0,Att,Cen
-2024-25,Faride Alidou,Hellas Verona,23,3,71,0,0,0,0,0,0,Att,Cen
-2024-25,Dele Alli,Como,28,1,9,0,0,0,0,0,1,Cen,
-2024-25,Pontus Almqvist,Parma,25,29,1.112,1,1,1,1,5,0,Att,Cen
-2024-25,Giorgio Altare,Venezia,25,12,753,0,0,0,0,2,0,Dif,
-2024-25,Sofyan Amrabat,Fiorentina,27,2,180,0,0,0,0,0,0,Cen,
-2024-25,Angeliño,Roma,27,38,3.177,2,1,2,2,1,0,Dif,
-2024-25,Lorenzo Anghelè,Juventus,19,1,6,0,0,0,0,0,0,Att,
-2024-25,Faustino Anjorin,Empoli,22,22,1.114,2,3,2,2,3,0,Cen,
-2024-25,Marko Arnautović,Inter,35,18,549,4,2,4,4,1,0,Att,
-2024-25,Kristjan Asllani,Inter,22,22,988,2,2,0,0,4,0,Cen,
-2024-25,Arthur Atta,Udinese,21,27,1.251,0,1,0,0,5,0,Cen,Att
-2024-25,Emil Audero,Como,27,8,720,0,0,0,0,0,0,Por,
-2024-25,Tommaso Augello,Cagliari,29,38,2.713,0,7,0,0,3,0,Dif,
-2024-25,Carlos Augusto,Inter,25,29,1.691,3,2,3,3,1,0,Dif,
-2024-25,Yann Aurel Bisseck,Inter,23,27,1.643,3,2,3,3,4,0,Dif,
-2024-25,Paulo Azzi,Cagliari,30,6,426,0,0,0,0,2,0,Dif,
-2024-25,Oussama El Azzouzi,Bologna,23,2,19,0,0,0,0,0,0,Cen,
-2024-25,Jacopo Bacci,Empoli,19,3,31,0,0,0,0,0,0,Cen,
-2024-25,Milan Badelj,Genoa,35,23,1.472,1,0,1,1,2,0,Cen,
-2024-25,Mitchel Bakker,Atalanta,24,1,22,0,0,0,0,0,0,Cen,
-2024-25,Tommaso Baldanzi,Roma,21,31,832,1,1,1,1,2,0,Cen,Att
-2024-25,Keita Baldé Diao,Monza,29,11,638,2,0,2,2,2,0,Att,
-2024-25,Botond Balogh,Parma,22,29,2.053,0,1,0,0,5,0,Dif,
-2024-25,Mario Balotelli,Genoa,33,6,62,0,0,0,0,2,0,Att,Cen
-2024-25,Lameck Banda,Lecce,23,15,610,0,1,0,0,1,0,Att,Cen
-2024-25,Daniel Bandeira,Hellas Verona,24,11,407,0,0,0,0,1,0,Cen,
-2024-25,Mattia Bani,Genoa,30,20,1.507,0,0,0,0,3,0,Dif,
-2024-25,Antonín Barák,Fiorentina,29,1,54,0,0,0,0,0,0,Cen,
-2024-25,Federico Barba,Como,30,7,431,0,0,0,0,0,0,Dif,
-2024-25,Nicolò Barella,Inter,27,33,2.493,3,6,3,3,4,0,Cen,
-2024-25,Davide Bartesaghi,Milan,18,4,118,0,0,0,0,0,1,Dif,
-2024-25,Federico Baschirotto,Lecce,27,38,3.42,2,0,2,2,3,0,Dif,
-2024-25,Daniele Baselli,Como,32,2,22,0,0,0,0,0,0,Cen,
-2024-25,Alessandro Bastoni,Inter,25,33,2.401,1,5,1,1,6,1,Dif,
-2024-25,Reda Belahyane,Hellas Verona,20,22,1.658,0,2,0,0,6,1,Cen,
-2024-25,Reda Belahyane,Lazio,20,6,198,0,0,0,0,0,1,Cen,
-2024-25,Raoul Bellanova,Torino,24,1,87,0,0,0,0,0,0,Dif,
-2024-25,Raoul Bellanova,L'Aquila,24,34,2.402,0,9,0,0,3,0,Dif,
-2024-25,Andrea Belotti,Como,30,18,593,2,0,2,2,1,0,Att,
-2024-25,Lucas Beltrán,Fiorentina,23,33,1.953,5,4,3,3,6,0,Att,Cen
-2024-25,Adrian Benedyczak,Parma,23,9,214,0,0,0,0,0,0,Att,Cen
-2024-25,Ismaël Bennacer,Milan,26,6,300,0,0,0,0,2,0,Cen,
-2024-25,Medon Berisha,Lecce,20,17,716,0,1,0,0,5,0,Cen,
-2024-25,Adrian Bernabe,Parma,23,21,1.453,1,1,1,1,1,0,Cen,
-2024-25,Antoine Bernede,Hellas Verona,25,14,594,1,0,1,1,2,0,Cen,
-2024-25,Sam Beukema,Bologna,25,35,3.012,0,1,0,0,1,0,Dif,
-2024-25,Alessandro Bianco,Monza,21,34,2.6,1,0,1,1,9,0,Cen,
-2024-25,Alessandro Bianco,Fiorentina,21,1,18,0,0,0,0,0,0,Cen,
-2024-25,Jaka Bijol,Udinese,25,34,2.963,1,0,1,1,13,1,Dif,
-2024-25,Philip Billing,Napoli,28,10,197,1,0,1,1,1,0,Cen,
-2024-25,Cristiano Biraghi,Torino,31,15,1.158,0,0,0,0,0,0,Dif,
-2024-25,Cristiano Biraghi,Fiorentina,31,8,433,1,0,1,1,1,0,Dif,
-2024-25,Samuele Birindelli,Monza,25,21,1.468,3,0,3,3,2,0,Dif,Cen
-2024-25,Bjarki Bjarkason,Venezia,24,9,165,0,0,0,0,2,0,Dif,Cen
-2024-25,Emil Bohinen,Genoa,25,3,166,0,0,0,0,0,0,Cen,
-2024-25,Warren Bondo,Monza,20,20,1.618,0,0,0,0,5,1,Cen,
-2024-25,Warren Bondo,Milan,20,4,162,0,0,0,0,1,0,Cen,
-2024-25,Kevin Bonifazi,Lecce,28,3,65,0,0,0,0,0,0,Dif,
-2024-25,Ange-Yoan Bonny,Parma,20,37,2.529,6,4,4,4,2,0,Att,
-2024-25,Edoardo Bove,Fiorentina,22,12,851,1,2,1,1,3,0,Cen,Att
-2024-25,Domagoj Bradarić,Hellas Verona,24,28,1.933,1,0,1,1,6,0,Dif,
-2024-25,Matthias Braunöder,Como,22,8,268,0,0,0,0,3,1,Cen,
-2024-25,Iker Bravo,Udinese,19,29,682,2,1,2,2,3,0,Att,Cen
-2024-25,Gleison Bremer,Juventus,27,6,540,0,0,0,0,2,0,Dif,
-2024-25,Brenner,Udinese,24,9,386,1,2,1,1,0,0,Cen,Att
-2024-25,Marco Brescianini,Atalanta,24,29,991,4,2,4,4,1,0,Cen,
-2024-25,Arvid Brorsson,Monza,25,6,362,0,0,0,0,0,0,Dif,
-2024-25,Tajon Buchanan,Inter,25,6,95,0,0,0,0,0,0,Dif,Att
-2024-25,Alessandro Buongiorno,Napoli,25,22,1.924,1,0,1,1,2,0,Dif,
-2024-25,Rareș-Cătălin Burnete,Lecce,20,4,28,0,0,0,0,0,0,Att,
-2024-25,Gianluca Busio,Venezia,22,33,2.518,2,0,2,2,4,0,Cen,
-2024-25,Jean Butez,Como,29,19,1.666,0,0,0,0,0,0,Por,
-2024-25,Liberato Cacace,Empoli,23,33,2.23,2,4,2,2,6,0,Cen,Dif
-2024-25,Alessio Cacciamani,Torino,17,2,31,0,0,0,0,0,0,Cen,Dif
-2024-25,Davide Calabria,Bologna,27,11,632,0,1,0,0,3,0,Dif,
-2024-25,Davide Calabria,Milan,27,7,316,0,0,0,0,0,0,Dif,
-2024-25,Luca Caldirola,Monza,33,14,876,0,0,0,0,5,0,Dif,
-2024-25,Hakan Çalhanoğlu,Inter,30,29,1.947,5,6,2,2,5,0,Cen,
-2024-25,Drissa Camara,Parma,22,21,447,0,0,0,0,3,0,Cen,Att
-2024-25,Francesco Camarda,Milan,16,10,206,0,0,0,0,0,0,Att,Cen
-2024-25,Nicolò Cambiaghi,Bologna,23,18,620,1,3,1,1,0,0,Att,
-2024-25,Andrea Cambiaso,Juventus,24,33,2.221,2,3,2,2,4,0,Dif,Att
-2024-25,Thomas Campaniello,Empoli,16,3,25,0,0,0,0,0,0,Att,
-2024-25,Matteo Cancellieri,Parma,22,27,1.424,3,0,3,3,2,1,Att,Cen
-2024-25,Fali Candé,Venezia,26,17,1.53,1,1,1,1,4,0,Dif,
-2024-25,Antonio Candela,Venezia,24,14,1.008,0,1,0,0,2,0,Dif,
-2024-25,Gianluca Caprari,Monza,31,34,1.651,3,2,1,1,3,0,Cen,Att
-2024-25,Elia Caprile,Cagliari,22,18,1.62,0,0,0,0,0,0,Por,
-2024-25,Elia Caprile,Napoli,22,4,325,0,0,0,0,0,0,Por,
-2024-25,Francesco Caputo,Empoli,36,1,6,0,0,0,0,0,0,Att,
-2024-25,Maxence Caqueret,Como,24,18,1.087,2,3,2,2,4,0,Cen,
-2024-25,Andrea Carboni,Monza,23,26,2.191,0,1,0,0,5,0,Dif,
-2024-25,Franco Carboni,Venezia,21,8,226,0,0,0,0,2,0,Dif,
-2024-25,Marco Carnesecchi,Atalanta,24,34,3.06,0,0,0,0,1,0,Por,
-2024-25,Cesare Casadei,Torino,21,15,1.017,1,1,1,1,1,0,Cen,
-2024-25,Nicolò Casale,Bologna,26,15,900,0,1,0,0,1,0,Dif,
-2024-25,Nicolò Casale,Lazio,26,2,135,0,0,0,0,0,0,Dif,
-2024-25,Federico Cassa,Atalanta,18,2,14,0,0,0,0,0,0,Cen,Att
-2024-25,Valentín Castellanos,Lazio,25,29,2.384,10,3,8,8,9,1,Att,
-2024-25,Santiago Castro,Bologna,19,36,2.294,8,4,8,8,7,0,Att,
-2024-25,Gaetano Castrovilli,Monza,27,12,596,0,0,0,0,0,0,Cen,
-2024-25,Gaetano Castrovilli,Lazio,27,9,148,0,0,0,0,0,0,Cen,Att
-2024-25,Danilo Cataldi,Fiorentina,29,25,1.728,3,0,3,3,1,0,Cen,
-2024-25,Zeki Çelik,Roma,27,31,2.256,0,2,0,0,5,0,Dif,
-2024-25,Alberto Cerri,Como,28,5,87,0,0,0,0,0,0,Att,
-2024-25,Gabriel Charpentier,Parma,25,10,271,1,2,1,1,1,0,Att,
-2024-25,Walid Cheddira,Napoli,26,1,12,0,0,0,0,0,0,Att,
-2024-25,Leandro Chichizola,Parma,34,1,90,0,0,0,0,0,0,Por,
-2024-25,Samuel Chukwueze,Milan,25,26,925,3,2,3,3,0,0,Att,Cen
-2024-25,Aaron Ciammaglichella,Torino,19,1,1,0,0,0,0,0,0,Cen,
-2024-25,Giuseppe Ciocci,Cagliari,22,1,9,0,0,0,0,0,0,Por,
-2024-25,Alessandro Circati,Parma,20,6,540,0,0,0,0,1,0,Dif,
-2024-25,Alphadjo Cissè,Hellas Verona,17,2,9,0,0,0,0,0,0,Att,Cen
-2024-25,Patrick Ciurria,Monza,29,21,1.111,1,1,1,1,1,0,Cen,Dif
-2024-25,Saúl Coco,Torino,25,32,2.845,2,0,2,2,10,0,Dif,
-2024-25,Lorenzo Colombo,Empoli,22,37,2.233,6,2,5,5,5,1,Att,Cen
-2024-25,Andrea Colpani,Fiorentina,25,25,1.45,2,1,2,2,1,0,Att,Cen
-2024-25,Florinel Coman,Cagliari,26,9,263,1,0,1,1,2,0,Att,Cen
-2024-25,Pietro Comuzzo,Fiorentina,19,33,2.2,1,0,1,1,5,0,Dif,
-2024-25,Francisco Conceição,Juventus,21,26,1.34,3,3,3,3,5,1,Att,Cen
-2024-25,Diego Coppola,Hellas Verona,20,34,2.927,2,0,2,2,10,0,Dif,
-2024-25,Maxwel Cornet,Genoa,27,7,246,2,1,2,2,0,0,Att,Cen
-2024-25,Joaquín Correa,Inter,29,19,731,2,2,2,2,3,0,Att,Cen
-2024-25,Alberto costa,Juventus,20,9,357,0,1,0,0,3,0,Dif,
-2024-25,Lassana Coulibaly,Lecce,28,38,2.667,1,0,1,1,3,0,Cen,
-2024-25,Woyo Coulibaly,Parma,25,14,1.084,0,1,0,0,1,1,Dif,
-2024-25,Bryan Cristante,Roma,29,30,2.045,4,2,4,4,8,0,Cen,
-2024-25,Domen Črnigoj,Venezia,28,8,136,0,0,0,0,0,0,Cen,
-2024-25,Juan Cuadrado,Atalanta,36,23,832,0,2,0,0,3,0,Dif,Cen
-2024-25,Patrick Cutrone,Como,26,33,2.047,7,4,7,7,1,0,Att,
-2024-25,Wylan Cyprien,Parma,29,2,28,0,0,0,0,0,0,Cen,
-2024-25,Danilo D'Ambrosio,Monza,35,20,1.095,0,1,0,0,2,1,Dif,
-2024-25,Lucas Da Cunha,Como,23,36,2.613,3,2,3,3,4,0,Cen,
-2024-25,Samuel Dahl,Roma,24,2,43,0,0,0,0,0,0,Dif,Cen
-2024-25,Thijs Dallinga,Bologna,23,31,1.154,3,2,3,3,1,0,Att,
-2024-25,Maat Daniel Caprini,Fiorentina,18,2,8,0,0,0,0,0,0,Att,
-2024-25,Flavius Daniliuc,Hellas Verona,23,18,1.004,0,0,0,0,0,0,Dif,
-2024-25,Danilo Luiz da Silva,Juventus,33,12,581,0,1,0,0,2,0,Dif,
-2024-25,Matteo Darmian,Inter,34,29,1.781,3,2,3,3,3,0,Dif,
-2024-25,Juan David Cabal,Juventus,23,7,460,0,0,0,0,0,0,Dif,
-2024-25,Keinan Davis,Udinese,26,23,1.066,2,1,2,2,2,0,Att,
-2024-25,Paweł Dawidowicz,Hellas Verona,29,26,1.845,0,0,0,0,7,1,Dif,Cen
-2024-25,Charles De Ketelaere,Atalanta,23,36,2.07,7,7,7,7,1,0,Cen,Att
-2024-25,Mattia De Sciglio,Empoli,31,16,769,1,0,1,1,0,0,Dif,
-2024-25,Lorenzo De Silvestri,Bologna,36,18,1.06,1,0,1,1,1,0,Dif,
-2024-25,Koni De Winter,Genoa,22,25,2.135,3,0,3,3,6,0,Dif,
-2024-25,Alessandro Deiola,Cagliari,28,29,1.432,2,1,2,2,6,0,Cen,
-2024-25,Enrico Del Prato,Parma,24,34,2.947,4,0,4,4,8,0,Dif,
-2024-25,Fisayo Dele-Bashiru,Lazio,23,20,947,3,1,3,3,0,0,Cen,Att
-2024-25,Ali Dembélé,Torino,20,15,388,1,0,1,1,4,1,Dif,
-2024-25,Michele Di Gregorio,Juventus,27,33,2.97,0,0,0,0,0,0,Por,
-2024-25,Giovanni Di Lorenzo,Napoli,30,37,3.33,3,2,3,3,6,0,Dif,
-2024-25,Boulaye Dia,Lazio,27,35,2.177,9,3,9,9,2,0,Cen,Att
-2024-25,Assane Diao,Como,18,15,1.252,8,1,8,8,2,0,Att,Cen
-2024-25,Federico Dimarco,Inter,26,33,2.177,4,7,4,4,3,0,Dif,Att
-2024-25,Berat Djimsiti,Atalanta,31,34,2.64,1,2,1,1,6,0,Dif,
-2024-25,Domilson Cordeiro dos Santos,Fiorentina,25,35,3.115,0,5,0,0,8,0,Dif,
-2024-25,Benjamín Domínguez,Bologna,20,24,1.281,3,2,3,3,0,0,Att,
-2024-25,Patrick Dorgu,Lecce,19,21,1.84,3,1,3,3,2,1,Dif,Att
-2024-25,Alberto Dossena,Como,25,23,1.825,0,2,0,0,1,1,Dif,
-2024-25,Issa Doumbia,Venezia,20,24,939,0,0,0,0,0,0,Cen,
-2024-25,Anastasios Douvikas,Como,24,13,580,2,2,2,2,1,0,Att,
-2024-25,Artem Dovbyk,Roma,27,32,2.418,12,2,10,10,0,0,Att,
-2024-25,Ondrej Duda,Hellas Verona,29,28,2.395,1,3,1,1,12,1,Cen,
-2024-25,Denzel Dumfries,Inter,28,29,1.955,7,2,7,7,4,0,Dif,Att
-2024-25,Alfred Duncan,Venezia,31,16,957,0,0,0,0,2,0,Cen,
-2024-25,Paulo Dybala,Roma,30,24,1.417,6,3,3,3,2,0,Att,Cen
-2024-25,Enzo Ebosse,Udinese,25,2,90,0,0,0,0,1,0,Dif,
-2024-25,Tyronne Ebuehi,Empoli,28,4,74,0,0,0,0,0,0,Dif,Cen
-2024-25,Éderson,Atalanta,25,37,2.881,4,1,4,4,5,1,Cen,
-2024-25,Kingsley Ehizibue,Udinese,29,33,2.498,0,1,0,0,5,0,Dif,
-2024-25,Jeff Ekhator,Genoa,17,24,769,1,1,1,1,1,0,Att,Cen
-2024-25,Jurgen Ekkelenkamp,Udinese,24,34,1.892,3,2,3,3,2,0,Cen,
-2024-25,Emmanuel Ekong,Empoli,22,15,186,0,0,0,0,1,0,Cen,Att
-2024-25,Caleb Ekuban,Genoa,30,18,555,1,3,1,1,1,0,Att,
-2024-25,Mikael Ellertsson,Venezia,22,36,2.47,2,2,2,2,2,0,Dif,Cen
-2024-25,Elif Elmas,Torino,24,13,1.021,4,0,4,4,0,0,Att,Cen
-2024-25,Emerson,Milan,25,17,1.377,0,0,0,0,5,0,Dif,
-2024-25,Yannik Engelhardt,Como,23,26,1.164,1,1,1,1,4,0,Cen,Dif
-2024-25,Martin Erlic,Bologna,26,8,334,0,0,0,0,0,0,Dif,
-2024-25,Sebastiano Esposito,Empoli,22,33,2.331,8,0,7,7,1,0,Att,Cen
-2024-25,Estanis,Bologna,20,1,9,0,0,0,0,0,0,Att,
-2024-25,Nahuel Estévez,Parma,28,14,657,0,0,0,0,3,0,Cen,
-2024-25,Giovanni Fabbian,Bologna,21,30,1.023,3,1,3,3,2,0,Cen,
-2024-25,Alieu Fadera,Como,22,28,1.644,1,3,1,1,2,1,Att,Dif
-2024-25,Nicolò Fagioli,Fiorentina,23,15,962,1,2,1,1,0,0,Cen,
-2024-25,Nicolò Fagioli,Juventus,23,17,571,0,0,0,0,4,0,Cen,
-2024-25,Wladimiro Falcone,Lecce,29,38,3.42,0,0,0,0,2,0,Por,
-2024-25,Davide Faraoni,Hellas Verona,32,8,260,0,0,0,0,1,0,Dif,
-2024-25,Jacopo Fazzini,Empoli,21,20,1.383,4,1,4,4,1,1,Cen,
-2024-25,Mattia Felici,Cagliari,23,20,925,0,3,0,0,1,0,Cen,Att
-2024-25,João Félix,Milan,24,15,760,2,0,2,2,3,0,Cen,
-2024-25,Lewis Ferguson,Bologna,24,16,983,1,1,0,0,0,0,Cen,
-2024-25,Daniel Fila,Venezia,21,10,492,2,0,2,2,3,1,Att,
-2024-25,Alessandro Florenzi,Milan,33,1,5,0,0,0,0,0,0,Att,
-2024-25,Youssouf Fofana,Milan,25,35,2.504,1,6,1,1,5,0,Cen,
-2024-25,Michael Folorunsho,Fiorentina,26,14,650,0,0,0,0,5,0,Att,Cen
-2024-25,Michael Folorunsho,Napoli,26,6,35,0,0,0,0,0,0,Att,Cen
-2024-25,Omari Forson,Monza,20,9,223,0,0,0,0,0,0,Cen,Att
-2024-25,Davide Frattesi,Inter,24,28,1.225,5,1,5,5,1,0,Cen,
-2024-25,Morten Frendrup,Genoa,23,35,3.103,2,0,2,2,5,0,Cen,
-2024-25,Martin Frese,Hellas Verona,26,11,549,0,0,0,0,0,0,Dif,
-2024-25,Remo Freuler,Bologna,32,37,3.204,1,2,1,1,6,0,Cen,
-2024-25,Matteo Gabbia,Milan,24,26,2.152,2,0,2,2,4,0,Dif,
-2024-25,Tommaso Gabellini,Torino,17,1,10,0,0,0,0,0,0,Att,
-2024-25,Tiago Gabriel,Lecce,19,2,96,0,0,0,0,0,0,Dif,
-2024-25,Alessandro Gabrielloni,Como,30,15,142,1,1,1,1,1,0,Att,Cen
-2024-25,Gianluca Gaetano,Cagliari,24,28,1.009,2,4,2,2,0,0,Cen,Att
-2024-25,Roberto Gagliardini,Monza,30,8,180,0,0,0,0,1,0,Cen,Dif
-2024-25,Antonino Gallo,Lecce,24,31,2.609,0,2,0,0,3,1,Dif,
-2024-25,Silvère Ganvoula M'Boussy,Monza,28,7,326,0,0,0,0,0,0,Att,
-2024-25,Federico Gatti,Juventus,26,30,2.195,1,0,1,1,2,0,Dif,
-2024-25,David de Gea Quintana,Fiorentina,33,35,3.15,0,1,0,0,1,0,Por,
-2024-25,Valentin Gendrey,Lecce,24,2,180,0,0,0,0,0,0,Dif,
-2024-25,Daniele Ghilardi,Hellas Verona,21,24,2.029,0,0,0,0,7,1,Dif,
-2024-25,Lautaro Gianetti,Udinese,30,15,878,1,0,1,1,4,0,Dif,
-2024-25,Samuel Gigot,Lazio,30,15,683,2,0,2,2,2,0,Dif,
-2024-25,Mario Gila,Lazio,23,32,2.741,1,0,1,1,8,0,Dif,
-2024-25,Billy Gilmour,Napoli,23,26,1.177,0,1,0,0,0,0,Cen,
-2024-25,Santiago Giménez,Milan,23,14,669,5,2,5,5,3,1,Att,
-2024-25,Gvidas Gineitis,Torino,20,30,1.43,3,1,3,3,5,0,Cen,
-2024-25,Ben Godfrey,Atalanta,26,1,23,0,0,0,0,0,0,Dif,
-2024-25,Saba Goglichidze,Empoli,20,33,2.539,0,1,0,0,3,1,Dif,
-2024-25,Edoardo Goldaniga,Como,30,32,2.532,1,0,1,1,12,1,Dif,
-2024-25,Pierluigi Gollini,Genoa,29,7,630,0,0,0,0,1,0,Por,
-2024-25,Nicolás González,Juventus,26,26,1.75,3,2,3,3,3,0,Att,Cen
-2024-25,Robin Gosens,Fiorentina,30,32,2.521,5,5,5,5,6,0,Dif,
-2024-25,Lucas Gourna-Douath,Roma,20,6,229,0,0,0,0,2,0,Cen,
-2024-25,Alberto Grassi,Empoli,29,28,2.203,1,0,1,1,8,0,Cen,
-2024-25,Mattéo Guendouzi,Lazio,25,37,3.27,1,3,1,1,7,0,Cen,
-2024-25,Frédéric Guilbert,Lecce,29,31,2.435,0,1,0,0,3,2,Dif,
-2024-25,Albert Guðmundsson,Fiorentina,27,24,1.273,6,1,4,4,2,0,Att,Cen
-2024-25,Emmanuel Gyasi,Empoli,30,37,3.217,2,1,2,2,5,0,Dif,Att
-2024-25,Christian Gytkjær,Venezia,34,29,754,2,1,1,1,0,0,Att,
-2024-25,Nicolas Haas,Empoli,28,10,287,0,0,0,0,1,0,Cen,
-2024-25,Saad El Haddad,Venezia,19,3,30,0,0,0,0,0,0,Cen,
-2024-25,Antoine Hainaut,Parma,22,25,1.206,2,0,2,2,4,0,Dif,Att
-2024-25,Mohamed Haj,Parma,19,15,453,1,2,1,1,4,0,Cen,
-2024-25,Ridgeciano Haps,Venezia,31,25,1.369,1,1,1,1,3,0,Dif,
-2024-25,Abdou Harroui,Hellas Verona,26,10,463,1,2,1,1,1,0,Cen,Att
-2024-25,Liam Henderson,Empoli,28,36,2.337,0,4,0,0,10,0,Cen,
-2024-25,Mario Hermoso,Roma,29,8,251,0,0,0,0,2,1,Dif,
-2024-25,Theo Hernández,Milan,26,33,2.696,4,3,4,4,4,1,Dif,
-2024-25,Hernani Azevedo Júnior,Parma,30,25,1.327,3,3,0,0,7,0,Cen,
-2024-25,Isak Hien,Atalanta,25,30,2.327,0,0,0,0,10,0,Dif,
-2024-25,Emil Holm,Bologna,24,21,1.137,1,1,1,1,3,0,Dif,
-2024-25,Mats Hummels,Roma,35,14,915,0,0,0,0,1,0,Dif,
-2024-25,Elseid Hisaj,Lazio,30,11,424,0,3,0,0,2,1,Dif,
-2024-25,Arijon Ibrahimović,Lazio,18,1,8,0,0,0,0,0,0,Cen,
-2024-25,Jay Idzes,Venezia,24,35,3.127,1,0,1,1,5,0,Dif,
-2024-25,Jonathan Ikone,Como,26,13,540,2,0,2,2,1,0,Att,
-2024-25,Jonathan Ikone,Fiorentina,26,14,334,0,0,0,0,0,0,Att,Cen
-2024-25,Ivan Ilić,Torino,23,19,920,1,0,1,1,4,0,Cen,
-2024-25,Samuel Iling-Junior,Bologna,20,7,118,1,0,1,1,0,0,Att,Cen
-2024-25,Alessio Iovine,Como,33,10,387,0,0,0,0,2,0,Dif,Att
-2024-25,Gustav Isaksen,Lazio,23,37,2.21,4,2,4,4,5,0,Att,
-2024-25,Ardian Ismajli,Empoli,27,29,2.508,0,0,0,0,3,0,Dif,
-2024-25,Armando Izzo,Monza,32,30,2.435,1,1,1,1,12,0,Dif,
-2024-25,Fellipe Jack,Como,18,7,171,0,0,0,0,2,0,Dif,
-2024-25,Ali Jasim,Como,20,2,10,0,0,0,0,0,0,Att,Dif
-2024-25,Gaby Jean,Lecce,24,19,1.388,0,0,0,0,0,0,Dif,
-2024-25,Juan Guilherme Nunes Jesus,Napoli,33,15,1.074,0,1,0,0,2,0,Dif,
-2024-25,Alejandro Jiménez,Milan,19,22,1.266,0,1,0,0,6,0,Dif,Att
-2024-25,Þórir Jóhann Helgason,Lecce,23,21,1.156,0,4,0,0,0,0,Cen,
-2024-25,Jesse Joronen,Venezia,31,8,703,0,0,0,0,0,0,Por,
-2024-25,Luka Jović,Milan,26,15,557,2,0,2,2,1,0,Att,Cen
-2024-25,Mohamed Kaba,Lecce,22,15,452,0,0,0,0,1,0,Cen,
-2024-25,Christian Kabasele,Udinese,33,16,1.161,2,0,2,2,0,0,Dif,
-2024-25,Pierre Kalulu,Juventus,24,29,2.337,1,0,1,1,2,1,Dif,
-2024-25,Hassane Kamara,Udinese,30,30,2.001,1,4,1,1,8,1,Dif,
-2024-25,Yann Karamoh,Torino,26,29,1.046,0,1,0,0,2,0,Cen,Att
-2024-25,Jesper Karlsson,Bologna,26,7,298,1,0,1,1,1,0,Att,
-2024-25,Jesper Karlsson,Lecce,26,13,495,1,0,0,0,2,0,Att,
-2024-25,Jesper Karlström,Udinese,29,37,3.186,0,3,0,0,9,0,Cen,
-2024-25,Lior Kasa,Genoa,18,8,230,0,0,0,0,2,0,Cen,Att
-2024-25,Grigoris Kastanos,Hellas Verona,26,27,872,1,1,1,1,4,0,Cen,Att
-2024-25,Michael Kayode,Fiorentina,20,5,127,0,0,0,0,0,0,Dif,Att
-2024-25,Moise Kean,Fiorentina,24,32,2.704,19,3,18,18,6,0,Att,
-2024-25,Mandela Keita,Parma,22,30,1.826,0,2,0,0,6,1,Cen,
-2024-25,Lloyd Kelly,Juventus,25,12,1.013,0,0,0,0,1,0,Dif,
-2024-25,Marc-Oliver Kempf,Como,29,31,2.615,0,0,0,0,6,1,Dif,
-2024-25,Kialonda,Lecce,26,24,2.144,0,1,0,0,3,0,Dif,
-2024-25,Magnus Kofod Andersen,Venezia,25,14,695,1,1,1,1,1,0,Cen,
-2024-25,Sead Kolašinac,Atalanta,31,23,1.903,0,2,0,0,7,0,Dif,
-2024-25,Randal Kolo Muani,Juventus,25,16,1.16,8,1,7,7,0,0,Att,
-2024-25,Ismael Konate,Empoli,18,12,116,0,1,0,0,0,0,Att,Cen
-2024-25,Manu Koné,Roma,23,34,2.572,2,1,2,2,6,0,Cen,
-2024-25,Teun Koopmeiners,Juventus,26,28,1.994,3,3,3,3,3,0,Cen,Att
-2024-25,Odilon Kossounou,Atalanta,23,18,1.125,0,0,0,0,1,0,Dif,
-2024-25,Christian Kouamé,Fiorentina,26,18,622,0,1,0,0,1,0,Att,Cen
-2024-25,Christian Kouamé,Empoli,26,8,507,1,0,1,1,0,0,Att,Cen
-2024-25,Viktor Kovalenko,Empoli,28,6,77,0,0,0,0,0,0,Cen,
-2024-25,Mateusz Kowalski,Parma,19,1,56,0,0,0,0,0,0,Cen,
-2024-25,Thomas Kristensen,Udinese,22,24,1.754,1,0,1,1,5,0,Dif,
-2024-25,Nikola Krstović,Lecce,24,37,3.057,11,5,9,9,6,0,Att,
-2024-25,Khvicha Kvaratskhelia,Napoli,23,17,1.178,5,3,4,4,1,0,Att,Cen
-2024-25,Giorgos Kyriakopoulos,Monza,28,34,2.845,2,4,2,2,5,0,Dif,
-2024-25,Mathis Lambourde,Hellas Verona,18,7,89,1,0,1,1,1,0,Att,Cen
-2024-25,Gianluca Lapadula,Cagliari,34,12,310,0,0,0,0,1,0,Att,Cen
-2024-25,Valentino Lazaro,Torino,28,33,2.307,0,6,0,0,6,0,Dif,Att
-2024-25,Darko Lazović,Hellas Verona,33,27,1.459,2,3,1,1,0,0,Dif,Cen
-2024-25,Manuel Lazzari,Lazio,30,25,1.406,0,1,0,0,3,0,Dif,
-2024-25,Enzo Le Fée,Roma,24,6,318,0,0,0,0,1,0,Cen,
-2024-25,Nicola Leali,Genoa,31,29,2.61,0,0,0,0,1,0,Por,
-2024-25,Rafael Leão,Milan,25,34,2.323,8,8,8,8,5,0,Att,
-2024-25,Stefan Lekovic,Monza,20,7,367,0,0,0,0,0,0,Dif,
-2024-25,Nunzio Lella,Venezia,24,1,5,0,0,0,0,0,0,Cen,
-2024-25,Giovanni Leoni,Parma,17,17,1.199,1,0,1,1,3,1,Dif,
-2024-25,Ben Lhassine Kone,Como,24,4,51,0,0,0,0,1,0,Cen,
-2024-25,Mattia Liberali,Milan,17,1,61,0,0,0,0,0,0,Cen,
-2024-25,Karol Linetty,Torino,29,28,1.54,1,0,1,1,6,0,Cen,
-2024-25,Dailon Livramento,Hellas Verona,23,29,940,1,1,1,1,2,1,Att,Cen
-2024-25,Stanislav Lobotka,Napoli,29,32,2.636,0,1,0,0,3,0,Cen,
-2024-25,Manuel Locatelli,Juventus,26,36,2.822,2,2,1,1,9,0,Cen,
-2024-25,Ruben Loftus-Cheek,Milan,28,19,1.037,0,0,0,0,3,0,Cen,
-2024-25,Ademola Lookman,Atalanta,26,31,2.247,15,5,14,14,4,0,Cen,Att
-2024-25,Sandi Lovric,Udinese,26,36,2.308,2,3,2,2,5,0,Cen,
-2024-25,Lorenzo Lucca,Udinese,23,33,2.353,12,1,11,11,10,0,Att,
-2024-25,Jhon Lucumí,Bologna,26,32,2.614,0,1,0,0,8,1,Dif,
-2024-25,José Luis Palomino,Cagliari,34,18,1.081,1,0,1,1,3,0,Dif,
-2024-25,Douglas Luiz,Juventus,26,19,529,0,0,0,0,2,0,Cen,
-2024-25,Romelu Lukaku,Napoli,31,36,2.843,14,10,11,11,4,0,Att,
-2024-25,Sebastiano Luperto,Cagliari,27,36,3.24,1,3,1,1,4,0,Dif,
-2024-25,Zito Luvumbo,Cagliari,22,26,1.606,2,2,2,2,2,0,Att,Cen
-2024-25,Charalampos Lykogiannīs,Bologna,30,17,1.048,0,4,0,0,3,0,Dif,
-2024-25,Mathias Løvik,Parma,20,6,92,0,0,0,0,0,0,Dif,Att
-2024-25,Giangiacomo Magnani,Hellas Verona,28,17,1.065,1,0,1,1,2,0,Dif,
-2024-25,Mike Maignan,Milan,29,37,3.294,0,0,0,0,1,0,Por,
-2024-25,Antoine Makoumbou,Cagliari,26,33,2.15,0,3,0,0,4,1,Cen,
-2024-25,Daniel Maldini,Monza,22,20,1.306,3,0,3,3,5,0,Cen,Att
-2024-25,Daniel Maldini,Atalanta,22,10,258,3,0,3,3,0,0,Att,Cen
-2024-25,Youssef Maleh,Empoli,25,22,1.51,0,1,0,0,5,1,Cen,
-2024-25,Ruslan Malinovs'kyj,Genoa,31,9,383,0,2,0,0,2,0,Cen,Att
-2024-25,Dennis Man,Parma,25,33,1.995,4,4,4,4,0,0,Att,Cen
-2024-25,Gianluca Mancini,Roma,28,37,3.143,2,0,2,2,8,0,Dif,
-2024-25,Christos Mandas,Lazio,22,9,810,0,0,0,0,0,0,Por,
-2024-25,Rolando Mandragora,Fiorentina,27,29,1.931,4,3,3,3,7,0,Cen,
-2024-25,Alberto Manzoni,Atalanta,19,1,6,0,0,0,0,0,0,Cen,
-2024-25,Alessandro Marcandalli,Genoa,21,2,46,0,0,0,0,0,0,Dif,
-2024-25,Alessandro Marcandalli,Venezia,21,8,354,0,0,0,0,2,0,Dif,
-2024-25,Filip Marchwiński,Lecce,22,1,15,0,0,0,0,0,0,Cen,
-2024-25,Pablo Marí,Monza,30,19,1.628,0,0,0,0,4,1,Dif,
-2024-25,Pablo Marí,Fiorentina,30,13,1.098,0,0,0,0,2,0,Dif,
-2024-25,Luca Marianucci,Empoli,20,18,1.069,0,0,0,0,0,1,Dif,
-2024-25,Mirko Marić,Monza,29,8,106,0,0,0,0,0,0,Att,Cen
-2024-25,Mirko Marić,Venezia,29,10,356,0,0,0,0,0,0,Att,
-2024-25,Rafa Marín,Napoli,22,4,142,0,0,0,0,1,0,Dif,
-2024-25,Răzvan Marin,Cagliari,28,33,1.406,3,2,1,1,4,0,Cen,
-2024-25,Guillermo Maripán,Torino,30,28,2.34,1,1,1,1,4,1,Dif,
-2024-25,Aarón Caricol,Genoa,27,36,3.085,0,8,0,0,5,0,Dif,
-2024-25,Josep Martinez,Inter,26,5,450,0,0,0,0,0,0,Por,
-2024-25,Lautaro Martínez,Inter,26,31,2.564,12,3,12,12,1,0,Att,
-2024-25,Lucas Martínez Quarta,Fiorentina,28,8,351,1,0,1,1,1,0,Dif,
-2024-25,Kevin Martins,Monza,19,9,183,0,1,0,0,1,0,Cen,Dif
-2024-25,Adam Marušić,Lazio,31,35,2.337,4,0,4,4,1,0,Dif,
-2024-25,Adam Masina,Torino,30,28,1.919,1,2,1,1,5,0,Dif,
-2024-25,Patrizio Masini,Genoa,23,26,1.538,1,0,1,1,3,0,Cen,
-2024-25,Alan Matturro,Genoa,19,13,900,0,0,0,0,2,0,Dif,
-2024-25,Andrea Mazza,Monza,20,1,8,0,0,0,0,0,0,Por,
-2024-25,Luca Mazzitelli,Como,28,11,335,1,1,1,1,1,0,Cen,
-2024-25,Pasquale Mazzocchi,Napoli,29,20,702,0,0,0,0,3,0,Cantante,
-2024-25,Samuel Mbangula,Juventus,20,23,709,3,3,3,3,1,0,Att,
-2024-25,Weston McKennie,Juventus,25,32,2.31,2,4,2,2,3,0,Cen,Dif
-2024-25,Scott McTominay,Napoli,27,34,2.938,12,4,12,12,3,McFratm,Cen,
-2024-25,Filippo Melegoni,Genoa,25,3,89,0,1,0,0,0,0,Cen,Att
-2024-25,Alex Meret,Napoli,27,34,3.005,0,0,0,0,0,0,Por,
-2024-25,Junior Messias,Genoa,33,17,847,1,1,1,1,1,0,Cen,Att
-2024-25,Valentin Mihaila,Parma,24,21,1.288,0,3,0,0,2,0,Att,Cen
-2024-25,Vanja Milinković-Savić,Torino,27,37,3.33,0,0,0,0,3,0,Por,
-2024-25,Yerry Mina,Cagliari,29,31,2.569,1,0,1,1,6,1,Dif,
-2024-25,Juan Miranda,Bologna,24,31,2.277,0,6,0,0,4,1,Dif,
-2024-25,Fabio Miretti,Genoa,20,25,1.677,3,3,3,3,2,0,Cen,Att
-2024-25,Henrix Mxit'aryan,Inter,35,32,2.396,1,4,1,1,4,0,Cen,
-2024-25,Rui Modesto,Udinese,24,20,608,0,1,0,0,1,0,Dif,Cen
-2024-25,Lorenzo Montipò,Hellas Verona,28,36,3.24,0,0,0,0,0,0,Por,
-2024-25,Álvaro Morata,Milan,31,16,1.099,5,0,5,5,5,0,Att,Cen
-2024-25,Alberto Moreno Pérez,Como,32,24,1.727,0,0,0,0,4,0,Dif,
-2024-25,Matias Moreno,Fiorentina,20,4,144,0,0,0,0,0,0,Dif,
-2024-25,Tete Morente,Lecce,27,31,2.021,3,2,3,3,5,0,Att,Cen
-2024-25,Nikola Moro,Bologna,26,22,1.208,0,2,0,0,1,0,Cen,
-2024-25,Daniel Mosquera,Hellas Verona,24,35,1.375,5,1,5,5,4,0,Att,
-2024-25,Dany Mota,Monza,26,31,2.104,5,2,5,5,3,0,Att,Cen
-2024-25,Bob Murphy Omoregbe,Milan,20,1,3,0,0,0,0,0,0,Cen,
-2024-25,Yunus Musah,Milan,21,29,1.571,0,2,0,0,5,0,Cen,Att
-2024-25,Juan Musso,Atalanta,30,1,90,0,0,0,0,0,0,Por,
-2024-25,Kingstone Mutandwa,Cagliari,21,6,127,0,0,0,0,0,0,Att,Cen
-2024-25,Obite N'Dicka,Roma,24,38,3.42,0,1,0,0,2,0,Dif,
-2024-25,Konan N'dri,Lecce,23,11,306,0,0,0,0,0,0,Att,Cen
-2024-25,Michel Ndary Adopo,Cagliari,24,35,2.409,1,1,1,1,5,1,Cen,
-2024-25,Cher Ndour,Fiorentina,20,9,406,0,0,0,0,1,0,Cen,Dif
-2024-25,Dan Ndoye,Bologna,23,30,2.143,8,4,6,6,4,0,Att,
-2024-25,Victor Nelsson,Roma,25,4,187,0,0,0,0,0,0,Dif,
-2024-25,David Neres,Napoli,27,28,1.283,2,4,2,2,1,0,Att,
-2024-25,Cyril Ngonge,Napoli,24,18,216,0,0,0,0,2,0,Att,
-2024-25,Hans Nicolussi Caviglia,Venezia,24,35,2.861,4,2,4,4,7,1,Cen,
-2024-25,Oliver Nielsen,Lazio,21,2,35,0,0,0,0,1,0,Dif,
-2024-25,Eybi Nije,Torino,19,16,394,1,0,1,1,1,0,Att,Cen
-2024-25,Brooke Norton-Cuffy,Genoa,20,14,719,0,0,0,0,0,0,Dif,Att
-2024-25,Tijjani Noslin,Lazio,25,30,861,2,2,2,2,2,0,Att,Cen
-2024-25,Adam Obert,Cagliari,21,21,1.077,1,1,1,1,4,0,Dif,
-2024-25,Jens Odgaard,Bologna,25,29,1.952,6,1,6,6,1,0,Cen,Att
-2024-25,Noah Okafor,Milan,24,11,414,1,0,1,1,0,0,Att,
-2024-25,Noah Okafor,Napoli,24,4,40,0,0,0,0,0,0,Att,Cen
-2024-25,Yllan Okou,Hellas Verona,21,1,2,0,0,0,0,0,0,Dif,
-2024-25,Maduka Okoye,Udinese,24,25,2.25,0,0,0,0,1,0,Por,
-2024-25,Mathías Olivera,Napoli,26,32,2.37,0,2,0,0,4,0,Dif,
-2024-25,Jean Onana,Genoa,24,9,304,0,0,0,0,1,0,Cen,
-2024-25,Jacob Ondrejka,Parma,21,12,422,5,0,5,5,0,0,Cen,Att
-2024-25,Gaetano Oristanio,Venezia,21,37,2.315,3,3,3,3,3,0,Att,Cen
-2024-25,Riccardo Orsolini,Grazie,27,30,1.878,15,4,12,12,2,0,Att,
-2024-25,Yordan Osorio,Parma,30,3,172,0,0,0,0,0,0,Dif,
-2024-25,Sebastian Otoa,Genoa,20,3,179,0,0,0,0,1,1,Dif,
-2024-25,Remi Oudin,Lecce,27,11,299,0,0,0,0,1,0,Cen,Att
-2024-25,Cheick Oumar Conde,Venezia,24,9,151,0,0,0,0,2,0,Cen,
-2024-25,Daniel Oyegoke,Hellas Verona,21,5,103,0,0,0,0,1,0,Dif,
-2024-25,Daniele Padelli,Udinese,38,1,90,0,0,0,0,0,0,Por,
-2024-25,Simone Pafundi,Udinese,18,9,116,0,0,0,0,0,0,Cen,Dif
-2024-25,Tomás Palacios,Monza,21,8,446,0,0,0,0,2,0,Dif,
-2024-25,Tomás Palacios,Inter,21,2,11,0,0,0,0,0,0,Dif,
-2024-25,Alberto Andrea Paleari,Torino,31,1,90,0,0,0,0,0,0,Por,
-2024-25,Marco Palestra,Atalanta,19,9,222,0,0,0,0,0,0,Dif,
-2024-25,Matteo Palma,Udinese,16,1,5,0,0,0,0,0,0,Dif,
-2024-25,Leandro Paredes,Roma,30,22,1.373,3,1,1,1,4,0,Cen,
-2024-25,Fabiano Parisi,Fiorentina,23,26,1.124,2,0,2,2,3,0,Dif,Cen
-2024-25,Mario Pašalić,Atalanta,29,34,1.967,3,4,3,3,1,0,Cen,
-2024-25,Patricio Gabarrón,Lazio,31,10,607,1,0,1,1,2,0,Dif,
-2024-25,Rui Patrício,Atalanta,36,3,270,0,0,0,0,0,0,Por,
-2024-25,Benjamin Pavard,Inter,28,23,1.584,0,1,0,0,4,0,Dif,
-2024-25,Strahinja Pavlović,Milan,23,24,1.864,2,1,2,2,3,1,Dif,
-2024-25,Leonardo Pavoletti,Cagliari,35,26,445,2,0,2,2,5,0,Att,Cen
-2024-25,Martín Payero,Udinese,25,25,1.381,1,1,1,1,5,0,Cen,
-2024-25,Nicolás Paz,Como,19,35,2.687,6,8,6,6,6,0,Cen,Att
-2024-25,Marcus Pedersen,Torino,24,29,1.362,0,0,0,0,3,0,Dif,
-2024-25,Pedro Rodríguez Ledesma,Grazie,37,30,1.102,10,1,8,8,2,0,Att,Cen
-2024-25,Pietro Pellegri,Empoli,23,11,414,3,0,3,3,2,0,Att,
-2024-25,Lorenzo Pellegrini,Roma,28,25,1.626,2,1,1,1,4,0,Cen,
-2024-25,Luca Pellegrini,Lazio,25,22,1.067,0,4,0,0,5,0,Dif,
-2024-25,Mateo Pellegrino,Parma,23,13,737,3,1,3,3,2,0,Att,
-2024-25,Andy Pelmard,Lecce,24,3,129,0,0,0,0,1,0,Dif,
-2024-25,Sergiu Perciun,Torino,18,5,152,0,0,0,0,0,0,Att,Cen
-2024-25,Pedro Miguel Pereira,Monza,26,35,2.665,1,3,1,1,10,0,Dif,
-2024-25,Gastón Pereiro,Genoa,29,2,31,0,0,0,0,0,0,Cen,
-2024-25,Kike Pérez,Venezia,27,16,1.114,1,0,1,1,4,0,Cen,
-2024-25,Nehuén Pérez,Udinese,24,2,180,0,0,0,0,0,0,Dif,
-2024-25,Simone Perilli,Hellas Verona,29,2,180,0,0,0,0,0,0,Por,
-2024-25,Mattia Perin,Juventus,31,5,450,0,0,0,0,0,0,Por,
-2024-25,Máximo Perrone,Como,21,26,1.857,0,3,0,0,6,0,Cen,
-2024-25,Matteo Pessina,Monza,27,11,854,0,0,0,0,2,0,Cen,
-2024-25,Andrea Petagna,Monza,29,13,335,0,0,0,0,1,0,Att,
-2024-25,Giuseppe Pezzella,Empoli,26,35,2.878,0,3,0,0,7,0,Dif,Att
-2024-25,Roberto Piccoli,Cagliari,23,37,3.127,10,1,9,9,6,0,Att,
-2024-25,Nicholas Pierini,Venezia,25,2,83,0,0,0,0,0,0,Cen,
-2024-25,Santiago Pierotti,Lecce,23,36,1.937,4,2,4,4,6,1,Att,
-2024-25,Balthazar Pierret,Lecce,24,30,1.723,0,0,0,0,2,0,Cen,
-2024-25,Andrea Pinamonti,Genoa,25,36,2.85,10,1,10,10,4,0,Att,
-2024-25,Nicola Pintus,Cagliari,19,1,4,0,0,0,0,0,0,Dif,
-2024-25,Niccolò Pisilli,Roma,19,28,1.227,2,1,2,2,7,0,Cen,
-2024-25,Damián Pizarro,Udinese,19,2,16,0,0,0,0,0,0,Att,Cen
-2024-25,Semuel Pizzignacco,Monza,22,9,736,0,0,0,0,0,0,Por,
-2024-25,Tommaso Pobega,Bologna,25,21,1.178,2,2,2,2,6,2,Cen,
-2024-25,Joel Pohjanpalo,Venezia,29,20,1.603,6,0,3,3,1,0,Att,
-2024-25,Matteo Politano,Napoli,30,37,2.804,3,4,3,3,3,0,Att,Cen
-2024-25,Marin Pongračić,Fiorentina,26,20,1.367,0,0,0,0,3,1,Dif,
-2024-25,Stefan Posch,Bologna,27,14,714,0,0,0,0,1,0,Dif,
-2024-25,Stefan Posch,Atalanta,27,5,387,0,0,0,0,0,0,Dif,
-2024-25,Matteo Prati,Cagliari,20,12,570,0,0,0,0,1,0,Cen,
-2024-25,Ivan Provedel,Lazio,30,29,2.61,0,0,0,0,0,0,Por,
-2024-25,Diego Pugno,Juventus,18,1,7,0,0,0,0,0,0,Att,
-2024-25,Christian Pulisic,Milan,25,34,2.478,11,9,8,8,1,0,Att,Cen
-2024-25,Ionuț Andrei Radu,Venezia,27,15,1.35,0,0,0,0,1,0,Por,
-2024-25,Hamza Rafia,Lecce,25,18,1.058,0,0,0,0,4,0,Cen,
-2024-25,Antonio Raimondo,Venezia,20,9,94,0,0,0,0,0,0,Att,Dif
-2024-25,Ylber Ramadani,Lecce,28,29,1.807,1,1,1,1,4,0,Cen,
-2024-25,Luca Ranieri,Fiorentina,25,36,3.071,1,3,1,1,7,0,Dif,
-2024-25,Giacomo Raspadori,Napoli,24,26,1.103,6,1,6,6,1,0,Att,Cen
-2024-25,Federico Ravaglia,Bologna,24,12,1.056,0,0,0,0,0,0,Por,
-2024-25,Ante Rebić,Lecce,30,27,788,1,0,1,1,3,2,Att,Cen
-2024-25,Tijjani Reijnders,Milan,26,37,3.128,10,4,10,10,2,1,Cen,
-2024-25,José Manuel Reina,Como,41,12,1.034,0,0,0,0,0,1,Por,
-2024-25,Devyne Rensch,Roma,21,14,469,0,1,0,0,0,0,Dif,
-2024-25,Mateo Retegui,Atalanta,25,36,2.383,25,8,21,21,3,0,Att,
-2024-25,Samuele Ricci,Torino,22,34,2.825,1,1,1,1,8,1,Cen,
-2024-25,Amir Richardson,Fiorentina,22,27,1.099,1,1,1,1,6,0,Cen,
-2024-25,Sergi Roberto,Como,32,13,696,0,1,0,0,4,0,Cen,
-2024-25,Alessio Romagnoli,Lazio,29,32,2.672,2,0,2,2,4,2,Dif,
-2024-25,Marten de Roon,Atalanta,33,36,3.058,4,4,4,4,5,0,Cen,Dif
-2024-25,Jonas Rouhi,Juventus,20,5,210,0,0,0,0,0,0,Dif,
-2024-25,Nicolò Rovella,Lazio,22,33,2.718,0,3,0,0,13,0,Cen,
-2024-25,Amir Rrahmani,Napoli,30,38,3.406,1,3,1,1,2,0,Dif,
-2024-25,Tommaso Rubino,Fiorentina,17,1,8,0,0,0,0,0,0,Cen,
-2024-25,Matteo Ruggeri,Atalanta,22,30,1.751,0,3,0,0,2,0,Dif,
-2024-25,Stefano Sabelli,Genoa,31,34,2.058,0,2,0,0,3,0,Dif,
-2024-25,Alexis Saelemaekers,Roma,25,22,1.389,7,3,7,7,4,0,Dif,Att
-2024-25,Alexis Saelemaekers,Milan,25,1,90,0,0,0,0,0,0,Dif,Att
-2024-25,Richie Sagrado,Venezia,20,3,140,0,0,0,0,1,0,Dif,
-2024-25,Marco Sala,Como,25,8,261,0,0,0,0,3,0,Dif,
-2024-25,Marco Sala,Lecce,25,2,72,0,0,0,0,0,0,Dif,
-2024-25,Anass Salah-Eddine,Roma,22,3,152,0,1,0,0,0,0,Dif,
-2024-25,Lazar Samardzic,Atalanta,22,31,1.169,2,1,2,2,3,0,Cen,
-2024-25,Junior Sambia,Empoli,27,17,387,0,0,0,0,0,0,Dif,Att
-2024-25,Antonio Sanabria,Torino,28,26,1.318,2,1,2,2,2,0,Att,
-2024-25,Alexis Sánchez,Udinese,35,13,437,0,0,0,0,0,0,Att,
-2024-25,Nicola Sansone,Lecce,32,5,65,0,0,0,0,1,0,Cen,Att
-2024-25,Amin Sarr,Hellas Verona,23,32,1.907,4,1,4,4,1,0,Att,
-2024-25,Razvan Sava,Udinese,22,12,1.08,0,0,0,0,1,0,Por,
-2024-25,Nicolò Savona,Juventus,21,28,1.724,2,1,2,2,5,0,Dif,
-2024-25,Saba Sazonov,Torino,22,1,3,0,0,0,0,0,0,Dif,
-2024-25,Giorgio Scalvini,Atalanta,20,6,272,0,0,0,0,2,0,Dif,
-2024-25,Gianluca Scamacca,Atalanta,25,1,6,0,0,0,0,0,0,Att,
-2024-25,Joël Schingtienne,Venezia,21,16,1.122,0,0,0,0,2,0,Dif,
-2024-25,Simone Scuffet,Cagliari,28,13,1.17,0,0,0,0,0,0,Por,
-2024-25,Simone Scuffet,Napoli,28,1,90,0,0,0,0,0,0,Por,
-2024-25,Jacopo Seghetti,Empoli,19,1,90,0,0,0,0,0,0,Por,
-2024-25,Stefano Sensi,Monza,28,12,274,1,0,0,0,0,0,Cen,
-2024-25,Suat Serdar,Hellas Verona,27,22,1.376,2,1,2,2,4,1,Cen,
-2024-25,Stephan El Shaarawy,Roma,31,31,1.098,3,4,3,3,2,0,Dif,Cen
-2024-25,Alen Sherri,Cagliari,26,7,621,0,0,0,0,0,0,Por,
-2024-25,Eldor Shomurodov,Roma,29,27,1.097,4,4,4,4,1,0,Att,Cen
-2024-25,Benjamin Siegrist,Genoa,32,2,152,0,0,0,0,0,0,Por,
-2024-25,Marco Silvestri,Empoli,33,5,450,0,0,0,0,0,0,Por,
-2024-25,Giovanni Simeone,Napoli,29,30,419,1,1,1,1,1,0,Att,
-2024-25,Łukasz Skorupski,Bologna,33,27,2.364,0,0,0,0,1,0,Por,
-2024-25,Ivan Smolčić,Como,23,9,630,0,0,0,0,2,0,Dif,
-2024-25,Simon Sohm,Parma,23,37,2.989,4,0,4,4,6,0,Cen,
-2024-25,Ola Solbakken,Empoli,25,21,760,0,0,0,0,2,0,Cen,Att
-2024-25,Oumar Solet,Udinese,24,19,1.672,1,2,1,1,3,1,Dif,
-2024-25,Daniele Sommariva,Genoa,27,1,28,0,0,0,0,0,0,Por,
-2024-25,Yann Sommer,Inter,35,33,2.97,0,0,0,0,0,0,Por,
-2024-25,Borna Sosa,Torino,26,19,1.181,0,0,0,0,0,0,Dif,
-2024-25,Riccardo Sottil,Fiorentina,25,18,833,1,1,1,1,1,0,Att,Cen
-2024-25,Riccardo Sottil,Milan,25,6,123,0,0,0,0,0,0,Att,Cen
-2024-25,Matìas Soulé,Grazie,21,27,1.781,5,5,5,5,3,0,Cen,Dif
-2024-25,Leonardo Spinazzola,Napoli,31,27,1.517,1,1,1,1,1,0,Dif,Att
-2024-25,Marco Sportiello,Milan,32,2,126,0,0,0,0,0,0,Por,
-2024-25,Filip Stankovic,Venezia,22,16,1.367,0,0,0,0,1,0,Por,
-2024-25,Petar Stojanović,Empoli,28,1,3,0,0,0,0,0,0,Cen,
-2024-25,Gabriel Strefezza,Como,27,37,2.619,6,4,6,6,5,0,Att,Cen
-2024-25,Ibrahim Sulemana,Atalanta,21,9,283,2,0,2,2,1,0,Cen,
-2024-25,Tomáš Suslov,Hellas Verona,22,31,2.08,0,1,0,0,7,1,Cen,Att
-2024-25,Zion Suzuki,Parma,21,37,3.314,0,0,0,0,2,1,Por,
-2024-25,Marin Šverko,Venezia,26,16,1.117,1,0,1,1,3,0,Dif,
-2024-25,Mile Svilar,Roma,24,38,3.42,0,0,0,0,1,0,Por,
-2024-25,Michael Svoboda,Venezia,25,16,1.314,1,0,1,1,1,0,Dif,
-2024-25,Adrien Tameze,Torino,30,20,649,0,0,0,0,3,0,Cen,Dif
-2024-25,Mehdi Taremi,Inter,32,26,816,1,2,0,0,1,0,Att,
-2024-25,Nuno Tavares,Lazio,24,23,1.686,0,8,0,0,4,1,Dif,
-2024-25,Loum Tchaouna,Lazio,20,24,660,1,0,1,1,4,1,Att,Cen
-2024-25,Jackson Tchatchoua,Hellas Verona,22,36,3.167,2,3,2,2,7,1,Dif,Cen
-2024-25,Casper Tengstedt,Hellas Verona,24,25,1.517,6,1,5,5,2,0,Att,
-2024-25,Filippo Terracciano,Milan,21,13,539,0,0,0,0,3,0,Dif,Cen
-2024-25,Pietro Terracciano,Fiorentina,34,3,270,0,0,0,0,0,0,Por,
-2024-25,Florian Thauvin,Udinese,31,25,1.956,8,3,7,7,0,0,Att,Cen
-2024-25,Malick Thiaw,Milan,22,22,1.806,0,0,0,0,2,0,Dif,
-2024-25,Morten Thorsby,Genoa,28,30,1.898,0,1,0,0,6,0,Cen,Att
-2024-25,Khéphren Thuram,Juventus,23,35,2.326,4,5,4,4,5,0,Cen,
-2024-25,Marcus Thuram,Inter,26,32,2.29,14,4,14,14,1,0,Att,
-2024-25,Cheikh Tidiane Niasse,Hellas Verona,24,11,755,0,0,0,0,4,0,Cen,
-2024-25,Rafael Tolói,Atalanta,33,11,468,0,0,0,0,1,0,Dif,
-2024-25,Fikayo Tomori,Milan,26,22,1.593,0,1,0,0,4,1,Dif,
-2024-25,Luka Topalović,Inter,18,1,11,0,0,0,0,0,0,Cen,
-2024-25,Lorenzo Tosto,Empoli,18,1,1,0,0,0,0,0,0,Dif,
-2024-25,Souleymane Touré,Udinese,21,12,733,1,0,1,1,2,2,Dif,
-2024-25,Stefano Turati,Monza,22,30,2.676,0,0,0,0,1,0,Por,
-2024-25,Kacper Urbanski,Bologna,19,7,247,1,0,1,1,2,0,Cen,
-2024-25,Kacper Urbanski,Monza,19,8,500,0,0,0,0,1,0,Cen,
-2024-25,Lautaro Valenti,Parma,25,20,1.556,1,0,1,1,6,1,Dif,
-2024-25,Nicolás Valentini,Hellas Verona,23,14,1.129,0,0,0,0,5,1,Dif,
-2024-25,Emanuele Valeri,Parma,25,35,2.873,2,6,1,1,1,0,Dif,
-2024-25,Álex Valle,Como,20,15,1.03,0,0,0,0,2,0,Dif,
-2024-25,Mattia Valoti,Monza,30,5,40,0,0,0,0,1,0,Cen,
-2024-25,Ignace Van Der Brempt,Como,22,20,1.257,0,1,0,0,3,0,Dif,
-2024-25,Devis Vásquez,Empoli,26,32,2.88,0,0,0,0,2,0,Por,
-2024-25,Johan Vásquez,Genoa,25,36,3.041,3,0,3,3,9,0,Dif,
-2024-25,Matías Vecino,Lazio,32,20,877,2,3,2,2,7,0,Cen,
-2024-25,Danilo Veiga,Lecce,21,13,374,0,0,0,0,0,0,Dif,
-2024-25,Renato Veiga,Juventus,21,13,1.093,0,1,0,0,2,0,Dif,
-2024-25,Lorenzo Venturino,Genoa,18,6,167,2,0,2,2,0,0,Att,Cen
-2024-25,Simone Verdi,Como,32,9,115,0,0,0,0,1,0,Cen,Att
-2024-25,Samuele Vignato,Monza,20,17,470,0,0,0,0,0,0,Cen,
-2024-25,Nicolas Viola,Cagliari,34,27,1.267,3,1,3,3,2,0,Att,Cen
-2024-25,Mattia Viti,Empoli,22,30,2.572,1,0,1,1,3,0,Dif,
-2024-25,Vitinha,Genoa,24,25,1.328,2,3,2,2,2,0,Att,Cen
-2024-25,Dušan Vlahović,Juventus,24,29,1.784,10,4,6,6,3,0,Att,
-2024-25,Vanja Vlahović,Atalanta,20,3,60,0,0,0,0,0,0,Att,Cen
-2024-25,Nikola Vlašić,Torino,26,30,2.117,5,4,3,3,0,0,Cen,Att
-2024-25,Alessandro Vogliacco,Genoa,25,12,715,2,0,2,2,3,0,Dif,
-2024-25,Alessandro Vogliacco,Parma,25,10,772,0,0,0,0,2,0,Dif,
-2024-25,Mërgim Vojvoda,Torino,29,17,1.105,0,0,0,0,4,0,Dif,
-2024-25,Mërgim Vojvoda,Como,29,11,717,1,2,1,1,2,0,Dif,
-2024-25,Stefan de Vrij,Inter,32,26,1.726,3,0,3,3,2,0,Dif,
-2024-25,Kyle Walker,Milan,34,11,659,0,0,0,0,1,0,Dif,
-2024-25,Sebastian Walukiewicz,Torino,24,29,1.661,0,0,0,0,6,0,Dif,
-2024-25,Sebastian Walukiewicz,Empoli,24,2,180,0,0,0,0,0,0,Dif,
-2024-25,Timothy Weah,Juventus,24,30,1.638,5,2,5,5,4,0,Dif,Att
-2024-25,Mateusz Wieteska,Cagliari,27,5,184,0,0,0,0,1,0,Dif,
-2024-25,John Yeboah,Venezia,24,33,1.226,1,1,1,1,6,0,Att,Cen
-2024-25,Kenan Yıldız,Juventus,19,35,2.402,7,4,7,7,2,1,Att,Cen
-2024-25,Mattia Zaccagni,Lazio,29,34,2.686,8,6,6,6,10,0,Att,
-2024-25,Nicola Zalewski,Roma,22,12,533,0,0,0,0,0,0,Dif,Att
-2024-25,Nicola Zalewski,Inter,22,11,435,1,1,1,1,4,0,Dif,Cen
-2024-25,André-Frank Zambo Anguissa,Napoli,28,35,2.852,6,4,6,6,5,0,Cen,
-2024-25,Francesco Zampano,Venezia,30,24,1.639,1,2,1,1,5,0,Dif,
-2024-25,Nicolò Zaniolo,Fiorentina,25,9,343,0,0,0,0,2,1,Att,
-2024-25,Nicolò Zaniolo,Atalanta,25,14,356,2,2,2,2,4,0,Att,Cen
-2024-25,Alessandro Zanoli,Genoa,23,31,1.711,1,0,1,1,3,0,Att,Dif
-2024-25,Duván Zapata,Torino,33,7,587,3,0,3,3,1,0,Att,
-2024-25,Gabriele Zappa,Cagliari,24,37,3.06,2,0,2,2,4,0,Dif,
-2024-25,Davide Zappacosta,Atalanta,32,30,2.067,4,2,4,4,3,0,Dif,
-2024-25,Oier Zarraga,Udinese,25,22,896,1,0,1,1,0,0,Cen,
-2024-25,Jordan Zemura,Udinese,24,23,1.415,1,2,1,1,2,0,Dif,
-2024-25,Alessio Zerbin,Venezia,25,18,1.518,1,1,1,1,4,0,Dif,
-2024-25,Alessio Zerbin,Napoli,25,2,2,0,0,0,0,0,0,Att,Dif
-2024-25,Kevin Zeroli,Monza,19,8,395,0,1,0,0,0,0,Cen,
-2024-25,Kevin Zeroli,Milan,19,1,12,0,0,0,0,0,0,Cen,
-2024-25,Piotr Zieliński,Inter,30,26,980,2,2,0,0,0,0,Cen,
-2024-25,Nadir Zortea,Cagliari,25,35,2.713,6,2,6,6,2,0,Dif,Cen
-2024-25,Szymon Żurkowski,Empoli,26,5,106,0,0,0,0,0,0,Cen,
-2024-25,Milan Đurić,Monza,34,18,1.27,4,1,4,4,3,0,Att,
-2024-25,Milan Đurić,Parma,34,9,268,1,0,1,0,1,0,Att,
-2022-23,James Abankwah,Udinese,18,2,63,0,0,0,0,0,0,Dif,
-2022-23,Oliver Abildgaard,Hellas Verona,26,13,592,0,0,0,0,2,0,Cen,
-2022-23,Tammy Abraham,Roma,24,38,2.189,8,3,8,0,2,0,Att,
-2022-23,Christian Acella,Cremonese,20,1,15,0,0,0,0,0,0,Cen,
-2022-23,Francesco Acerbi,Inter,34,31,2.425,0,2,0,0,4,0,Dif,
-2022-23,Yacine Adli,Milan,22,6,144,0,0,0,0,1,0,Cen,Att
-2022-23,Michel Aebischer,Bologna,25,32,1.542,1,0,1,0,4,0,Att,Cen
-2022-23,Felix Afena-Gyan,Cremonese,19,23,817,0,0,0,0,4,0,Att,Cen
-2022-23,Kevin Agudelo,Spezia,23,34,2.131,0,1,0,0,5,0,Cen,Att
-2022-23,Ola Aina,Torino,25,19,876,1,1,1,0,5,0,Dif,
-2022-23,Emanuel Aiwum,Cremonese,21,23,1.653,0,0,0,0,3,0,Dif,
-2022-23,Jean-Daniel Akpa-Akpro,Empoli,29,24,1.356,1,1,1,0,9,2,Cen,Att
-2022-23,Luis Alberto Romero Alconchel,Lazio,29,35,2.442,6,7,6,1,4,0,Cen,
-2022-23,Agustín Álvarez Martínez,Sassuolo,21,22,368,1,1,1,0,1,0,Att,Cen
-2022-23,Kelvin Amian,Spezia,24,30,2.372,0,1,0,0,7,1,Dif,
-2022-23,Bruno Amione,Hellas Verona,20,1,58,0,0,0,0,1,0,Dif,
-2022-23,Bruno Amione,Sampdoria,20,26,2.086,1,1,1,0,10,1,Dif,
-2022-23,Ethan Ampadu,Spezia,21,31,2.639,0,1,0,0,10,1,Dif,Cen
-2022-23,Sofyan Amrabat,Fiorentina,25,29,1.998,0,1,0,0,11,0,Cen,
-2022-23,Felipe Anderson,Lazio,29,38,2.958,9,2,9,0,3,0,Att,
-2022-23,Janis Antiste,Sassuolo,19,2,52,1,0,1,0,0,0,Att,
-2022-23,Marcos Antônio,Lazio,22,16,594,1,1,1,0,2,0,Cen,
-2022-23,Valentin Antov,Monza,21,9,306,0,0,0,0,2,0,Dif,
-2022-23,Marko Arnautović,Bologna,33,21,1.53,10,0,10,3,5,0,Att,
-2022-23,Tolgay Arslan,Udinese,31,36,1.211,1,0,1,0,3,0,Cen,
-2022-23,Santiago Ascacibar,Cremonese,25,13,727,0,0,0,0,1,0,Cen,
-2022-23,Kristoffer Askildsen,Lecce,21,21,728,0,0,0,0,3,0,Cen,
-2022-23,Kristjan Asllani,Inter,20,20,592,0,0,0,0,2,0,Cen,
-2022-23,Emil Audero,Sampdoria,25,25,2.25,0,0,0,0,1,0,Por,
-2022-23,Tommaso Augello,Sampdoria,27,37,3.061,2,5,2,0,3,0,Dif,
-2022-23,Carlos Augusto,Monza,23,35,3.083,6,5,6,0,4,0,Dif,
-2022-23,Kaan Ayhan,Sassuolo,27,10,545,0,0,0,0,1,0,Dif,
-2022-23,Jaime Báez,Cremonese,27,2,96,0,0,0,0,0,0,Dif,
-2022-23,Nedim Bajrami,Empoli,23,19,940,1,1,1,0,1,0,Cen,Att
-2022-23,Nedim Bajrami,Sassuolo,23,18,819,1,0,1,0,0,0,Att,Cen
-2022-23,Tiémoué Bakayoko,Milan,27,3,41,0,0,0,0,0,0,Cen,
-2022-23,Tommaso Baldanzi,Empoli,19,26,1.772,4,0,4,0,2,0,Cen,
-2022-23,Fodé Ballo-Touré,Milan,25,10,523,1,0,1,0,0,0,Dif,
-2022-23,Lameck Banda,Lecce,21,36,1.636,2,1,2,0,6,0,Att,Cen
-2022-23,Filippo Bandinelli,Empoli,27,35,2.263,2,0,2,0,10,0,Cen,
-2022-23,Antonín Barák,Hellas Verona,27,1,25,0,0,0,0,0,0,Cen,
-2022-23,Antonín Barák,Fiorentina,27,30,1.799,2,0,2,0,4,0,Cen,
-2022-23,Andrea Barberis,Monza,28,9,338,0,1,0,0,0,0,Cen,
-2022-23,Tommaso Barbieri,Juventus,19,3,109,0,0,0,0,0,0,Dif,
-2022-23,Francesco Bardi,Bologna,30,1,90,0,0,0,0,0,0,Por,
-2022-23,Nicolò Barella,Inter,25,35,2.613,6,6,6,0,6,0,Cen,
-2022-23,Enzo Barrenechea,Juventus,21,3,158,0,0,0,0,0,0,Cen,
-2022-23,Musa Barrow,Bologna,23,32,1.96,3,8,3,0,3,0,Att,Cen
-2022-23,Federico Baschirotto,Lecce,25,37,3.33,3,0,3,0,6,0,Dif,
-2022-23,Toma Bašić,Lazio,25,25,513,1,0,1,0,2,0,Cen,
-2022-23,Alberto Basso,Cremonese,18,1,16,0,0,0,0,0,0,Cen,
-2022-23,Alessandro Bastoni,Inter,23,29,2.157,0,2,0,0,3,0,Dif,
-2022-23,Simone Bastoni,Spezia,25,19,1.189,2,4,2,0,7,0,Cen,Dif
-2022-23,Brian Bayeye,Torino,22,2,64,0,0,0,0,0,0,Dif,
-2022-23,Rodrigo Becão,Udinese,26,28,2.484,2,1,2,0,11,1,Dif,
-2022-23,Julius Beck,Spezia,17,1,10,0,0,0,0,0,0,Cen,
-2022-23,Raoul Bellanova,Inter,22,18,496,0,0,0,0,0,0,Dif,
-2022-23,Andrea Belotti,Roma,28,31,1.146,0,2,0,0,0,0,Att,
-2022-23,Marco Benassi,Fiorentina,27,2,93,0,0,0,0,0,0,Dif,
-2022-23,Marco Benassi,Cremonese,27,15,998,0,0,0,0,1,0,Cen,
-2022-23,Ismaël Bennacer,Milan,24,28,2.007,2,2,2,0,5,0,Cen,
-2022-23,Domenico Berardi,Sassuolo,27,26,1.866,12,7,12,7,7,0,Att,
-2022-23,Bartosz Bereszyński,Sampdoria,30,15,1.198,0,0,0,0,1,0,Dif,
-2022-23,Bartosz Bereszyński,Napoli,30,3,166,0,1,0,0,1,0,Dif,
-2022-23,Marco Bertini,Lazio,19,1,1,0,0,0,0,0,0,Cen,
-2022-23,Beto,Udinese,24,33,2.129,10,1,10,1,2,0,Att,
-2022-23,Matteo Bianchetti,Cremonese,29,25,2.132,1,0,1,0,5,0,Dif,
-2022-23,Alessandro Bianco,Fiorentina,19,7,153,0,0,0,0,1,0,Cen,
-2022-23,Jaka Bijol,Udinese,23,32,2.728,3,2,3,0,10,0,Dif,
-2022-23,Cristiano Biraghi,Fiorentina,29,33,2.551,2,4,2,0,1,0,Dif,
-2022-23,Samuele Birindelli,Monza,23,31,1.4,0,1,0,0,8,0,Dif,
-2022-23,Kristijan Bistrović,Lecce,24,11,461,0,0,0,0,0,0,Cen,
-2022-23,Alexis Blin,Lecce,25,35,2.376,1,0,1,0,8,0,Cen,
-2022-23,Jeremie Boga,Atalanta,25,23,782,2,5,2,0,0,0,Cen,Att
-2022-23,Emil Bohinen,Salernitana,23,24,832,0,0,0,0,0,0,Cen,
-2022-23,Giacomo Bonaventura,Fiorentina,32,30,1.911,5,1,5,0,4,1,Cen,
-2022-23,Federico Bonazzoli,Salernitana,25,24,1.119,2,1,2,0,1,0,Att,Cen
-2022-23,Warren Bondo,Monza,18,4,60,0,0,0,0,1,0,Cen,
-2022-23,Kevin Bonifazi,Bologna,26,13,902,0,0,0,0,2,0,Dif,
-2022-23,Leonardo Bonucci,Juventus,35,16,879,1,0,1,0,2,0,Dif,
-2022-23,Erik Botheim,Salernitana,22,28,866,1,3,1,0,2,0,Cen,Att
-2022-23,Mehdi Bourabia,Spezia,30,37,2.771,1,3,1,0,3,0,Cen,
-2022-23,Edoardo Bove,Roma,20,22,992,1,0,1,0,2,0,Cen,
-2022-23,Jayden Braaf,Hellas Verona,19,6,288,0,0,0,0,1,0,Cen,Att
-2022-23,Domagoj Bradarić,Salernitana,22,31,2.25,0,3,0,0,5,0,Dif,
-2022-23,Josip Brekalo,Fiorentina,24,6,229,0,0,0,0,1,0,Att,Cen
-2022-23,Gleison Bremer,Juventus,25,30,2.634,4,1,4,0,6,0,Dif,
-2022-23,Dylan Bronn,Salernitana,27,24,1.683,0,0,0,0,5,1,Dif,
-2022-23,Marcelo Brozović,Inter,29,28,1.77,3,5,3,0,8,0,Cen,
-2022-23,Cristian Buonaiuto,Cremonese,29,29,980,1,0,1,1,3,0,Cen,Att
-2022-23,Alessandro Buongiorno,Torino,23,34,2.721,1,2,1,0,8,0,Dif,
-2022-23,Leonardo Buta,Udinese,20,2,16,0,0,0,0,0,0,Dif,
-2022-23,Arthur Cabral,Fiorentina,24,28,1.432,8,1,8,2,4,0,Att,
-2022-23,Liberato Cacace,Empoli,21,12,587,0,0,0,0,1,0,Dif,
-2022-23,Davide Calabria,Milan,25,25,1.69,1,4,1,0,6,0,Dif,
-2022-23,Mattia Caldara,Spezia,28,20,1.253,0,0,0,0,6,0,Dif,
-2022-23,Luca Caldirola,Monza,31,31,2.353,2,0,2,0,6,0,Dif,
-2022-23,Hakan Çalhanoğlu,Inter,28,33,2.363,3,6,3,1,3,0,Cen,
-2022-23,Mohamed Camara,Roma,25,15,696,0,0,0,0,3,0,Cen,
-2022-23,Nicolò Cambiaghi,Empoli,21,28,1.285,6,1,6,0,5,1,Att,Cen
-2022-23,Andrea Cambiaso,Bologna,22,32,2.17,0,3,0,0,2,0,Dif,
-2022-23,Matteo Cancellieri,Lazio,20,20,256,0,0,0,0,4,0,Att,
-2022-23,Antonio Candreva,Salernitana,35,35,2.726,7,4,7,0,3,1,Cen,Dif
-2022-23,Gianluca Caprari,Monza,29,37,2.441,5,2,5,1,7,0,Cen,Att
-2022-23,Francesco Caputo,Sampdoria,34,15,1.094,1,0,1,0,0,0,Att,
-2022-23,Francesco Caputo,Empoli,34,21,1.708,5,4,5,2,1,0,Att,
-2022-23,Andrea Carboni,Monza,21,4,167,0,0,0,0,0,0,Dif,
-2022-23,Franco Carboni,Monza,19,3,66,0,0,0,0,0,0,Dif,Att
-2022-23,Valentin Carboni,Inter,17,5,25,0,0,0,0,0,0,Cen,Dif
-2022-23,Marco Carnesecchi,Cremonese,22,27,2.43,0,1,0,0,1,0,Por,
-2022-23,Nicolò Casale,Lazio,24,29,2.437,1,1,1,0,6,0,Dif,
-2022-23,Tommaso Cassandro,Lecce,22,1,13,0,0,0,0,0,0,Dif,
-2022-23,Michele Castagnetti,Cremonese,32,27,1.412,0,1,0,0,2,0,Cen,
-2022-23,Gaetano Castrovilli,Fiorentina,25,15,718,2,1,2,0,3,0,Cen,
-2022-23,Danilo Cataldi,Lazio,27,29,1.921,0,1,0,0,5,0,Cen,
-2022-23,Pietro Ceccaroni,Lecce,26,2,43,0,0,0,0,0,0,Dif,
-2022-23,Federico Ceccherini,Hellas Verona,30,22,1.417,2,0,2,0,9,1,Dif,
-2022-23,Assan Ceesay,Lecce,28,34,1.812,6,0,6,1,2,0,Att,
-2022-23,Emil Ceide,Sassuolo,20,19,515,0,1,0,0,0,0,Att,
-2022-23,Zeki Çelik,Roma,25,24,1.504,0,1,0,0,7,1,Dif,
-2022-23,Michele Cerofolini,Fiorentina,23,5,450,0,0,0,0,0,0,Por,
-2022-23,Federico Chiesa,Juventus,24,21,852,2,5,2,0,2,0,Dif,Cen
-2022-23,Vlad Chiricheș,Cremonese,32,16,983,0,0,0,0,2,0,Dif,
-2022-23,Daniel Ciofani,Cremonese,37,32,1.06,8,0,8,3,1,0,Att,
-2022-23,Tio Cipot,Spezia,19,8,139,0,0,0,0,0,0,Att,Cen
-2022-23,Patrick Ciurria,Monza,27,36,2.753,6,5,6,0,4,0,Dif,Cen
-2022-23,Nicolò Cocetta,Udinese,18,1,32,0,0,0,0,0,0,Dif,
-2022-23,Omar Colley,Sampdoria,29,16,1.384,1,0,1,0,5,0,Dif,
-2022-23,Lorenzo Colombo,Lecce,20,33,1.515,5,2,5,1,4,0,Att,
-2022-23,Andrea Colpani,Monza,23,27,948,4,1,4,0,1,0,Cen,
-2022-23,Andrea Consigli,Sassuolo,35,35,3.15,0,0,0,0,0,0,Por,
-2022-23,Andrea Conti,Sampdoria,28,1,23,0,0,0,0,0,0,Dif,
-2022-23,Diego Coppola,Hellas Verona,18,19,1.177,0,0,0,0,5,0,Dif,
-2022-23,Alex Cordaz,Inter,39,1,26,0,0,0,0,0,0,Por,
-2022-23,Joaquín Correa,Inter,27,26,950,3,1,3,0,1,0,Att,
-2022-23,Alessandro Cortinovis,Hellas Verona,21,1,6,0,0,0,0,0,0,Cen,
-2022-23,Lassana Coulibaly,Salernitana,26,35,2.892,3,3,3,0,12,0,Cen,
-2022-23,Alessio Cragno,Monza,28,1,90,0,0,0,0,0,0,Por,
-2022-23,Bryan Cristante,Roma,27,36,2.938,1,1,1,0,8,1,Cen,Dif
-2022-23,Domen Črnigoj,Salernitana,26,7,296,0,0,0,0,1,0,Cen,
-2022-23,Juan Cuadrado,Juventus,34,31,2.078,1,3,1,0,6,1,Dif,Att
-2022-23,Mickaël Cuisance,Sampdoria,22,12,618,0,0,0,0,1,0,Cen,
-2022-23,Marco D'Alessandro,Monza,31,8,290,0,0,0,0,2,0,Dif,Att
-2022-23,Danilo D'Ambrosio,Inter,33,15,733,0,2,0,0,3,1,Dif,
-2022-23,Luca D'Andrea,Sassuolo,17,5,316,0,1,0,0,0,0,Att,
-2022-23,Flavius Daniliuc,Salernitana,21,27,2.195,0,2,0,0,9,0,Dif,
-2022-23,Danilo Luiz da Silva,Juventus,31,37,3.184,3,3,3,0,5,0,Dif,
-2022-23,Matteo Darmian,Inter,32,31,2.025,1,2,1,0,3,0,Dif,
-2022-23,Juan David Cabal,Hellas Verona,21,11,444,0,0,0,0,3,0,Dif,
-2022-23,Paweł Dawidowicz,Hellas Verona,27,23,1.632,1,1,1,0,6,1,Dif,
-2022-23,Charles De Ketelaere,Milan,21,32,1.116,0,1,0,0,2,0,Cen,Att
-2022-23,Manuel De Luca,Sampdoria,24,2,44,0,0,0,0,0,0,Att,Cen
-2022-23,Tommaso De Nipoti,Atalanta,19,1,4,0,0,0,0,0,0,Cen,
-2022-23,Mattia De Sciglio,Juventus,29,17,1.042,0,0,0,0,0,0,Dif,
-2022-23,Lorenzo De Silvestri,Bologna,34,15,672,1,0,1,0,1,0,Dif,
-2022-23,Koni De Winter,Empoli,20,14,1.024,0,0,0,0,3,0,Dif,
-2022-23,Grégoire Defrel,Sassuolo,31,27,1.167,2,1,2,0,3,0,Att,
-2022-23,Duccio Degl'Innocenti,Empoli,19,1,3,0,0,0,0,0,0,Cen,
-2022-23,Merih Demiral,Atalanta,24,28,1.536,1,0,1,0,5,0,Dif,
-2022-23,Diego Demme,Napoli,30,7,146,0,0,0,0,0,0,Cen,
-2022-23,Fabio Depaoli,Hellas Verona,25,31,2.173,2,2,2,0,7,0,Dif,
-2022-23,Fabio Depaoli,Sampdoria,25,3,136,0,0,0,0,1,0,Dif,Cen
-2022-23,Kastriot Dermaku,Lecce,30,1,34,0,0,0,0,0,0,Dif,
-2022-23,Cyriel Dessers,Cremonese,27,26,1.587,6,1,6,0,3,0,Att,
-2022-23,Sergiño Dest,Milan,21,8,329,0,0,0,0,0,0,Dif,
-2022-23,Mattia Destro,Empoli,31,17,572,1,0,1,0,3,0,Att,Cen
-2022-23,Gerard Deulofeu,Udinese,28,16,1.211,2,6,2,0,1,0,Att,
-2022-23,Samuel Di Carmine,Cremonese,33,2,28,0,0,0,0,0,0,Att,Cen
-2022-23,Federico Di Francesco,Lecce,28,36,2.031,2,2,2,0,5,0,Att,Cen
-2022-23,Michele Di Gregorio,Monza,25,37,3.33,0,1,0,0,0,0,Por,
-2022-23,Giovanni Di Lorenzo,Napoli,28,37,3.257,3,4,3,0,2,0,Dif,
-2022-23,Ángel Di María,Juventus,34,26,1.363,4,4,4,1,1,1,Att,Cen
-2022-23,Boulaye Dia,Salernitana,25,33,2.518,16,6,16,1,4,0,Att,Cen
-2022-23,Brahim Díaz,Milan,22,33,1.925,6,7,6,0,3,0,Cen,Att
-2022-23,Federico Dimarco,Inter,24,33,2.069,4,3,4,0,0,0,Dif,
-2022-23,Koffi Djidji,Torino,29,34,2.424,1,0,1,0,3,0,Dif,
-2022-23,Berat Djimsiti,Atalanta,29,24,1.797,0,1,0,0,3,0,Dif,
-2022-23,Domilson Cordeiro dos Santos,Fiorentina,23,33,2.331,1,3,1,0,5,1,Dif,
-2022-23,Josh Doig,Hellas Verona,20,22,1.354,2,3,2,0,1,0,Dif,
-2022-23,Nicolás Domínguez,Bologna,24,31,2.3,3,2,3,0,10,0,Cen,
-2022-23,Giulio Donati,Monza,32,8,422,1,0,1,0,4,2,Dif,
-2022-23,Bartłomiej Drągowski,Spezia,24,34,2.946,0,1,0,0,1,0,Por,
-2022-23,Ondrej Duda,Hellas Verona,27,15,1.061,0,0,0,0,4,0,Cen,
-2022-23,Denzel Dumfries,Inter,26,34,2.218,1,4,1,0,4,0,Dif,
-2022-23,Alfred Duncan,Fiorentina,29,25,1.103,1,0,1,0,3,0,Cen,
-2022-23,Paulo Dybala,Roma,28,25,1.739,12,6,12,5,5,0,Cen,Att
-2022-23,Edin Džeko,Inter,36,33,1.732,9,3,9,0,3,0,Att,
-2022-23,Festy Ebosele,Udinese,19,17,411,0,1,0,0,4,0,Dif,
-2022-23,Enzo Ebosse,Udinese,23,20,930,0,0,0,0,3,0,Dif,
-2022-23,Tyronne Ebuehi,Empoli,26,26,1.923,2,4,2,0,0,0,Dif,
-2022-23,Éderson,Atalanta,23,35,2.215,1,1,1,0,4,0,Cen,
-2022-23,Kingsley Ehizibue,Udinese,27,27,1.535,2,0,2,0,7,0,Dif,
-2022-23,Albin Ekdal,Spezia,33,31,1.734,0,2,0,0,6,1,Cen,
-2022-23,Emmanuel Ekong,Empoli,20,2,20,0,0,0,0,0,0,Att,Cen
-2022-23,Mikael Ellertsson,Spezia,20,11,171,0,0,0,0,3,0,Cen,Dif
-2022-23,Elif Elmas,Napoli,22,36,1.627,6,3,6,1,5,0,Att,Cen
-2022-23,Martin Erlic,Sassuolo,24,28,2.33,0,0,0,0,2,0,Dif,
-2022-23,Gonzalo Escalante,Cremonese,29,9,555,0,1,0,0,0,1,Cen,
-2022-23,Salvatore Esposito,Spezia,21,15,971,1,0,1,0,5,1,Cen,
-2022-23,Nicolò Fagioli,Juventus,21,26,1.52,3,3,3,0,3,0,Cen,
-2022-23,Wladimiro Falcone,Lecce,27,38,3.42,0,0,0,0,2,0,Por,
-2022-23,Davide Faraoni,Hellas Verona,30,23,1.485,2,3,2,0,7,0,Dif,
-2022-23,Federico Fazio,Salernitana,35,14,1.074,1,0,1,0,2,1,Dif,
-2022-23,Jacopo Fazzini,Empoli,19,21,825,0,0,0,0,4,0,Cen,
-2022-23,Lewis Ferguson,Bologna,22,32,2.314,7,0,7,0,4,0,Cen,Att
-2022-23,Alex Ferrari,Sampdoria,28,12,868,0,0,0,0,3,0,Dif,
-2022-23,Alex Ferrari,Cremonese,28,16,1.007,0,0,0,0,3,0,Dif,
-2022-23,Salvador Ferrer,Spezia,24,5,136,0,0,0,0,0,0,Dif,
-2022-23,Vincenzo Fiorillo,Salernitana,32,1,90,0,0,0,0,0,0,Por,
-2022-23,Alessandro Florenzi,Milan,31,6,203,0,0,0,0,1,0,Dif,
-2022-23,Davide Frattesi,Sassuolo,22,36,2.873,7,0,7,0,4,0,Cen,
-2022-23,Matteo Gabbia,Milan,22,12,613,0,0,0,0,2,0,Dif,
-2022-23,Manolo Gabbiadini,Sampdoria,30,35,2.354,7,2,7,0,6,0,Att,Cen
-2022-23,Gianluca Gaetano,Napoli,22,8,76,1,1,1,0,0,0,Cen,
-2022-23,Roberto Gagliardini,Inter,28,19,783,0,0,0,0,5,1,Cen,
-2022-23,Adolfo Gaich,Hellas Verona,23,16,726,2,0,2,0,2,0,Att,
-2022-23,Pablo Galdames Millán,Cremonese,25,13,734,1,2,1,0,2,0,Cen,
-2022-23,Antonino Gallo,Lecce,22,32,2.486,0,1,0,0,5,1,Dif,
-2022-23,Federico Gatti,Juventus,24,18,1.448,0,0,0,0,4,0,Dif,
-2022-23,Valentin Gendrey,Lecce,22,37,3.101,0,2,0,0,4,0,Dif,
-2022-23,Paolo Ghiglione,Cremonese,25,15,711,1,1,1,0,4,0,Dif,
-2022-23,Mario Gila,Lazio,21,4,90,0,0,0,0,0,0,Dif,
-2022-23,Gvidas Gineitis,Torino,18,3,136,0,0,0,0,2,0,Cen,
-2022-23,Olivier Giroud,Milan,35,33,2.139,13,5,13,3,8,1,Att,
-2022-23,Pierluigi Gollini,Fiorentina,27,3,270,0,0,0,0,0,0,Por,
-2022-23,Pierluigi Gollini,Napoli,27,4,360,0,0,0,0,0,0,Por,
-2022-23,Joan Gonzàlez,Lecce,20,35,2.197,1,3,1,0,8,0,Cen,
-2022-23,Nicolás González,Fiorentina,24,24,1.354,6,1,6,2,3,0,Att,Cen
-2022-23,Robin Gosens,Inter,28,32,1.184,3,0,3,0,2,0,Dif,
-2022-23,Alberto Grassi,Empoli,27,25,1.194,0,0,0,0,3,0,Cen,
-2022-23,Andrew Gravillon,Torino,24,7,312,0,0,0,0,2,0,Dif,
-2022-23,Axel Guessand,Udinese,17,1,79,0,0,0,0,0,0,Dif,
-2022-23,Koray Günter,Hellas Verona,27,13,1.003,1,0,1,0,3,0,Dif,
-2022-23,Koray Günter,Sampdoria,27,10,776,0,0,0,0,2,0,Dif,
-2022-23,Emmanuel Gyasi,Spezia,28,35,2.81,2,0,2,0,10,0,Att,Dif
-2022-23,Norbert Gyömbér,Salernitana,30,27,1.74,0,1,0,0,5,0,Dif,
-2022-23,Christian Gytkjær,Monza,32,22,559,1,0,1,0,0,0,Att,Cen
-2022-23,Nicolas Haas,Empoli,26,24,1.156,1,1,1,0,2,0,Cen,
-2022-23,Samir Handanovič,Inter,38,14,1.234,0,0,0,0,0,0,Por,
-2022-23,Abdou Harroui,Sassuolo,24,23,647,2,0,2,0,2,0,Cen,
-2022-23,Hans Hateboer,Atalanta,28,17,1.397,1,1,1,0,7,0,Dif,
-2022-23,Liam Henderson,Empoli,26,25,1.007,0,1,0,0,9,0,Cen,
-2022-23,Jack Hendry,Cremonese,27,4,220,0,0,0,0,1,0,Dif,
-2022-23,Matheus Henrique,Sassuolo,24,30,1.947,4,1,4,0,4,0,Cen,
-2022-23,Thomas Henry,Hellas Verona,27,16,1.03,2,0,2,0,4,0,Att,
-2022-23,Theo Hernández,Milan,24,32,2.771,4,3,4,1,7,0,Dif,
-2022-23,Isak Hien,Hellas Verona,23,32,2.607,0,0,0,0,9,0,Dif,
-2022-23,Morten Hjulmand,Lecce,23,35,2.962,0,4,0,0,9,1,Cen,
-2022-23,Emil Holm,Spezia,22,20,1.393,1,1,1,0,4,0,Dif,
-2022-23,Martin Hongla,Hellas Verona,24,9,523,0,0,0,0,4,0,Cen,
-2022-23,Petko Hristov,Spezia,23,9,365,0,0,0,0,0,0,Dif,
-2022-23,Ajdin Hrustic,Hellas Verona,26,6,226,0,0,0,0,0,0,Cen,
-2022-23,Elseid Hisaj,Lazio,28,34,1.998,1,1,1,0,3,0,Dif,
-2022-23,Rasmus Højlund,Atalanta,19,32,1.834,9,2,9,0,1,0,Att,
-2022-23,Roger Ibanez,Roma,23,33,2.796,3,0,3,0,11,1,Dif,
-2022-23,Zlatan Ibrahimović,Milan,40,4,146,1,0,1,1,0,0,Att,
-2022-23,Antonio Iervolino,Salernitana,19,1,5,0,0,0,0,0,0,Cen,
-2022-23,Igor,Fiorentina,24,27,2.057,0,0,0,0,10,1,Dif,
-2022-23,Jonathan Ikone,Fiorentina,24,33,2.007,4,4,4,0,4,0,Att,
-2022-23,Ivan Ilić,Hellas Verona,21,11,851,0,1,0,0,1,0,Cen,
-2022-23,Ivan Ilić,Torino,21,14,1.177,2,2,2,0,3,0,Cen,
-2022-23,Samuel Iling-Junior,Juventus,18,12,318,1,1,1,0,1,0,Dif,Att
-2022-23,Emirhan İlkhan,Torino,18,4,87,0,0,0,0,1,0,Cen,
-2022-23,Emirhan İlkhan,Sampdoria,18,8,113,0,0,0,0,0,0,Cen,
-2022-23,Ciro Immobile,Lazio,32,31,2.219,12,5,12,4,3,0,Att,
-2022-23,Ardian Ismajli,Empoli,25,25,2.094,0,0,0,0,3,0,Dif,
-2022-23,Mihailo Ivanović,Sampdoria,17,1,4,0,0,0,0,0,0,Att,
-2022-23,Armando Izzo,Monza,30,30,2.466,1,0,1,0,10,0,Dif,
-2022-23,Mato Jajalo,Udinese,34,3,63,0,0,0,0,0,0,Cen,
-2022-23,Jesé,Sampdoria,29,11,210,1,1,1,0,0,0,Att,
-2022-23,Juan Guilherme Nunes Jesus,Napoli,31,15,933,1,0,1,0,2,0,Dif,
-2022-23,Þórir Jóhann Helgason,Lecce,21,12,222,0,0,0,0,0,0,Cen,
-2022-23,Luka Jović,Fiorentina,24,31,1.534,6,3,6,0,3,0,Att,Cen
-2022-23,Hamed Junior Traorè,Sassuolo,22,11,591,0,3,0,0,1,0,Cen,Att
-2022-23,Yayah Kallon,Hellas Verona,21,22,860,1,1,1,0,1,0,Cen,Att
-2022-23,Pierre Kalulu,Milan,22,34,2.548,1,0,1,0,4,0,Dif,
-2022-23,Yann Karamoh,Torino,24,21,716,4,0,4,0,2,0,Cen,Att
-2022-23,Rick Karsdorp,Roma,27,13,711,0,0,0,0,0,0,Dif,
-2022-23,Denso Kasius,Bologna,19,7,342,0,2,0,0,1,0,Dif,
-2022-23,Grigoris Kastanos,Salernitana,24,28,1.286,2,1,2,0,4,0,Cen,Dif
-2022-23,Moise Kean,Juventus,22,28,995,6,0,6,0,5,1,Att,
-2022-23,Jakub Kiwior,Spezia,22,17,1.443,0,0,0,0,3,0,Dif,
-2022-23,Simon Kjær,Milan,33,17,1.007,0,0,0,0,4,0,Dif,
-2022-23,Teun Koopmeiners,Atalanta,24,33,2.858,10,4,10,2,7,0,Cen,
-2022-23,Filip Kostić,Juventus,29,37,2.564,3,8,3,0,3,0,Dif,Att
-2022-23,Christian Kouamé,Fiorentina,24,28,1.866,4,4,4,0,5,0,Att,
-2022-23,Viktor Kovalenko,Spezia,26,18,548,0,0,0,0,1,0,Cen,
-2022-23,Julian Kristoffersen,Salernitana,25,1,18,0,0,0,0,0,0,Att,
-2022-23,Raimonds Krollis,Spezia,20,4,36,0,0,0,0,0,0,Att,Dif
-2022-23,Rade Krunić,Milan,28,23,1.657,0,1,0,0,8,0,Cen,
-2022-23,Marash Kumbulla,Roma,22,7,259,0,0,0,0,1,1,Dif,
-2022-23,Khvicha Kvaratskhelia,Napoli,21,34,2.518,12,10,12,2,1,0,Att,
-2022-23,Giorgos Kyriakopoulos,Bologna,26,12,704,0,2,0,0,2,0,Dif,Att
-2022-23,Giorgos Kyriakopoulos,Sassuolo,26,12,766,1,1,1,0,3,0,Att,Dif
-2022-23,Sam Lammers,Sampdoria,25,19,1.1,1,1,1,0,1,0,Att,
-2022-23,Sam Lammers,Empoli,25,14,883,1,1,1,0,0,0,Att,
-2022-23,Kevin Lasagna,Hellas Verona,29,26,1.572,1,2,1,0,2,0,Att,Cen
-2022-23,Armand Lauriente,Sassuolo,23,28,2.175,7,6,7,1,10,1,Att,
-2022-23,Valentino Lazaro,Torino,26,23,1.373,0,3,0,0,4,0,Dif,
-2022-23,Marko Lazetić,Milan,18,1,9,0,0,0,0,1,0,Att,
-2022-23,Darko Lazović,Hellas Verona,31,30,2.242,4,5,4,0,0,0,Cen,Dif
-2022-23,Manuel Lazzari,Lazio,28,28,1.879,0,0,0,0,8,0,Dif,
-2022-23,Rafael Leão,Milan,23,35,2.421,15,8,15,0,7,1,Att,Cen
-2022-23,Mehdi Léris,Sampdoria,24,32,2.46,1,1,1,0,13,0,Cen,Dif
-2022-23,Karol Linetty,Torino,27,32,1.886,1,0,1,0,8,0,Cen,
-2022-23,Marcin Listkowski,Lecce,24,5,77,0,0,0,0,0,0,Cen,Att
-2022-23,Diego Llorente,Roma,28,9,573,0,0,0,0,0,0,Dif,
-2022-23,Stanislav Lobotka,Napoli,27,38,3.101,1,1,1,0,2,0,Cen,
-2022-23,Manuel Locatelli,Juventus,24,32,2.446,0,2,0,0,8,0,Cen,
-2022-23,Luka Lochoshvili,Cremonese,24,25,1.839,1,2,1,0,4,0,Dif,
-2022-23,Ademola Lookman,Atalanta,24,31,1.729,13,6,13,3,3,0,Att,Cen
-2022-23,Maxime Lopez,Sassuolo,24,30,2.296,0,0,0,0,11,0,Cen,
-2022-23,Matteo Lovato,Salernitana,22,17,814,0,0,0,0,2,0,Dif,
-2022-23,Sandi Lovric,Udinese,24,37,2.335,5,6,5,0,4,0,Cen,
-2022-23,Hirving Lozano,Napoli,27,32,1.605,3,3,3,1,3,0,Att,
-2022-23,Jhon Lucumí,Bologna,24,33,2.9,0,1,0,0,8,0,Dif,
-2022-23,José Luis Palomino,Atalanta,32,15,759,1,0,1,0,4,0,Dif,
-2022-23,Romelu Lukaku,Inter,29,25,1.66,10,6,10,2,1,0,Att,
-2022-23,Saša Lukić,Torino,25,16,1.195,2,0,2,1,4,0,Cen,
-2022-23,Sebastiano Luperto,Empoli,25,36,3.135,2,0,2,0,4,2,Dif,
-2022-23,Charalampos Lykogiannīs,Bologna,28,21,1.108,2,0,2,0,3,0,Dif,
-2022-23,Giulio Maggiore,Salernitana,24,16,894,0,0,0,0,2,0,Cen,
-2022-23,Giangiacomo Magnani,Hellas Verona,26,24,1.532,0,1,0,0,7,1,Dif,
-2022-23,Mike Maignan,Milan,27,22,1.978,0,1,0,0,0,0,Por,
-2022-23,Jordan Majchrzak,Roma,17,1,14,0,0,0,0,0,0,Att,
-2022-23,Jean-Victor Makengo,Udinese,24,16,805,0,1,0,0,2,0,Cen,
-2022-23,Lorenzo Malagrida,Sampdoria,18,6,109,0,0,0,0,2,0,Cen,Dif
-2022-23,Daniel Maldini,Spezia,20,18,628,2,0,2,0,1,0,Att,Cen
-2022-23,Youssef Maleh,Fiorentina,23,7,297,0,0,0,0,2,0,Cen,
-2022-23,Youssef Maleh,Lecce,23,17,674,0,1,0,0,3,0,Cen,
-2022-23,Ruslan Malinovs'kyj,Atalanta,29,15,553,1,2,1,0,2,0,Cen,Att
-2022-23,Gianluca Mancini,Roma,26,35,2.858,1,2,1,0,7,0,Dif,
-2022-23,Rolando Mandragora,Fiorentina,25,29,1.95,2,4,2,0,8,0,Cen,
-2022-23,Federico Marchetti,Spezia,39,1,66,0,0,0,0,0,1,Por,
-2022-23,Riccardo Marchizza,Sassuolo,24,10,283,0,1,0,0,1,0,Dif,
-2022-23,Gian Marco Ferrari,Sassuolo,30,33,2.223,1,0,1,0,5,0,Dif,
-2022-23,Pablo Marí,Monza,28,30,2.487,1,0,1,0,4,0,Dif,
-2022-23,Răzvan Marin,Empoli,26,33,2.538,2,4,2,0,7,0,Cen,
-2022-23,Marlon Santos da Silva Barbosa,Monza,26,28,1.592,0,0,0,0,7,1,Dif,
-2022-23,Luca Marrone,Monza,32,2,135,0,0,0,0,0,0,Dif,
-2022-23,Lautaro Martínez,Inter,24,38,2.576,21,6,21,1,3,0,Att,
-2022-23,Lucas Martínez Quarta,Fiorentina,26,27,2.171,1,1,1,0,6,0,Dif,
-2022-23,Adam Marušić,Lazio,29,33,2.76,0,2,0,0,8,1,Dif,
-2022-23,Adam Masina,Udinese,28,14,789,2,0,2,0,2,0,Dif,
-2022-23,Nemanja Matić,Roma,33,35,1.852,2,2,2,0,5,0,Cen,
-2022-23,Luís Maximiano,Lazio,23,1,5,0,0,0,0,0,1,Por,
-2022-23,Pasquale Mazzocchi,Salernitana,27,27,1.958,2,3,2,0,2,0,Dif,
-2022-23,Weston McKennie,Juventus,23,15,1.052,1,1,1,0,0,0,Cen,Dif
-2022-23,Gary Medel,Bologna,34,29,1.478,0,1,0,0,5,0,Cen,Dif
-2022-23,Souahilo Meïté,Cremonese,28,31,2.366,0,2,0,0,5,0,Cen,
-2022-23,Alex Meret,Napoli,25,34,3.06,0,0,0,0,0,0,Por,
-2022-23,Yıldırım Mert Çetin,Lecce,25,1,20,0,0,0,0,0,0,Dif,
-2022-23,Junior Messias,Milan,31,25,1.498,5,2,5,0,3,0,Att,Dif
-2022-23,Tommaso Milanese,Cremonese,20,2,27,0,0,0,0,0,0,Cen,
-2022-23,Nikola Milenković,Fiorentina,24,27,2.137,2,1,2,0,4,0,Dif,
-2022-23,Arkadiusz Milik,Juventus,28,27,1.586,7,1,7,0,3,1,Att,
-2022-23,Sergej Milinković-Savić,Lazio,27,36,3.022,9,8,9,0,10,0,Cen,
-2022-23,Vanja Milinković-Savić,Torino,25,38,3.42,0,0,0,0,4,0,Por,
-2022-23,Kim Min-jae,Napoli,25,35,3.05,2,2,2,0,5,0,Dif,
-2022-23,Aleksej Mirančuk,Torino,26,29,2.089,4,5,4,0,0,0,Cen,
-2022-23,Antonio Mirante,Milan,39,1,2,0,0,0,0,0,0,Por,
-2022-23,Fabio Miretti,Juventus,18,27,1.234,0,2,0,0,2,0,Cen,Att
-2022-23,Filippo Missori,Roma,18,3,181,0,0,0,0,1,0,Dif,
-2022-23,Henrix Mxit'aryan,Inter,33,31,1.986,3,2,3,0,4,0,Cen,
-2022-23,Salvatore Molina,Monza,30,5,229,0,0,0,0,1,0,Dif,
-2022-23,Daniele Montevago,Sampdoria,19,6,231,0,0,0,0,1,0,Att,
-2022-23,Lorenzo Montipò,Hellas Verona,26,37,3.33,0,0,0,0,1,0,Por,
-2022-23,Nikola Moro,Bologna,24,26,1.226,1,5,1,0,1,0,Cen,
-2022-23,Dany Mota,Monza,24,29,1.912,5,1,5,0,2,0,Att,Cen
-2022-23,João Moutinho,Spezia,24,4,58,0,0,0,0,0,0,Dif,Att
-2022-23,Mert Müldür,Sassuolo,23,2,13,0,0,0,0,0,0,Att,Dif
-2022-23,Luis Muriel,Atalanta,31,29,1.073,3,3,3,1,2,2,Att,Cen
-2022-23,Jeison Murillo,Sampdoria,30,20,1.057,0,0,0,0,6,1,Dif,
-2022-23,Nicola Murru,Sampdoria,27,20,784,0,0,0,0,3,0,Dif,
-2022-23,Juan Musso,Atalanta,28,24,2.077,0,0,0,0,1,0,Por,
-2022-23,Joakim Mæhle,Atalanta,25,34,2.209,3,3,3,0,5,1,Dif,Cen
-2022-23,Herculano Nabian,Empoli,18,1,1,0,0,0,0,0,0,Cen,
-2022-23,Michel Ndary Adopo,Torino,22,9,264,0,0,0,0,1,0,Cen,Dif
-2022-23,Tanguy Ndombele,Napoli,25,30,807,1,0,1,0,5,0,Cen,
-2022-23,Ilija Nestorovski,Udinese,32,21,638,2,1,2,0,3,0,Att,Cen
-2022-23,Cyril Ngonge,Hellas Verona,22,14,745,3,1,3,0,2,0,Cen,Att
-2022-23,Hans Nicolussi Caviglia,Salernitana,22,12,586,1,0,1,0,2,0,Cen,
-2022-23,Dīmītrīs Nikolaou,Spezia,23,36,2.958,1,0,1,0,9,1,Dif,
-2022-23,Samuel Ntanda,Sampdoria,17,1,4,0,0,0,0,0,0,Cen,
-2022-23,Bram Nuytinck,Udinese,32,6,385,0,0,0,0,1,0,Dif,
-2022-23,Bram Nuytinck,Sampdoria,32,19,1.498,0,1,0,0,4,0,Dif,
-2022-23,M'Bala Nzola,Spezia,25,31,2.653,13,2,13,3,8,0,Att,
-2022-23,Pedro Obiang,Sassuolo,30,17,876,0,1,0,0,2,0,Cen,
-2022-23,Guillermo Ochoa,Salernitana,37,20,1.8,0,0,0,0,1,0,Por,
-2022-23,Marios Ikonomou,Sampdoria,29,6,220,0,0,0,0,3,0,Dif,
-2022-23,David Okereke,Cremonese,24,33,2.266,7,0,7,1,4,0,Att,Cen
-2022-23,Caleb Okoli,Atalanta,21,17,960,0,0,0,0,3,0,Dif,
-2022-23,Mathías Olivera,Napoli,24,30,1.643,2,2,2,0,2,0,Dif,
-2022-23,André Onana,Inter,26,24,2.16,0,0,0,0,1,0,Por,
-2022-23,Divock Origi,Milan,27,27,1.027,2,1,2,0,1,0,Att,
-2022-23,Riccardo Orsolini,Bologna,25,32,2.124,11,4,11,3,8,2,Att,
-2022-23,Victor Osimhen,Napoli,23,32,2.566,26,4,26,2,4,0,Att,
-2022-23,Remi Oudin,Lecce,25,31,1.321,3,0,3,0,3,0,Att,Cen
-2022-23,Adam Ounas,Napoli,25,2,15,0,0,0,0,0,0,Att,
-2022-23,Simone Pafundi,Udinese,16,8,85,0,0,0,0,0,0,Cen,Att
-2022-23,Flavio Paoletti,Sampdoria,19,12,284,0,0,0,0,1,0,Cen,
-2022-23,Leandro Paredes,Juventus,28,25,977,1,0,1,0,7,1,Cen,
-2022-23,Fabiano Parisi,Empoli,21,33,2.83,2,0,2,0,10,1,Dif,
-2022-23,Mario Pašalić,Atalanta,27,32,1.769,5,2,5,0,3,0,Cen,Att
-2022-23,Patricio Gabarrón,Lazio,29,18,1.413,0,0,0,0,1,0,Dif,
-2022-23,Rui Patrício,Roma,34,35,3.15,0,0,0,0,1,0,Por,
-2022-23,Pedro Rodríguez Ledesma,Lazio,35,36,1.898,4,3,4,0,1,0,Att,
-2022-23,Gianluca Pegolo,Sassuolo,41,2,180,0,0,0,0,0,0,Por,
-2022-23,Pietro Pellegri,Torino,21,18,465,2,0,2,0,3,0,Att,
-2022-23,Lorenzo Pellegrini,Roma,26,32,2.545,4,5,4,2,5,0,Cen,
-2022-23,Luca Pellegrini,Lazio,23,7,180,0,0,0,0,3,0,Dif,
-2022-23,José Machin,Monza,25,25,1.123,0,2,0,0,4,0,Cen,
-2022-23,Roberto Pereyra,Udinese,31,34,2.82,5,7,5,0,7,0,Dif,Cen
-2022-23,Nehuén Pérez,Udinese,22,34,2.818,2,0,2,0,7,1,Dif,
-2022-23,Simone Perilli,Hellas Verona,27,1,90,0,0,0,0,0,0,Por,
-2022-23,Mattia Perin,Juventus,29,11,948,0,0,0,0,0,0,Por,
-2022-23,Samuele Perisan,Empoli,24,7,630,0,0,0,0,0,0,Por,
-2022-23,Matteo Pessina,Monza,25,35,2.932,5,3,5,3,6,0,Cen,
-2022-23,Andrea Petagna,Monza,27,31,1.663,4,5,4,1,2,0,Att,
-2022-23,Giuseppe Pezzella,Lecce,24,16,918,0,1,0,0,2,0,Dif,
-2022-23,Krzysztof Piątek,Salernitana,27,33,2.14,4,5,4,1,5,0,Att,
-2022-23,Roberto Piccoli,Hellas Verona,21,7,192,0,0,0,0,0,0,Att,
-2022-23,Roberto Piccoli,Empoli,21,13,516,2,0,2,0,0,0,Att,
-2022-23,Charles Pickel,Cremonese,25,33,2.483,1,0,1,0,8,1,Cen,
-2022-23,Andrea Pinamonti,Sassuolo,23,32,2.161,5,0,5,1,3,1,Att,
-2022-23,Lorenzo Pirola,Salernitana,20,26,1.941,2,0,2,0,4,0,Dif,
-2022-23,Niccolò Pisilli,Roma,17,1,1,0,0,0,0,0,0,Cen,
-2022-23,Marko Pjaca,Empoli,27,17,525,0,0,0,0,1,0,Cen,Att
-2022-23,Tommaso Pobega,Milan,23,19,883,2,0,2,0,4,0,Cen,
-2022-23,Paul Pogba,Juventus,29,6,111,0,0,0,0,0,0,Cen,Att
-2022-23,Matteo Politano,Napoli,28,27,1.166,3,3,3,2,1,0,Att,
-2022-23,Marin Pongračić,Lecce,24,9,790,0,0,0,0,2,0,Dif,
-2022-23,Stefan Posch,Bologna,25,30,2.532,6,2,6,0,6,0,Dif,
-2022-23,Ivan Provedel,Lazio,28,38,3.413,0,0,0,0,1,0,Por,
-2022-23,Ignacio Pussetto,Sampdoria,26,5,152,0,0,0,0,1,0,Cen,Dif
-2022-23,Niklas Pyyhtiä,Bologna,18,6,110,0,1,0,0,0,0,Cen,
-2022-23,Fabio Quagliarella,Sampdoria,39,23,800,1,1,1,0,2,0,Att,
-2022-23,Giacomo Quagliata,Cremonese,22,20,699,0,1,0,0,0,1,Dif,
-2022-23,Adrien Rabiot,Juventus,27,32,2.748,8,4,8,0,9,0,Cen,
-2022-23,Nemanja Radonjić,Torino,26,28,1.461,2,2,2,0,1,0,Cen,Att
-2022-23,Ivan Radovanović,Salernitana,33,10,671,0,0,0,0,1,1,Cen,Dif
-2022-23,Ionuț Andrei Radu,Cremonese,25,9,810,0,0,0,0,0,0,Por,
-2022-23,Ștefan Radu,Lazio,35,1,1,0,0,0,0,1,0,Att,
-2022-23,Antonio Raimondo,Bologna,18,2,15,0,0,0,0,0,0,Att,
-2022-23,Luca Ranieri,Fiorentina,23,9,508,0,0,0,0,1,0,Dif,
-2022-23,Andrea Ranocchia,Monza,34,1,47,0,0,0,0,0,0,Dif,
-2022-23,Filippo Ranocchia,Monza,21,14,530,1,0,1,0,1,0,Cen,
-2022-23,Giacomo Raspadori,Sassuolo,22,1,45,0,0,0,0,0,0,Att,
-2022-23,Giacomo Raspadori,Napoli,22,25,911,2,2,2,0,1,0,Att,Cen
-2022-23,Nicola Ravaglia,Sampdoria,33,9,810,0,0,0,0,0,0,Por,
-2022-23,Ante Rebić,Milan,28,23,980,3,2,3,0,4,0,Att,Cen
-2022-23,Arkadiusz Reca,Spezia,27,30,2.173,1,1,1,0,5,0,Dif,
-2022-23,Panagiōtīs Retsos,Hellas Verona,23,2,122,0,0,0,0,0,0,Dif,
-2022-23,Franck Ribéry,Salernitana,39,1,37,0,0,0,0,0,0,Cen,
-2022-23,Samuele Ricci,Torino,20,28,2.07,2,1,2,0,6,0,Cen,
-2022-23,Tomás Rincón,Sampdoria,34,34,2.555,0,2,0,0,7,1,Cen,
-2022-23,Pablo Rodríguez,Lecce,20,4,54,0,0,0,0,0,0,Att,Cen
-2022-23,Ricardo Rodríguez,Torino,29,35,2.67,0,0,0,0,3,0,Dif,
-2022-23,Rogério Oliveira da Silva,Sassuolo,24,36,2.996,0,3,0,0,5,1,Dif,
-2022-23,Filippo Romagna,Sassuolo,25,2,46,0,0,0,0,0,0,Dif,
-2022-23,Alessio Romagnoli,Lazio,27,34,2.922,2,0,2,0,6,0,Dif,
-2022-23,Simone Romagnoli,Lecce,32,7,167,0,0,0,0,0,0,Dif,
-2022-23,Luka Romero,Lazio,17,6,151,1,0,1,0,0,0,Att,
-2022-23,Marten de Roon,Atalanta,31,35,2.964,3,1,3,0,7,0,Cen,
-2022-23,Francesco Rossi,Atalanta,31,1,4,0,0,0,0,0,0,Por,
-2022-23,Nicolò Rovella,Monza,20,25,1.74,1,2,1,0,5,1,Cen,
-2022-23,Nicolò Rovella,Juventus,20,3,27,0,0,0,0,1,0,Cen,
-2022-23,Amir Rrahmani,Napoli,28,29,2.448,2,1,2,0,2,0,Dif,
-2022-23,Ruan,Sassuolo,23,23,1.711,0,0,0,0,13,3,Dif,
-2022-23,Daniele Rugani,Juventus,28,9,564,0,0,0,0,0,0,Dif,
-2022-23,Matteo Ruggeri,Atalanta,20,15,829,0,1,0,0,3,0,Dif,Cen
-2022-23,Mário Rui,Napoli,31,22,1.749,0,6,0,0,2,1,Dif,
-2022-23,Alessandro Russo,Sassuolo,21,1,90,0,0,0,0,0,0,Por,
-2022-23,Abdelhamid Sabiri,Sampdoria,25,18,1.069,2,0,2,1,5,0,Cen,Att
-2022-23,Alexis Saelemaekers,Milan,23,30,1.403,2,3,2,0,1,0,Att,Dif
-2022-23,Jacopo Sala,Spezia,30,6,112,0,0,0,0,1,0,Cen,
-2022-23,Lazar Samardzic,Udinese,20,37,1.848,5,4,5,0,1,0,Cen,
-2022-23,Junior Sambia,Salernitana,25,22,697,0,1,0,0,3,0,Dif,
-2022-23,Antonio Sanabria,Torino,26,33,2.433,12,4,12,1,4,0,Att,
-2022-23,Leandro Sanca,Spezia,22,4,32,0,0,0,0,0,0,Att,Cen
-2022-23,Alex Sandro Lobo Silva,Juventus,31,25,1.787,0,1,0,0,5,1,Dif,
-2022-23,Nicola Sansone,Bologna,30,18,740,4,2,4,0,2,0,Att,
-2022-23,Riccardo Saponara,Fiorentina,30,29,1.208,4,3,4,0,4,0,Att,
-2022-23,Mouhamadou Sarr,Cremonese,25,2,180,0,0,0,0,0,0,Por,
-2022-23,Martin Satriano,Empoli,21,31,1.705,2,1,2,0,4,0,Att,
-2022-23,Giorgio Scalvini,Atalanta,18,32,2.335,2,2,2,0,7,0,Dif,
-2022-23,Jerdy Schouten,Bologna,25,33,2.509,0,2,0,0,3,0,Cen,
-2022-23,Perr Schuurs,Torino,22,30,2.326,0,2,0,0,5,0,Dif,
-2022-23,Demba Seck,Torino,21,19,519,0,0,0,0,0,0,Cen,Att
-2022-23,Telasco Segovia,Sampdoria,19,1,4,0,0,0,0,0,0,Cen,
-2022-23,Jacopo Segre,Torino,25,1,21,0,0,0,0,0,0,Dif,
-2022-23,Vivaldo Semedo,Udinese,17,5,36,0,0,0,0,0,0,Att,Cen
-2022-23,Stefano Sensi,Monza,26,28,1.618,3,1,3,0,8,0,Cen,
-2022-23,Luigi Sepe,Salernitana,31,17,1.53,0,0,0,0,3,0,Por,
-2022-23,Leonardo Sernicola,Cremonese,25,32,2.317,2,2,2,0,11,0,Dif,
-2022-23,Stephan El Shaarawy,Roma,29,29,1.523,7,2,7,0,3,0,Dif,Cen
-2022-23,Eldor Shomurodov,Spezia,27,15,809,1,1,1,0,2,0,Att,
-2022-23,Eldor Shomurodov,Roma,27,6,119,0,0,0,0,0,0,Att,
-2022-23,Marco Silvestri,Udinese,31,38,3.42,0,0,0,0,0,0,Por,
-2022-23,Giovanni Simeone,Napoli,27,25,406,4,1,4,0,1,0,Att,
-2022-23,Wilfried Singo,Torino,21,31,2.046,2,1,2,0,8,0,Dif,
-2022-23,Salvatore Sirigu,Fiorentina,35,1,90,0,0,0,0,0,0,Por,
-2022-23,Leo Skiri Østigård,Napoli,22,7,419,0,0,0,0,1,0,Dif,
-2022-23,Łukasz Skorupski,Bologna,31,37,3.33,0,0,0,0,4,0,Por,
-2022-23,Milan Škriniar,Inter,27,21,1.769,0,0,0,0,5,1,Dif,
-2022-23,Chris Smalling,Roma,32,32,2.808,3,1,3,0,7,0,Dif,
-2022-23,Ola Solbakken,Roma,23,14,502,1,2,1,0,2,0,Cen,Att
-2022-23,Brandon Soppy,Udinese,20,1,90,0,0,0,0,1,0,Dif,
-2022-23,Brandon Soppy,Atalanta,20,15,643,0,3,0,0,2,0,Dif,
-2022-23,Roberto Soriano,Bologna,31,27,1.326,1,3,1,0,1,0,Att,Cen
-2022-23,Joaquin Sosa,Bologna,20,10,688,0,0,0,0,2,0,Dif,
-2022-23,Riccardo Sottil,Fiorentina,23,18,833,0,2,0,0,1,0,Att,
-2022-23,Matìas Soulé,Juventus,19,13,420,1,0,1,0,0,0,Cen,Att
-2022-23,Adama Soumaoro,Bologna,30,23,1.867,0,0,0,0,5,1,Dif,
-2022-23,Leonardo Spinazzola,Roma,29,26,1.654,1,4,1,0,3,0,Dif,
-2022-23,Marco Sportiello,Atalanta,30,15,1.339,0,0,0,0,0,0,Por,
-2022-23,Petar Stojanović,Empoli,26,27,1.53,0,1,0,0,3,0,Dif,
-2022-23,Gabriel Strefezza,Lecce,25,35,2.442,8,4,8,2,5,0,Att,Cen
-2022-23,Dávid Strelec,Spezia,21,7,169,0,0,0,0,0,0,Att,
-2022-23,Isaac Success,Udinese,26,30,1.815,1,6,1,0,4,0,Att,
-2022-23,Ibrahim Sulemana,Hellas Verona,19,16,651,0,0,0,0,4,0,Cen,
-2022-23,Mile Svilar,Roma,22,3,270,0,0,0,0,1,0,Por,
-2022-23,Wojciech Szczęsny,Juventus,32,28,2.472,0,0,0,0,0,0,Por,
-2022-23,Benjamin Tahirovic,Roma,19,11,355,0,0,0,0,1,0,Cen,
-2022-23,Adrien Tameze,Hellas Verona,28,37,3.031,0,0,0,0,3,0,Cen,
-2022-23,Ciprian Tătărușanu,Milan,36,16,1.44,0,1,0,0,0,0,Por,
-2022-23,Filippo Terracciano,Hellas Verona,19,20,821,0,1,0,0,2,0,Dif,Cen
-2022-23,Pietro Terracciano,Fiorentina,32,29,2.61,0,0,0,0,1,0,Por,
-2022-23,Aleksa Terzić,Fiorentina,22,22,935,1,1,1,0,2,0,Dif,
-2022-23,Florian Thauvin,Udinese,29,16,546,0,0,0,0,1,0,Att,Cen
-2022-23,Malick Thiaw,Milan,20,20,1.362,0,0,0,0,5,0,Dif,
-2022-23,Kristian Thorstvedt,Sassuolo,23,31,1.136,2,1,2,0,5,0,Cen,
-2022-23,Jeremy Toljan,Sassuolo,27,31,2.672,0,1,0,0,3,0,Dif,
-2022-23,Rafael Tolói,Atalanta,31,32,2.784,2,1,2,0,8,0,Dif,
-2022-23,Fikayo Tomori,Milan,24,33,2.76,1,1,1,0,5,0,Dif,
-2022-23,Sandro Tonali,Milan,22,34,2.713,2,7,2,0,7,0,Cen,
-2022-23,Lorenzo Tonelli,Empoli,32,1,19,0,0,0,0,0,1,Dif,
-2022-23,William Troost-Ekong,Salernitana,28,9,444,1,0,1,0,1,0,Dif,
-2022-23,Frank Tsadjout,Cremonese,23,20,1.051,3,1,3,0,1,0,Att,
-2022-23,Alessandro Tuia,Lecce,32,7,509,0,0,0,0,1,0,Dif,
-2022-23,Martin Turk,Sampdoria,18,4,360,0,0,0,0,0,0,Por,
-2022-23,Destiny Udogie,Udinese,19,33,2.704,3,4,3,0,5,0,Dif,
-2022-23,Samir Ujkani,Empoli,34,1,7,0,0,0,0,0,0,Por,
-2022-23,Samuel Umtiti,Lecce,28,25,2.113,0,0,0,0,8,0,Dif,
-2022-23,Diego Valencia,Salernitana,22,12,231,0,0,0,0,1,0,Cen,Att
-2022-23,Emanuele Valeri,Cremonese,23,37,2.785,2,3,2,0,3,0,Dif,
-2022-23,Mattia Valoti,Monza,28,16,453,0,0,0,0,1,0,Cen,Att
-2022-23,Johan Vásquez,Cremonese,23,25,1.813,1,0,1,0,7,0,Dif,
-2022-23,Matías Vecino,Lazio,30,32,1.691,2,0,2,0,6,0,Cen,
-2022-23,Miguel Veloso,Hellas Verona,36,22,1.163,0,0,0,0,6,0,Cen,
-2022-23,Lorenzo Venuti,Fiorentina,27,17,924,0,1,0,0,2,0,Dif,
-2022-23,Daniele Verde,Spezia,26,25,998,3,0,3,1,1,0,Att,Cen
-2022-23,Simone Verdi,Hellas Verona,30,24,1.096,5,0,5,1,3,0,Cen,Att
-2022-23,Valerio Verre,Sampdoria,28,18,677,0,0,0,0,5,0,Cen,
-2022-23,Guglielmo Vicario,Empoli,25,31,2.783,0,0,0,0,3,0,Por,
-2022-23,Ronaldo Vieira,Torino,24,2,16,0,0,0,0,0,0,Cen,
-2022-23,Ronaldo Vieira,Sampdoria,24,16,815,0,0,0,0,3,0,Cen,
-2022-23,Emanuel Vignato,Bologna,21,8,242,0,1,0,0,1,0,Cen,Att
-2022-23,Emanuel Vignato,Empoli,21,5,57,1,0,1,0,0,0,Cen,Att
-2022-23,Samuele Vignato,Monza,18,5,62,0,1,0,0,0,0,Cen,Att
-2022-23,Tonny Vilhena,Salernitana,27,33,2.265,4,1,4,0,5,0,Cen,
-2022-23,Gonzalo Villar,Sampdoria,24,15,696,0,0,0,0,2,0,Cen,
-2022-23,Matías Viña,Roma,24,3,55,0,0,0,0,0,0,Dif,
-2022-23,Dušan Vlahović,Juventus,22,27,1.925,10,2,10,2,1,0,Att,
-2022-23,Nikola Vlašić,Torino,24,34,2.728,5,6,5,0,1,0,Cen,Att
-2022-23,Joel Voelkerling Persson,Lecce,19,9,99,0,0,0,0,0,0,Att,Cen
-2022-23,Mërgim Vojvoda,Torino,27,29,1.719,0,5,0,0,3,0,Dif,
-2022-23,Cristian Volpato,Roma,18,7,227,1,1,1,0,0,0,Cen,
-2022-23,Lukáš Vorlický,Atalanta,20,3,24,0,0,0,0,0,0,Cen,Att
-2022-23,Aster Vranckx,Milan,19,9,240,0,0,0,0,1,0,Cen,
-2022-23,Stefan de Vrij,Inter,30,27,1.945,1,0,1,0,4,0,Dif,
-2022-23,Walace,Udinese,27,37,3.19,0,1,0,0,6,0,Cen,
-2022-23,Sebastian Walukiewicz,Empoli,22,11,603,0,0,0,0,0,0,Dif,
-2022-23,Georginio Wijnaldum,Roma,31,14,769,2,0,2,0,0,0,Cen,
-2022-23,Harry Winks,Sampdoria,26,20,1.716,0,0,0,0,2,0,Cen,
-2022-23,Przemysław Wiśniewski,Spezia,24,14,1.003,1,0,1,0,3,0,Dif,
-2022-23,Gerard Yepes,Sampdoria,19,5,198,0,0,0,0,2,0,Cen,
-2022-23,Mattia Zaccagni,Lazio,27,35,2.77,10,6,10,1,9,0,Att,
-2022-23,Denis Zakaria,Juventus,25,2,123,0,0,0,0,0,0,Cen,
-2022-23,Nicola Zalewski,Roma,20,33,2.197,2,1,2,0,3,0,Dif,
-2022-23,André-Frank Zambo Anguissa,Napoli,26,36,3.05,3,5,3,0,3,0,Cen,
-2022-23,Luca Zanimacchia,Cremonese,24,15,746,0,0,0,0,2,0,Cen,Att
-2022-23,Nicolò Zaniolo,Roma,23,13,890,1,0,1,0,4,0,Cen,Att
-2022-23,Alessandro Zanoli,Sampdoria,21,22,1.54,2,3,2,0,3,0,Dif,
-2022-23,Alessandro Zanoli,Napoli,21,1,12,0,0,0,0,0,0,Dif,
-2022-23,Mattia Zanotti,Inter,19,2,27,0,0,0,0,0,0,Dif,
-2022-23,Duván Zapata,Atalanta,31,25,1.39,2,2,2,0,1,0,Att,
-2022-23,Davide Zappacosta,Atalanta,30,21,1.471,4,2,4,0,4,0,Dif,
-2022-23,Karim Zedadka,Napoli,22,3,20,0,0,0,0,0,0,Att,
-2022-23,Deyovaisio Zeefuik,Hellas Verona,24,1,10,0,0,0,0,0,0,Dif,
-2022-23,Marvin Zeegelaar,Udinese,31,7,353,1,0,1,0,3,1,Dif,
-2022-23,Alessio Zerbin,Napoli,23,10,198,0,0,0,0,1,0,Att,
-2022-23,Piotr Zieliński,Napoli,28,37,2.287,3,8,3,0,3,0,Cen,
-2022-23,David Zima,Torino,21,9,406,0,0,0,0,0,0,Dif,
-2022-23,Joshua Zirkzee,Bologna,21,19,822,2,2,2,0,1,0,Att,
-2022-23,Jeroen Zoet,Spezia,31,5,334,0,0,0,0,1,0,Por,
-2022-23,Nadir Zortea,Atalanta,23,9,222,1,0,1,0,1,0,Dif,Cen
-2022-23,Nadir Zortea,Sassuolo,23,10,657,0,1,0,0,4,0,Dif,
-2022-23,Petar Zovko,Spezia,20,1,74,0,0,0,0,0,0,Por,
-2022-23,Szymon Żurkowski,Fiorentina,24,2,32,0,1,0,0,0,0,Cen,
-2022-23,Szymon Żurkowski,Spezia,24,10,427,0,0,0,0,1,0,Cen,
-2022-23,Milan Đurić,Hellas Verona,32,28,1.366,1,1,1,0,3,0,Att,
-2022-23,Filip Đuričić,Sampdoria,30,32,2.171,3,0,3,0,9,0,Cen,Att
-2021-22,Tammy Abraham,Roma,23,37,3.084,17,4,14,3,9,0,Att,
-2021-22,Francesco Acerbi,Lazio,33,30,2.536,4,0,4,0,2,1,Dif,
-2021-22,Michel Aebischer,Bologna,24,12,443,0,0,0,0,1,0,Cen,
-2021-22,Felix Afena-Gyan,Roma,18,17,668,2,0,2,0,5,1,Att,Cen
-2021-22,Kevin Agudelo,Spezia,22,23,1.237,3,1,3,0,2,1,Cen,Att
-2021-22,Ola Aina,Torino,24,21,1.437,0,0,0,0,4,0,Dif,
-2021-22,Marley Aké,Juventus,20,4,77,0,0,0,0,1,0,Att,Cen
-2021-22,Jean-Daniel Akpa-Akpro,Lazio,28,10,315,0,0,0,0,1,0,Cen,
-2021-22,Luis Alberto Romero Alconchel,Lazio,28,34,2.353,5,9,5,0,5,0,Cen,
-2021-22,Giorgio Altare,Cagliari,22,19,1.466,1,0,1,0,5,0,Dif,
-2021-22,Wisdom Amey,Bologna,15,1,71,0,0,0,0,0,0,Dif,
-2021-22,Kelvin Amian,Spezia,23,32,2.646,1,1,1,0,9,2,Dif,
-2021-22,Nadiem Amiri,Genoa,24,13,683,0,1,0,0,0,0,Cen,Att
-2021-22,Ethan Ampadu,Venezia,20,29,2.282,0,3,0,0,13,2,Cen,Dif
-2021-22,Sofyan Amrabat,Fiorentina,24,23,944,1,0,1,0,6,0,Cen,
-2021-22,Felipe Anderson,Lazio,28,38,2.888,6,8,6,0,2,0,Att,
-2021-22,Ebenezer Annan,Bologna,18,1,25,0,0,0,0,0,0,Dif,
-2021-22,Cristian Ansaldi,Torino,34,19,691,0,3,0,0,2,0,Dif,
-2021-22,Janis Antiste,Spezia,18,18,796,1,0,1,0,0,0,Att,
-2021-22,Mattia Aramu,Venezia,26,32,2.1,7,5,4,3,6,0,Cen,Att
-2021-22,Marko Arnautović,Bologna,32,33,2.694,14,1,12,2,6,0,Att,
-2021-22,Tolgay Arslan,Udinese,30,30,1.658,1,0,1,0,9,0,Cen,
-2021-22,Kristoffer Askildsen,Sampdoria,20,19,754,0,0,0,0,5,0,Cen,
-2021-22,Kristjan Asllani,Empoli,19,23,1.353,1,1,1,0,2,0,Cen,
-2021-22,Emil Audero,Sampdoria,24,29,2.56,0,0,0,0,2,0,Por,
-2021-22,Tommaso Augello,Sampdoria,26,36,2.395,1,1,1,0,0,0,Dif,
-2021-22,Ramzi Aya,Salernitana,30,2,135,0,0,0,0,1,0,Dif,
-2021-22,Kaan Ayhan,Sassuolo,26,23,1.354,1,0,1,0,2,1,Dif,
-2021-22,Milan Badelj,Genoa,32,34,2.844,1,0,1,0,4,0,Cen,
-2021-22,Nicola Bagnolini,Bologna,17,1,3,0,0,0,0,0,0,Por,
-2021-22,Issa Bah,Venezia,19,1,9,0,0,0,0,0,0,Att,
-2021-22,Nedim Bajrami,Empoli,22,35,2.054,6,5,3,3,3,0,Cen,Att
-2021-22,Tiémoué Bakayoko,Milan,26,14,501,0,0,0,0,3,0,Cen,
-2021-22,Tommaso Baldanzi,Empoli,18,1,18,0,0,0,0,0,0,Att,
-2021-22,Keita Baldé Diao,Cagliari,26,26,1.229,3,1,3,0,2,0,Att,
-2021-22,Fodé Ballo-Touré,Milan,24,10,446,0,0,0,0,2,0,Dif,
-2021-22,Filippo Bandinelli,Empoli,26,35,1.955,2,3,2,0,10,0,Cen,
-2021-22,Mattia Bani,Genoa,27,17,1.211,0,0,0,0,1,0,Dif,
-2021-22,Antonín Barák,Hellas Verona,26,29,2.34,11,4,7,4,4,0,Cen,Att
-2021-22,Francesco Bardi,Bologna,29,2,177,0,0,0,0,0,0,Por,
-2021-22,Nicolò Barella,Inter,24,36,2.913,3,11,3,0,9,0,Cen,
-2021-22,Musa Barrow,Bologna,22,34,2.134,6,6,6,0,0,0,Att,Cen
-2021-22,Daniele Baselli,Torino,29,6,150,0,0,0,0,0,0,Cen,Att
-2021-22,Daniele Baselli,Cagliari,29,9,290,0,1,0,0,1,0,Cen,
-2021-22,Toma Bašić,Lazio,24,29,982,0,2,0,0,3,0,Cen,
-2021-22,Alessandro Bastoni,Inter,22,31,2.311,1,2,1,0,4,0,Dif,
-2021-22,Simone Bastoni,Spezia,24,31,2.288,3,3,3,0,5,1,Cen,Dif
-2021-22,Rodrigo Becão,Udinese,25,35,3.13,2,1,2,0,10,0,Dif,
-2021-22,Valon Behrami,Genoa,36,10,311,0,0,0,0,3,0,Cen,Att
-2021-22,Vid Belec,Salernitana,31,23,1.938,0,0,0,0,1,0,Por,
-2021-22,Raoul Bellanova,Cagliari,21,31,2.496,1,2,1,0,3,0,Dif,Att
-2021-22,Andrea Belotti,Torino,27,22,1.371,8,1,5,3,1,0,Att,
-2021-22,Marco Benassi,Fiorentina,26,6,158,0,0,0,0,1,0,Dif,Cen
-2021-22,Marco Benassi,Empoli,26,12,382,0,0,0,0,1,0,Cen,
-2021-22,Filip Benković,Udinese,24,2,8,0,0,0,0,0,0,Dif,Att
-2021-22,Ismaël Bennacer,Milan,23,31,1.525,2,1,2,0,7,0,Cen,
-2021-22,Rodrigo Bentancur,Juventus,24,19,1.155,0,1,0,0,1,0,Cen,
-2021-22,Alessandro Berardi,Hellas Verona,30,1,90,0,0,0,0,0,0,Por,
-2021-22,Domenico Berardi,Sassuolo,26,33,2.819,15,14,9,6,9,0,Att,
-2021-22,Bartosz Bereszyński,Sampdoria,29,35,2.946,0,3,0,0,12,0,Dif,
-2021-22,Etrit Berisha,Torino,32,10,900,0,0,0,0,1,0,Por,
-2021-22,Federico Bernardeschi,Juventus,27,28,1.475,1,3,1,0,5,0,Cen,Att
-2021-22,Nicolò Bertola,Spezia,18,2,35,0,0,0,0,0,0,Cen,Dif
-2021-22,Daniel Bessa,Hellas Verona,28,24,768,1,1,1,0,5,1,Cen,
-2021-22,Beto,Udinese,23,28,2.173,11,0,11,0,1,0,Att,
-2021-22,Luis Binks,Bologna,19,15,646,0,0,0,0,3,0,Dif,
-2021-22,Cristiano Biraghi,Fiorentina,28,37,3.153,4,1,3,1,5,1,Dif,
-2021-22,Davide Biraschi,Genoa,27,14,930,0,0,0,0,4,0,Dif,
-2021-22,Bjarki Bjarkason,Venezia,21,1,3,0,0,0,0,0,0,Cen,
-2021-22,Jeremie Boga,Atalanta,24,15,764,0,0,0,0,0,0,Att,Cen
-2021-22,Jeremie Boga,Sassuolo,24,12,670,0,2,0,0,0,0,Att,Cen
-2021-22,Luka Bogdan,Salernitana,25,6,399,0,0,0,0,0,0,Dif,
-2021-22,Emil Bohinen,Salernitana,22,11,699,0,1,0,0,5,0,Cen,
-2021-22,Giacomo Bonaventura,Fiorentina,31,31,2.266,4,4,4,0,8,1,Cen,
-2021-22,Federico Bonazzoli,Salernitana,24,32,1.866,10,0,8,2,6,0,Att,Cen
-2021-22,Kevin Bonifazi,Bologna,25,22,1.21,0,0,0,0,4,1,Dif,
-2021-22,Leonardo Bonucci,Juventus,34,24,2.005,5,0,2,3,1,0,Dif,
-2021-22,Mehdi Bourabia,Spezia,29,8,282,1,0,1,0,0,0,Cen,
-2021-22,Edoardo Bove,Roma,19,11,68,1,0,1,0,0,0,Cen,Dif
-2021-22,Josip Brekalo,Torino,23,32,2.286,7,2,7,0,1,0,Cen,
-2021-22,Gleison Bremer,Torino,24,33,2.89,3,1,3,0,7,0,Dif,
-2021-22,Marcelo Brozović,Inter,28,35,2.937,2,1,2,0,7,0,Cen,
-2021-22,Aleksander Buksa,Genoa,18,4,63,0,0,0,0,0,0,Att,
-2021-22,Alessandro Buongiorno,Torino,22,23,1.181,0,1,0,0,5,0,Dif,
-2021-22,Gianluca Busio,Venezia,19,29,1.95,1,1,1,0,8,0,Cen,
-2021-22,Arthur Cabral,Fiorentina,23,14,749,2,2,2,0,1,0,Att,
-2021-22,Jovane Cabral,Lazio,23,3,190,1,0,1,0,0,0,Att,
-2021-22,Liberato Cacace,Empoli,20,10,466,0,0,0,0,1,0,Dif,
-2021-22,Martín Cáceres,Cagliari,34,14,832,1,1,1,0,3,1,Dif,
-2021-22,Felipe Caicedo,Genoa,32,9,284,1,2,1,0,1,0,Att,
-2021-22,Felipe Caicedo,Inter,32,3,23,0,0,0,0,0,0,Att,Dif
-2021-22,Davide Calabria,Milan,24,26,2.119,2,2,2,0,2,0,Dif,
-2021-22,Riccardo Calafiori,Genoa,19,3,82,0,0,0,0,1,0,Dif,
-2021-22,Riccardo Calafiori,Roma,19,6,174,0,1,0,0,2,0,Dif,
-2021-22,Mattia Caldara,Venezia,27,31,2.704,1,0,1,0,9,0,Dif,
-2021-22,Hakan Çalhanoğlu,Inter,27,34,2.48,7,12,4,3,11,0,Cen,
-2021-22,José María Callejón,Fiorentina,34,30,1.298,1,2,1,0,0,0,Att,
-2021-22,Andrea Cambiaso,Genoa,21,26,1.79,1,4,1,0,5,1,Dif,
-2021-22,Matteo Cancellieri,Hellas Verona,19,12,227,1,0,1,0,1,0,Cen,Dif
-2021-22,Antonio Candreva,Sampdoria,34,36,3.119,7,10,6,1,6,1,Cen,Att
-2021-22,Leonardo Capezzi,Salernitana,26,5,175,0,0,0,0,0,0,Cen,
-2021-22,Gianluca Caprari,Hellas Verona,28,35,2.739,12,7,10,2,4,0,Cen,Att
-2021-22,Francesco Caputo,Sampdoria,33,36,2.79,11,3,11,0,0,0,Att,
-2021-22,Francesco Caputo,Sassuolo,33,2,156,0,1,0,0,1,0,Att,
-2021-22,Andrea Carboni,Cagliari,20,30,2.215,0,0,0,0,6,0,Dif,
-2021-22,Nicolò Casale,Hellas Verona,23,36,2.586,0,1,0,0,10,0,Dif,
-2021-22,Francesco Cassata,Genoa,24,1,7,0,0,0,0,0,0,Cen,
-2021-22,Samu Castillejo,Milan,26,5,125,0,0,0,0,1,0,Att,Cen
-2021-22,Gaetano Castrovilli,Fiorentina,24,23,1.391,1,1,1,0,4,0,Cen,
-2021-22,Danilo Cataldi,Lazio,26,32,1.707,1,2,1,0,8,0,Cen,
-2021-22,Pietro Ceccaroni,Venezia,25,35,3.122,2,1,2,0,7,1,Dif,
-2021-22,Federico Ceccherini,Hellas Verona,29,34,2.358,1,0,1,0,12,1,Dif,
-2021-22,Emil Ceide,Sassuolo,19,6,53,0,0,0,0,0,0,Att,Cen
-2021-22,Luca Ceppitelli,Cagliari,31,24,1.445,1,1,1,0,3,0,Dif,
-2021-22,Damir Ceter,Cagliari,23,1,6,0,0,0,0,0,0,Att,
-2021-22,Julian Chabot,Sampdoria,23,11,490,0,0,0,0,5,0,Dif,
-2021-22,Giorgio Chiellini,Juventus,36,21,1.354,0,0,0,0,2,0,Dif,
-2021-22,Federico Chiesa,Juventus,23,14,863,2,2,2,0,0,0,Cen,Att
-2021-22,Vlad Chiricheș,Sassuolo,31,29,2.3,0,0,0,0,4,0,Dif,
-2021-22,Riccardo Ciervo,Sampdoria,19,10,227,0,1,0,0,0,0,Cen,Dif
-2021-22,Moustapha Cissé,Atalanta,17,3,38,1,0,1,0,0,0,Att,
-2021-22,Giorgio Cittadini,Atalanta,19,2,4,0,0,0,0,0,0,Dif,
-2021-22,Ebrima Colley,Spezia,21,11,394,0,0,0,0,1,0,Att,Cen
-2021-22,Omar Colley,Sampdoria,28,32,2.745,0,0,0,0,6,1,Dif,
-2021-22,Andrea Consigli,Sassuolo,34,37,3.322,0,0,0,0,2,0,Por,
-2021-22,Andrea Conti,Sampdoria,27,7,234,1,0,1,0,1,0,Dif,Cen
-2021-22,Andrea Conti,Milan,27,1,13,0,0,0,0,0,0,Dif,
-2021-22,Diego Coppola,Hellas Verona,17,4,249,0,0,0,0,0,0,Dif,
-2021-22,Joaquín Correa,Inter,26,26,1.025,6,1,6,0,2,0,Att,
-2021-22,Lassana Coulibaly,Salernitana,25,31,2.332,0,0,0,0,3,0,Cen,
-2021-22,Mamadou Coulibaly (calciatore 1999),Salernitana,22,12,808,2,0,2,0,1,0,Cen,
-2021-22,Alessio Cragno,Cagliari,27,35,3.15,0,0,0,0,3,0,Por,
-2021-22,Domenico Criscito,Genoa,34,20,1.618,6,1,0,6,4,0,Dif,
-2021-22,Bryan Cristante,Roma,26,34,2.678,2,0,2,0,9,0,Cen,
-2021-22,Domen Črnigoj,Venezia,25,34,1.881,3,1,3,0,3,0,Cen,
-2021-22,Giovanni Crociata,Empoli,23,1,15,0,0,0,0,0,0,Att,
-2021-22,Juan Cuadrado,Juventus,33,33,2.487,4,3,4,0,9,0,Dif,Cen
-2021-22,Mickaël Cuisance,Venezia,21,13,918,0,0,0,0,2,0,Cen,
-2021-22,Patrick Cutrone,Empoli,23,28,1.401,3,0,3,0,1,0,Att,
-2021-22,Danilo D'Ambrosio,Inter,32,20,1,1,1,1,0,2,0,Dif,
-2021-22,Mikkel Damsgaard,Sampdoria,21,11,578,0,0,0,0,1,0,Cen,Att
-2021-22,Danilo Luiz da Silva,Juventus,30,22,1.893,1,2,1,0,6,0,Dif,Cen
-2021-22,Ebrima Darboe,Roma,20,1,63,0,0,0,0,0,0,Cen,
-2021-22,Matteo Darmian,Inter,31,25,1.507,2,1,2,0,4,0,Dif,
-2021-22,Paweł Dawidowicz,Hellas Verona,26,17,1.198,0,0,0,0,3,0,Dif,
-2021-22,Sebastian De Maio,Udinese,34,2,180,0,0,0,0,0,0,Dif,
-2021-22,Tommaso De Nipoti,Atalanta,18,1,6,0,0,0,0,0,0,Att,
-2021-22,Mattia De Sciglio,Juventus,28,20,1.168,1,2,1,0,2,1,Dif,
-2021-22,Lorenzo De Silvestri,Bologna,33,31,2.294,3,2,3,0,7,0,Dif,
-2021-22,Grégoire Defrel,Sassuolo,30,38,1.362,2,2,2,0,3,0,Att,
-2021-22,Alessandro Deiola,Cagliari,25,33,2.129,4,1,4,0,5,0,Cen,
-2021-22,Filippo Delli Carri,Salernitana,22,5,334,0,0,0,0,1,0,Dif,
-2021-22,Merih Demiral,Atalanta,23,28,1.917,1,2,1,0,8,0,Dif,
-2021-22,Diego Demme,Napoli,29,19,692,1,0,1,0,4,0,Cen,
-2021-22,Fabio Depaoli,Hellas Verona,24,18,703,1,1,1,0,3,0,Dif,
-2021-22,Fabio Depaoli,Sampdoria,24,6,112,0,0,0,0,1,0,Cen,Dif
-2021-22,Mattia Destro,Genoa,30,27,1.744,9,1,9,0,4,0,Att,
-2021-22,Gerard Deulofeu,Udinese,27,34,2.616,13,5,12,1,9,0,Att,Cen
-2021-22,Jacopo Dezi,Venezia,29,1,16,0,0,0,0,0,0,Cen,
-2021-22,Samuel Di Carmine,Hellas Verona,32,1,36,0,0,0,0,1,0,Att,
-2021-22,Federico Di Francesco,Empoli,27,26,1.367,5,0,5,0,2,0,Att,Cen
-2021-22,Giovanni Di Lorenzo,Napoli,27,33,2.869,1,4,1,0,3,0,Dif,
-2021-22,Francesco Di Mariano,Venezia,25,1,62,0,0,0,0,0,0,Att,
-2021-22,Francesco Di Tacchio,Salernitana,31,18,1.255,0,0,0,0,3,0,Cen,
-2021-22,Amadou Diawara,Roma,24,4,170,0,0,0,0,0,0,Cen,
-2021-22,Brahim Díaz,Milan,21,31,1.855,3,3,3,0,4,0,Cen,
-2021-22,Mitchell Dijks,Bologna,28,16,694,0,2,0,0,2,0,Dif,Att
-2021-22,Federico Dimarco,Inter,23,32,1.43,2,3,2,0,1,0,Dif,
-2021-22,Filippo Distefano,Fiorentina,17,1,2,0,0,0,0,0,0,Att,
-2021-22,Koffi Djidji,Torino,28,25,1.735,0,0,0,0,6,1,Dif,
-2021-22,Berat Djimsiti,Atalanta,28,31,2.256,1,1,1,0,6,0,Dif,
-2021-22,Nicolás Domínguez,Bologna,23,28,2.015,0,3,0,0,8,0,Cen,
-2021-22,Bartłomiej Drągowski,Fiorentina,23,7,556,0,0,0,0,0,1,Por,
-2021-22,Radu Drăgușin,Sampdoria,19,13,620,0,0,0,0,1,0,Dif,
-2021-22,Radu Drăgușin,Salernitana,19,7,488,0,0,0,0,1,0,Dif,
-2021-22,Denzel Dumfries,Inter,25,33,2.028,5,4,5,0,3,0,Dif,
-2021-22,Alfred Duncan,Fiorentina,28,33,1.931,2,2,2,0,3,0,Cen,
-2021-22,Paulo Dybala,Juventus,27,29,2.061,10,5,9,1,3,0,Att,Cen
-2021-22,Edin Džeko,Inter,35,36,2.469,13,6,13,0,2,0,Att,
-2021-22,Tyronne Ebuehi,Venezia,25,19,1.138,0,0,0,0,1,1,Dif,
-2021-22,Éderson,Salernitana,22,15,1.147,2,1,2,0,5,0,Cen,
-2021-22,Albin Ekdal,Sampdoria,32,26,1.637,1,0,1,0,11,1,Cen,
-2021-22,Caleb Ekuban,Genoa,27,30,1.716,1,2,1,0,2,0,Att,Cen
-2021-22,Elif Elmas,Napoli,21,37,1.62,3,4,3,0,3,0,Att,Cen
-2021-22,Martin Erlic,Spezia,23,30,2.576,2,0,2,0,5,0,Dif,
-2021-22,Gonzalo Escalante,Lazio,28,1,9,0,0,0,0,0,0,Cen,
-2021-22,Diego Falcinelli,Bologna,30,6,66,0,0,0,0,0,0,Att,
-2021-22,Wladimiro Falcone,Sampdoria,26,10,855,0,0,0,0,2,0,Por,
-2021-22,Paolo Faragò,Cagliari,28,1,16,0,0,0,0,0,0,Cen,
-2021-22,Davide Faraoni,Hellas Verona,29,32,2.572,4,5,4,0,8,1,Dif,
-2021-22,Mohamed Fares,Genoa,25,9,587,2,1,2,0,2,0,Dif,Att
-2021-22,Diego Farias,Cagliari,31,4,66,0,0,0,0,0,0,Cen,Att
-2021-22,Andrea Favilli,Genoa,24,1,36,0,0,0,0,0,0,Att,
-2021-22,Federico Fazio,Salernitana,34,16,1.434,1,0,1,0,3,1,Dif,
-2021-22,Luiz Felipe Ramos Marchi,Lazio,24,31,2.491,0,0,0,0,9,1,Dif,
-2021-22,Alex Ferrari,Sampdoria,27,23,1.643,1,0,1,0,4,0,Dif,
-2021-22,Salvador Ferrer,Spezia,23,27,1.495,0,3,0,0,3,0,Dif,Cen
-2021-22,Riccardo Fiamozzi,Empoli,28,10,620,0,1,0,0,1,0,Dif,
-2021-22,Luca Fiordilino,Venezia,25,15,661,0,0,0,0,2,0,Cen,
-2021-22,Vincenzo Fiorillo,Salernitana,31,1,90,0,0,0,0,0,0,Por,
-2021-22,Alessandro Florenzi,Milan,30,24,1.152,2,0,2,0,2,0,Dif,Att
-2021-22,Fernando Forestieri,Udinese,31,4,58,2,1,2,0,1,0,Att,Cen
-2021-22,Francesco Forte,Venezia,28,12,422,1,0,1,0,3,0,Att,
-2021-22,Gianluca Frabotta,Hellas Verona,22,2,20,0,0,0,0,0,0,Dif,Cen
-2021-22,Davide Frattesi,Sassuolo,21,36,2.854,4,3,4,0,6,0,Cen,
-2021-22,Morten Frendrup,Genoa,20,10,695,0,0,0,0,1,0,Dif,Cen
-2021-22,Remo Freuler,Atalanta,29,29,2.369,1,3,1,0,10,0,Cen,
-2021-22,Matteo Gabbia,Milan,21,8,537,0,0,0,0,3,0,Dif,
-2021-22,Manolo Gabbiadini,Sampdoria,29,18,1.14,6,2,6,0,3,0,Att,Cen
-2021-22,Gianluca Gaetano,Napoli,21,2,20,0,0,0,0,0,0,Cen,
-2021-22,Luca Gagliano,Cagliari,21,2,13,0,0,0,0,0,0,Att,Dif
-2021-22,Roberto Gagliardini,Inter,27,18,649,2,2,2,0,2,0,Cen,
-2021-22,Riccardo Gagliolo,Salernitana,31,17,1.138,0,1,0,0,2,0,Dif,
-2021-22,Nicolas Galazzi,Venezia,20,1,16,0,0,0,0,0,0,Cen,
-2021-22,Pablo Galdames Millán,Genoa,24,19,1.028,0,0,0,0,2,0,Cen,
-2021-22,Luca Gemello,Torino,21,1,90,0,0,0,0,0,0,Por,
-2021-22,Paolo Ghiglione,Genoa,24,13,603,0,1,0,0,3,0,Dif,
-2021-22,Faouzi Ghoulam,Napoli,30,14,332,0,0,0,0,1,0,Dif,
-2021-22,Sebastian Giovinco,Sampdoria,34,2,39,0,0,0,0,0,0,Cen,
-2021-22,Olivier Giroud,Milan,34,29,1.892,11,3,9,2,4,0,Att,
-2021-22,Diego Godín,Cagliari,35,11,818,0,1,0,0,3,0,Dif,
-2021-22,Edoardo Goldaniga,Cagliari,27,11,934,0,0,0,0,3,0,Dif,
-2021-22,Edoardo Goldaniga,Sassuolo,27,1,1,0,0,0,0,0,0,Dif,Cen
-2021-22,Cedric Gondo,Salernitana,24,14,699,1,0,1,0,1,0,Att,
-2021-22,Nicolás González,Fiorentina,23,33,2.357,7,6,4,3,4,1,Att,
-2021-22,Robin Gosens,Atalanta,27,6,460,1,0,1,0,2,0,Dif,
-2021-22,Robin Gosens,Inter,27,7,169,0,1,0,0,1,0,Dif,
-2021-22,Alberto Grassi,Cagliari,26,30,2.174,0,1,0,0,6,1,Cen,
-2021-22,Koray Günter,Hellas Verona,26,30,2.411,0,0,0,0,10,0,Dif,
-2021-22,Albert Guðmundsson,Genoa,24,12,607,1,0,1,0,3,0,Att,Cen
-2021-22,Emmanuel Gyasi,Spezia,27,36,3.035,6,0,6,0,10,0,Att,Cen
-2021-22,Norbert Gyömbér,Salernitana,29,31,2.563,0,0,0,0,9,0,Dif,
-2021-22,Nicolas Haas,Empoli,25,16,1.001,0,2,0,0,3,0,Cen,
-2021-22,Samir Handanovič,Inter,37,37,3.33,0,0,0,0,1,0,Por,
-2021-22,Ridgeciano Haps,Venezia,28,25,2.056,1,1,1,0,6,0,Dif,
-2021-22,Abdou Harroui,Sassuolo,23,22,452,0,0,0,0,2,0,Cen,
-2021-22,Hans Hateboer,Atalanta,27,21,1.386,0,0,0,0,2,0,Dif,Cen
-2021-22,Silvan Hefti,Genoa,23,16,1.288,0,0,0,0,1,0,Dif,
-2021-22,Liam Henderson,Empoli,25,38,2.02,2,3,2,0,4,0,Cen,
-2021-22,Dalbert Henrique,Cagliari,27,28,2.081,0,2,0,0,9,0,Dif,Cen
-2021-22,Matheus Henrique,Sassuolo,23,25,1.078,0,1,0,0,3,0,Cen,
-2021-22,Thomas Henry,Venezia,26,33,2.115,9,2,9,0,6,1,Att,
-2021-22,Theo Hernández,Milan,23,32,2.711,5,5,4,1,7,2,Dif,
-2021-22,Hernani Azevedo Júnior,Genoa,27,18,682,0,0,0,0,0,0,Cen,Att
-2021-22,Daan Heymans,Venezia,22,7,256,0,1,0,0,4,0,Cen,Att
-2021-22,Aaron Hickey,Bologna,19,36,2.82,5,1,5,0,7,0,Dif,
-2021-22,Martin Hongla,Hellas Verona,23,18,651,1,0,1,0,3,0,Cen,
-2021-22,Sydney van Hooijdonk,Bologna,21,4,38,0,0,0,0,0,0,Att,Cen
-2021-22,Petko Hristov,Spezia,22,17,1.248,1,1,1,0,3,0,Dif,
-2021-22,Elseid Hisaj,Lazio,27,29,2.027,1,0,1,0,3,0,Dif,
-2021-22,Roger Ibanez,Roma,22,34,2.889,3,0,3,0,9,0,Dif,
-2021-22,Zlatan Ibrahimović,Milan,39,23,1.016,8,2,8,0,2,0,Att,
-2021-22,Igor,Fiorentina,23,30,2.242,0,0,0,0,3,0,Dif,
-2021-22,Jonathan Ikone,Fiorentina,23,17,649,1,1,1,0,1,0,Att,
-2021-22,Ivan Ilić,Hellas Verona,20,32,2.526,1,3,1,0,5,1,Cen,
-2021-22,Josip Iličič,Atalanta,33,20,841,3,3,3,0,1,0,Cen,Att
-2021-22,Ciro Immobile,Lazio,31,31,2.711,27,2,20,7,4,0,Att,
-2021-22,Lorenzo Insigne,Napoli,30,32,2.29,11,8,2,9,2,0,Att,
-2021-22,Ardian Ismajli,Empoli,24,20,1.272,0,0,0,0,7,0,Dif,
-2021-22,Armando Izzo,Torino,29,11,526,0,0,0,0,4,0,Dif,
-2021-22,Mato Jajalo,Udinese,33,22,629,0,1,0,0,2,0,Cen,
-2021-22,Paweł Jaroszyński,Salernitana,26,13,516,0,0,0,0,2,0,Dif,
-2021-22,Juan Guilherme Nunes Jesus,Napoli,30,21,1.278,1,0,1,0,1,0,Dif,
-2021-22,Dennis Johnsen,Venezia,23,26,1.445,1,2,1,0,2,0,Att,Cen
-2021-22,Kaio Jorge,Juventus,19,9,121,0,0,0,0,0,0,Cen,Att
-2021-22,Flavio Junior Bianchi,Genoa,21,7,314,1,0,1,0,0,0,Att,Cen
-2021-22,Hamed Junior Traorè,Sassuolo,21,31,1.775,7,2,7,0,3,0,Att,Cen
-2021-22,Nikola Kalinić,Hellas Verona,33,14,406,4,1,4,0,5,1,Att,
-2021-22,Yayah Kallon,Genoa,20,15,636,0,1,0,0,3,0,Att,Cen
-2021-22,Pierre Kalulu,Milan,21,28,1.944,1,2,1,0,4,0,Dif,
-2021-22,Dimitrije Kamenović,Lazio,21,1,45,0,0,0,0,0,0,Dif,
-2021-22,Rick Karsdorp,Roma,26,36,2.883,0,2,0,0,9,1,Dif,Att
-2021-22,Denso Kasius,Bologna,18,7,180,0,0,0,0,0,0,Dif,Att
-2021-22,Grigoris Kastanos,Salernitana,23,27,1.348,1,1,1,0,4,1,Cen,Att
-2021-22,Moise Kean,Juventus,21,32,1.098,5,2,5,0,5,0,Att,
-2021-22,Wajdi Kechrida,Salernitana,25,17,952,0,1,0,0,0,0,Dif,Cen
-2021-22,Dimitrios Keramitsis,Roma,17,1,1,0,0,0,0,0,0,Cen,
-2021-22,Franck Kessié,Milan,24,31,2.308,6,0,4,2,2,0,Cen,
-2021-22,Jakub Kiwior,Spezia,21,22,1.964,0,0,0,0,6,0,Cen,
-2021-22,Sofian Kiyine,Venezia,23,26,1.239,1,0,1,0,8,1,Cen,Att
-2021-22,Simon Kjær,Milan,32,11,802,0,0,0,0,2,0,Dif,
-2021-22,Aleksandr Kokorin,Fiorentina,30,6,55,0,0,0,0,1,0,Att,Cen
-2021-22,Aleksandar Kolarov,Inter,35,3,42,0,0,0,0,0,0,Dif,
-2021-22,Teun Koopmeiners,Atalanta,23,30,2.126,4,1,4,0,4,0,Cen,
-2021-22,Kalidou Koulibaly,Napoli,30,27,2.405,3,1,3,0,5,1,Dif,
-2021-22,Christos Kourfalidis,Cagliari,18,2,18,0,0,0,0,0,0,Cen,Att
-2021-22,Viktor Kovalenko,Spezia,25,26,1.325,1,3,1,0,4,0,Cen,
-2021-22,Julian Kristoffersen,Salernitana,24,1,7,0,0,0,0,0,0,Att,
-2021-22,Rade Krunić,Milan,27,28,1.416,0,1,0,0,2,0,Cen,Att
-2021-22,Dejan Kulusevski,Juventus,21,20,772,1,3,1,0,1,0,Att,Cen
-2021-22,Marash Kumbulla,Roma,21,17,1.025,0,0,0,0,6,0,Dif,
-2021-22,Giorgos Kyriakopoulos,Sassuolo,25,29,1.975,0,5,0,0,6,1,Dif,Att
-2021-22,Andrea La Mantia,Empoli,30,18,488,2,0,2,0,0,0,Att,Cen
-2021-22,Sam Lammers,Atalanta,24,2,38,0,0,0,0,0,0,Att,Cen
-2021-22,Kevin Lasagna,Hellas Verona,28,28,1.184,2,4,2,0,1,0,Cen,Att
-2021-22,Darko Lazović,Hellas Verona,30,34,2.766,1,7,1,0,2,0,Dif,
-2021-22,Manuel Lazzari,Lazio,27,31,1.665,3,3,3,0,3,0,Dif,
-2021-22,Patrick Leal,Venezia,18,1,2,0,0,0,0,0,0,Att,
-2021-22,Rafael Leão,Milan,22,34,2.605,11,10,11,0,4,0,Att,
-2021-22,Lucas Leiva,Lazio,34,35,1.697,0,0,0,0,9,0,Cen,
-2021-22,Luca Lezzerini,Venezia,26,6,495,0,0,0,0,2,0,Por,
-2021-22,Ben Lhassine Kone,Torino,21,1,81,0,0,0,0,0,0,Cen,
-2021-22,Matthijs de Ligt,Juventus,21,31,2.674,3,1,3,0,4,1,Dif,
-2021-22,Anderson Lima,Lazio,21,4,65,0,0,0,0,1,0,Cen,
-2021-22,Karol Linetty,Torino,26,16,896,0,0,0,0,2,0,Cen,Att
-2021-22,Stanislav Lobotka,Napoli,26,23,1.686,1,0,1,0,2,0,Cen,
-2021-22,Manuel Locatelli,Juventus,23,31,2.16,3,3,3,0,6,0,Cen,
-2021-22,Maxime Lopez,Sassuolo,23,35,2.938,2,1,2,0,14,0,Cen,
-2021-22,Matteo Lovato,Atalanta,21,6,305,0,0,0,0,1,0,Dif,
-2021-22,Matteo Lovato,Cagliari,21,16,1.238,0,0,0,0,4,0,Dif,
-2021-22,Hirving Lozano,Napoli,26,30,1.613,5,5,5,0,3,0,Att,
-2021-22,José Luis Palomino,Atalanta,31,34,2.672,1,0,1,0,9,0,Dif,
-2021-22,Saša Lukić,Torino,24,35,2.982,5,4,2,3,10,0,Cen,
-2021-22,Sebastiano Luperto,Empoli,24,24,1.958,0,1,0,0,8,1,Dif,
-2021-22,Charalampos Lykogiannīs,Cagliari,27,28,1.817,1,0,1,0,2,0,Dif,Att
-2021-22,Niki Mäenpää,Venezia,36,17,1.485,0,1,0,0,1,0,Por,
-2021-22,Giulio Maggiore,Spezia,23,35,2.819,2,3,2,0,9,0,Cen,
-2021-22,Francesco Magnanelli,Sassuolo,36,12,271,0,0,0,0,1,0,Cen,
-2021-22,Giangiacomo Magnani,Hellas Verona,25,14,530,0,0,0,0,3,1,Dif,
-2021-22,Giangiacomo Magnani,Sampdoria,25,4,239,0,0,0,0,0,0,Dif,
-2021-22,Mike Maignan,Milan,26,32,2.88,0,1,0,0,1,0,Por,
-2021-22,Ainsley Maitland-Niles,Roma,23,8,487,0,0,0,0,0,0,Dif,
-2021-22,Jean-Victor Makengo,Udinese,23,33,2.351,1,3,1,0,7,1,Cen,
-2021-22,Nikola Maksimović,Genoa,29,14,1.115,0,0,0,0,2,0,Dif,
-2021-22,Kévin Malcuit,Napoli,30,8,288,0,1,0,0,3,0,Dif,Cen
-2021-22,Daniel Maldini,Milan,19,8,148,1,0,1,0,1,0,Cen,
-2021-22,Youssef Maleh,Fiorentina,22,28,1.019,2,2,2,0,5,0,Cen,
-2021-22,Ruslan Malinovs'kyj,Atalanta,28,30,1.592,6,5,6,0,10,0,Cen,Att
-2021-22,Rey Manaj,Spezia,24,30,1.768,5,0,3,2,9,0,Att,
-2021-22,Gianluca Mancini,Roma,25,33,2.878,0,0,0,0,16,1,Dif,
-2021-22,Leonardo Mancuso,Empoli,29,8,425,1,0,1,0,0,0,Att,
-2021-22,Rolando Mandragora,Torino,24,21,1.319,0,2,0,0,7,1,Cen,
-2021-22,Kostas Manolas,Napoli,30,4,313,0,0,0,0,1,0,Dif,
-2021-22,Riccardo Marchizza,Empoli,23,19,1.346,0,1,0,0,4,0,Dif,
-2021-22,Gian Marco Ferrari,Sassuolo,29,36,3.124,1,0,1,0,6,1,Dif,
-2021-22,Davide Marfella,Napoli,21,1,11,0,0,0,0,0,0,Por,
-2021-22,Pablo Marí,Udinese,27,15,1.341,2,0,2,0,2,1,Dif,
-2021-22,Răzvan Marin,Cagliari,25,36,2.816,0,5,0,0,6,1,Cen,
-2021-22,Lautaro Martínez,Inter,23,35,2.282,21,3,18,3,6,0,Att,
-2021-22,Lucas Martínez Quarta,Fiorentina,25,20,1.431,1,0,1,0,8,0,Dif,
-2021-22,Adam Marušić,Lazio,28,33,2.721,1,0,1,0,6,1,Dif,
-2021-22,Andrea Masiello,Genoa,35,7,515,0,0,0,0,3,0,Dif,
-2021-22,Aleš Matějů,Venezia,25,9,727,0,1,0,0,3,0,Dif,
-2021-22,Borja Mayoral,Roma,24,5,96,0,0,0,0,0,0,Att,Dif
-2021-22,Pasquale Mazzocchi,Venezia,26,18,1.243,0,0,0,0,3,0,Dif,
-2021-22,Pasquale Mazzocchi,Salernitana,26,15,1.269,0,2,0,0,2,0,Dif,
-2021-22,Ibrahima Mbaye,Bologna,26,6,108,0,0,0,0,0,0,Dif,
-2021-22,Weston McKennie,Juventus,22,21,1.369,3,0,3,0,1,0,Cen,
-2021-22,Gary Medel,Bologna,33,33,2.823,0,1,0,0,10,1,Dif,
-2021-22,Filippo Melegoni,Genoa,22,25,980,1,0,1,0,1,0,Cen,Att
-2021-22,Arthur Melo,Juventus,24,20,962,0,0,0,0,3,0,Cen,
-2021-22,Alex Meret,Napoli,24,7,619,0,0,0,0,0,0,Por,
-2021-22,Yıldırım Mert Çetin,Hellas Verona,24,2,46,0,0,0,0,0,0,Cen,
-2021-22,Dries Mertens,Napoli,34,30,1.384,11,1,10,1,2,0,Att,Cen
-2021-22,Junior Messias,Milan,30,26,1.428,5,2,5,0,2,0,Att,Cen
-2021-22,Kingsley Michael,Bologna,21,2,76,0,0,0,0,0,0,Cen,
-2021-22,Valentin Mihaila,Atalanta,21,5,76,0,0,0,0,0,0,Cen,Att
-2021-22,Mikael,Salernitana,22,7,87,0,0,0,0,0,0,Att,Cen
-2021-22,Hilmir Mikaelsson,Venezia,17,1,18,0,0,0,0,0,0,Att,
-2021-22,Nikola Milenković,Fiorentina,23,34,2.926,1,0,1,0,10,1,Dif,
-2021-22,Sergej Milinković-Savić,Lazio,26,37,3.1,11,10,11,0,6,1,Cen,
-2021-22,Vanja Milinković-Savić,Torino,24,27,2.43,0,0,0,0,3,0,Por,
-2021-22,Aleksej Mirančuk,Atalanta,25,19,772,2,5,2,0,0,0,Cen,Att
-2021-22,Fabio Miretti,Juventus,17,6,321,0,0,0,0,0,0,Cen,
-2021-22,Henrix Mxit'aryan,Roma,32,31,2.495,5,6,5,0,4,1,Cen,Att
-2021-22,Marco Modolo,Venezia,32,6,392,0,0,0,0,2,0,Dif,
-2021-22,Nahuel Molina,Udinese,23,35,2.638,7,2,7,0,7,1,Dif,
-2021-22,Cristian Molinaro,Venezia,38,8,548,0,1,0,0,0,0,Dif,
-2021-22,Lorenzo Montipò,Hellas Verona,25,34,3.06,0,0,0,0,1,0,Por,
-2021-22,Álvaro Morata,Juventus,28,35,2.302,9,4,8,1,5,0,Att,
-2021-22,Raúl Moro,Lazio,18,11,201,0,1,0,0,0,0,Att,
-2021-22,Andrei Motoc,Salernitana,19,1,90,0,0,0,0,0,0,Dif,
-2021-22,Lys Mousset,Salernitana,25,6,160,0,1,0,0,2,0,Cen,Att
-2021-22,Samuel Mráz,Spezia,24,2,54,0,0,0,0,0,0,Att,
-2021-22,Mert Müldür,Sassuolo,22,31,2.046,0,0,0,0,5,0,Dif,
-2021-22,Luis Muriel,Atalanta,30,27,1.539,9,8,7,2,1,0,Att,Cen
-2021-22,Vedat Muriqi,Lazio,27,11,215,0,0,0,0,1,0,Att,
-2021-22,Nicola Murru,Sampdoria,26,22,983,1,0,1,0,5,0,Dif,
-2021-22,Juan Musso,Atalanta,27,33,2.932,0,0,0,0,1,1,Por,
-2021-22,Joakim Mæhle,Atalanta,24,26,1.471,1,1,1,0,2,0,Dif,Cen
-2021-22,Nahitan Nández,Cagliari,25,21,1.523,0,2,0,0,4,0,Cen,Dif
-2021-22,Luís Carlos Almeida da Cunha,Venezia,34,10,287,0,1,0,0,1,0,Cen,Att
-2021-22,Matija Nastasić,Fiorentina,28,5,219,0,0,0,0,1,0,Dif,
-2021-22,Ilija Nestorovski,Udinese,31,7,188,1,0,1,0,1,0,Att,
-2021-22,Aurélien Nguiamba,Spezia,22,3,51,0,0,0,0,1,0,Cen,
-2021-22,Dīmītrīs Nikolaou,Spezia,22,36,3.24,0,0,0,0,7,0,Dif,
-2021-22,Jean-Pierre Nsame,Venezia,28,11,245,0,1,0,0,0,0,Att,
-2021-22,Bram Nuytinck,Udinese,31,27,2.033,1,0,1,0,2,0,Dif,
-2021-22,Simy,Salernitana,29,19,842,1,1,1,0,0,0,Att,
-2021-22,M'Bala Nzola,Spezia,24,21,1.068,2,1,2,0,2,0,Att,
-2021-22,Adam Obert,Cagliari,18,6,274,0,0,0,0,0,0,Dif,Cen
-2021-22,Joel Obi,Salernitana,30,21,1.143,0,1,0,0,4,0,Cen,Dif
-2021-22,Brian Oddei,Sassuolo,18,2,8,0,0,0,0,0,0,Att,
-2021-22,Álvaro Odriozola,Fiorentina,25,25,1.733,1,2,1,0,4,1,Dif,
-2021-22,Stefano Okaka,Udinese,31,2,22,0,1,0,0,1,0,Att,
-2021-22,David Okereke,Venezia,23,32,2.053,7,0,7,0,5,1,Att,Cen
-2021-22,Christian Oliva,Cagliari,25,4,48,0,0,0,0,0,0,Cen,
-2021-22,Sérgio Oliveira,Roma,29,14,892,2,0,1,1,5,0,Cen,
-2021-22,Riccardo Orsolini,Bologna,24,29,1.785,6,3,4,2,2,0,Att,Cen
-2021-22,Victor Osimhen,Napoli,22,27,1.983,14,2,14,0,5,1,Att,
-2021-22,David Ospina,Napoli,32,31,2.79,0,0,0,0,1,0,Por,
-2021-22,Adam Ounas,Napoli,24,15,326,0,0,0,0,1,0,Cen,Att
-2021-22,Daniele Padelli,Udinese,35,3,270,0,0,0,0,0,0,Por,
-2021-22,Simone Pafundi,Udinese,15,1,23,0,0,0,0,0,0,Att,
-2021-22,Martin Palumbo,Juventus,19,1,13,0,0,0,0,0,0,Att,
-2021-22,Goran Pandev,Genoa,38,20,843,0,1,0,0,1,0,Att,Cen
-2021-22,Ivor Pandur,Hellas Verona,21,3,270,0,0,0,0,0,0,Por,
-2021-22,Fabiano Parisi,Empoli,20,25,1.477,0,1,0,0,5,0,Dif,
-2021-22,Mario Pašalić,Atalanta,26,37,2.002,13,6,13,0,3,0,Cen,Att
-2021-22,Patricio Gabarrón,Lazio,28,24,1.649,1,1,1,0,7,1,Dif,
-2021-22,Rui Patrício,Roma,33,38,3.42,0,0,0,0,2,0,Por,
-2021-22,Leonardo Pavoletti,Cagliari,32,33,1.518,5,1,5,0,9,0,Att,
-2021-22,Pedro Rodríguez Ledesma,Lazio,34,32,2.033,9,4,9,0,5,0,Att,
-2021-22,João Pedro,Cagliari,29,37,3.323,13,4,10,3,9,0,Att,
-2021-22,Gianluca Pegolo,Sassuolo,40,1,90,0,0,0,0,0,0,Por,
-2021-22,Pietro Pellegri,Torino,20,9,216,1,0,1,0,1,0,Att,
-2021-22,Pietro Pellegri,Milan,20,6,131,0,0,0,0,0,0,Att,
-2021-22,Lorenzo Pellegrini,Roma,25,28,2.289,9,3,7,2,8,1,Cen,
-2021-22,Luca Pellegrini,Juventus,22,18,1.107,0,1,0,0,6,0,Dif,
-2021-22,Federico Peluso,Sassuolo,37,2,11,0,0,0,0,0,0,Dif,
-2021-22,Gastón Pereiro,Cagliari,26,29,975,4,2,4,0,1,0,Att,Cen
-2021-22,Dor Peretz,Venezia,26,18,585,0,1,0,0,2,0,Cen,
-2021-22,Roberto Pereyra,Udinese,30,24,1.794,3,5,2,1,10,1,Cen,Att
-2021-22,Carles Pérez,Roma,23,19,554,1,1,1,0,2,0,Cen,Att
-2021-22,Nehuén Pérez,Udinese,21,20,1.692,0,1,0,0,6,0,Dif,
-2021-22,Mattia Perin,Juventus,28,5,405,0,0,0,0,0,0,Por,
-2021-22,Ivan Perišić,Inter,32,35,2.821,8,6,7,1,4,0,Dif,
-2021-22,Diego Perotti,Salernitana,33,11,287,0,0,0,0,1,0,Cen,Att
-2021-22,Mario Perrone,Salernitana,18,1,15,0,0,0,0,0,0,Dif,
-2021-22,Matteo Pessina,Atalanta,24,27,1.438,1,1,1,0,0,0,Cen,Att
-2021-22,Andrea Petagna,Napoli,26,24,586,3,1,3,0,1,0,Att,
-2021-22,Giuseppe Pezzella,Atalanta,23,21,1.072,0,2,0,0,3,0,Dif,Cen
-2021-22,Krzysztof Piątek,Fiorentina,26,14,733,3,0,3,0,0,0,Att,
-2021-22,Roberto Piccoli,Genoa,20,5,218,0,0,0,0,0,0,Att,
-2021-22,Roberto Piccoli,Atalanta,20,12,196,1,0,1,0,0,0,Att,
-2021-22,Andrea Pinamonti,Empoli,22,36,2.869,13,2,9,4,4,0,Att,
-2021-22,Carlo Pinsoglio,Juventus,31,1,45,0,0,0,0,0,0,Por,
-2021-22,Riccardo Pinzi,Udinese,17,1,1,0,0,0,0,0,0,Att,
-2021-22,Marko Pjaca,Torino,26,24,1.149,3,0,3,0,0,0,Cen,
-2021-22,Tommaso Pobega,Torino,22,33,2.24,4,2,4,0,11,0,Cen,
-2021-22,Suf Podgoreanu,Spezia,19,5,113,0,1,0,0,0,0,Att,
-2021-22,Matteo Politano,Napoli,27,33,1.65,3,4,3,0,3,0,Att,
-2021-22,Manolo Portanova,Genoa,21,24,1.322,1,0,1,0,4,0,Att,Cen
-2021-22,Dennis Praet,Torino,27,23,1.539,2,2,2,0,3,0,Cen,
-2021-22,Mateusz Praszelik,Hellas Verona,20,2,25,0,0,0,0,0,0,Cen,
-2021-22,Ivan Provedel,Spezia,27,31,2.761,0,0,0,0,2,0,Por,
-2021-22,Erick Pulgar,Fiorentina,27,6,341,0,1,0,0,2,0,Cen,
-2021-22,Ignacio Pussetto,Udinese,25,28,1.204,4,4,3,1,4,0,Att,Cen
-2021-22,Niklas Pyyhtiä,Bologna,17,1,19,0,0,0,0,0,0,Cen,
-2021-22,Fabio Quagliarella,Sampdoria,38,33,1.664,4,2,3,1,2,0,Att,
-2021-22,Adrien Rabiot,Juventus,26,32,2.285,0,2,0,0,5,0,Cen,
-2021-22,Ivan Radovanović,Salernitana,32,14,1.053,1,1,1,0,4,0,Dif,Cen
-2021-22,Ionuț Andrei Radu,Inter,24,1,90,0,0,0,0,0,0,Por,
-2021-22,Ștefan Radu,Lazio,34,10,556,0,0,0,0,2,0,Dif,
-2021-22,Boris Radunović,Cagliari,25,3,270,0,0,0,0,0,1,Por,
-2021-22,Antonio Raimondo,Bologna,17,1,74,0,0,0,0,0,0,Att,
-2021-22,Aaron Ramsey,Juventus,30,3,99,0,0,0,0,0,0,Cen,
-2021-22,Luca Ranieri,Salernitana,22,27,2.103,1,0,1,0,9,0,Dif,
-2021-22,Andrea Ranocchia,Inter,33,6,341,0,0,0,0,1,0,Dif,
-2021-22,Giacomo Raspadori,Sassuolo,21,36,2.74,10,4,10,0,9,1,Cen,Att
-2021-22,Nicola Ravaglia,Sampdoria,32,1,5,0,0,0,0,0,0,Por,
-2021-22,Ante Rebić,Milan,27,24,891,2,2,2,0,2,0,Att,
-2021-22,Arkadiusz Reca,Spezia,26,25,1.772,0,2,0,0,3,0,Dif,
-2021-22,José Manuel Reina,Lazio,38,15,1.35,0,1,0,0,3,0,Por,
-2021-22,Panagiōtīs Retsos,Hellas Verona,22,5,55,0,0,0,0,0,0,Dif,
-2021-22,Bryan Reynolds,Roma,20,1,2,0,0,0,0,0,0,Dif,
-2021-22,Franck Ribéry,Salernitana,38,23,1.421,0,2,0,0,3,1,Cen,Att
-2021-22,Samuele Ricci,Torino,19,12,722,0,0,0,0,1,0,Cen,
-2021-22,Samuele Ricci,Empoli,19,21,1.53,1,1,1,0,1,1,Cen,
-2021-22,Tomás Rincón,Torino,33,7,163,0,0,0,0,2,0,Cen,
-2021-22,Tomás Rincón,Sampdoria,33,17,1.166,0,0,0,0,3,0,Cen,
-2021-22,Ricardo Rodríguez,Torino,28,34,2.473,0,1,0,0,3,0,Dif,
-2021-22,Marko Rog,Cagliari,26,8,311,0,1,0,0,0,0,Cen,
-2021-22,Rogério Oliveira da Silva,Sassuolo,23,23,1.729,0,1,0,0,5,0,Dif,
-2021-22,Alessio Romagnoli,Milan,26,19,1.409,1,0,1,0,4,1,Dif,
-2021-22,Simone Romagnoli,Empoli,31,19,1.497,2,0,2,0,3,0,Dif,
-2021-22,Luka Romero,Lazio,16,8,84,0,0,0,0,0,0,Att,
-2021-22,Sergio Romero,Venezia,34,16,1.44,0,0,0,0,2,0,Por,
-2021-22,Cristiano Ronaldo,Juventus,36,1,31,0,0,0,0,1,0,Att,
-2021-22,Marten de Roon,Atalanta,30,30,2.548,3,0,3,0,7,1,Cen,Dif
-2021-22,Francesco Rossi,Atalanta,30,1,37,0,0,0,0,0,0,Por,
-2021-22,Nicolò Rovella,Genoa,19,21,1.468,0,3,0,0,5,0,Cen,
-2021-22,Amir Rrahmani,Napoli,27,33,2.927,4,0,4,0,5,0,Dif,
-2021-22,Ruan,Sassuolo,22,10,214,0,0,0,0,1,0,Dif,
-2021-22,Daniele Rugani,Juventus,27,12,879,0,0,0,0,2,0,Dif,
-2021-22,Matteo Ruggeri,Salernitana,19,14,676,0,0,0,0,1,0,Dif,
-2021-22,Mário Rui,Napoli,30,34,2.992,0,5,0,0,7,0,Dif,
-2021-22,Fabián Ruiz Peña,Napoli,25,32,2.384,7,4,7,0,2,0,Cen,
-2021-22,Alessandro Russo,Salernitana,17,1,29,0,0,0,0,0,0,Cen,
-2021-22,Stefano Sabelli,Genoa,28,7,348,0,0,0,0,3,0,Dif,
-2021-22,Abdelhamid Sabiri,Sampdoria,24,14,893,3,2,3,0,3,0,Cen,Att
-2021-22,Alexis Saelemaekers,Milan,22,36,1.865,1,3,1,0,2,0,Att,
-2021-22,Jacopo Sala,Spezia,29,18,880,1,0,1,0,3,0,Cen,
-2021-22,Eddie Salcedo,Spezia,19,12,429,0,0,0,0,1,0,Cen,Att
-2021-22,Lazar Samardzic,Udinese,19,22,490,2,2,2,0,0,0,Cen,Att
-2021-22,Luigi Samele,Sassuolo,19,2,5,0,1,0,0,0,0,Att,
-2021-22,Antonio Sanabria,Torino,25,29,1.803,6,1,6,0,3,0,Att,
-2021-22,Alexis Sánchez,Inter,32,27,881,5,2,5,0,0,0,Att,
-2021-22,Alex Sandro Lobo Silva,Juventus,30,28,1.78,0,1,0,0,3,0,Dif,
-2021-22,Nicola Sansone,Bologna,29,27,896,2,3,2,0,6,0,Att,Cen
-2021-22,Federico Santander,Bologna,30,7,67,1,0,1,0,1,0,Att,Dif
-2021-22,Samir Caetano de Souza Santos,Udinese,26,17,1.421,0,0,0,0,5,0,Dif,
-2021-22,Riccardo Saponara,Fiorentina,29,29,1.284,3,3,3,0,1,0,Att,
-2021-22,Giacomo Satalino,Sassuolo,22,1,8,0,0,0,0,0,0,Por,
-2021-22,Martin Satriano,Inter,20,4,38,0,0,0,0,0,0,Att,Cen
-2021-22,Giorgio Scalvini,Atalanta,17,18,763,1,0,1,0,1,0,Dif,Cen
-2021-22,Gianluca Scamacca,Sassuolo,22,36,2.146,16,0,15,1,7,0,Att,
-2021-22,Andrea Schiavone,Salernitana,28,14,571,1,0,1,0,1,0,Cen,
-2021-22,David Schnegg,Venezia,22,4,142,0,0,0,0,1,0,Dif,
-2021-22,Jerdy Schouten,Bologna,24,17,1.392,1,1,1,0,4,1,Cen,
-2021-22,Demba Seck,Torino,20,6,146,0,0,0,0,0,0,Cen,Att
-2021-22,Adrian Šemper,Genoa,23,1,90,0,0,0,0,0,0,Por,
-2021-22,Stefano Sensi,Sampdoria,25,11,754,1,0,1,0,1,0,Cen,Att
-2021-22,Stefano Sensi,Inter,25,9,167,0,0,0,0,0,0,Cen,Att
-2021-22,Luigi Sepe,Salernitana,30,16,1.392,0,0,0,0,2,0,Por,
-2021-22,Laurens Serpe,Genoa,20,1,45,0,0,0,0,0,0,Dif,
-2021-22,Stephan El Shaarawy,Roma,28,27,1.055,3,0,3,0,1,0,Att,Dif
-2021-22,Aimar Sher,Spezia,18,1,45,0,0,0,0,0,0,Cen,
-2021-22,Eldor Shomurodov,Roma,26,28,784,3,4,3,0,2,0,Att,Cen
-2021-22,Alassane Sidibe,Atalanta,19,1,6,0,0,0,0,0,0,Cen,
-2021-22,Arnór Sigurðsson,Venezia,22,9,183,0,0,0,0,0,0,Att,Cen
-2021-22,Adrien Silva,Sampdoria,32,17,1.083,0,1,0,0,3,1,Cen,
-2021-22,Marco Silvestri,Udinese,30,35,3.15,0,0,0,0,1,0,Por,
-2021-22,Giovanni Simeone,Hellas Verona,26,35,2.653,17,5,17,0,8,0,Att,
-2021-22,Giovanni Simeone,Cagliari,26,1,7,0,0,0,0,0,0,Att,
-2021-22,Wilfried Singo,Torino,20,35,2.607,3,4,3,0,5,1,Dif,
-2021-22,Salvatore Sirigu,Genoa,34,37,3.33,0,0,0,0,0,0,Por,
-2021-22,Leo Skiri Østigård,Genoa,21,15,1.172,0,0,0,0,4,2,Dif,
-2021-22,Łukasz Skorupski,Bologna,30,36,3.24,0,0,0,0,4,0,Por,
-2021-22,Andreas Skov Olsen,Bologna,21,18,747,0,2,0,0,0,0,Att,Dif
-2021-22,Milan Škriniar,Inter,26,35,3.15,3,0,3,0,3,0,Dif,
-2021-22,Chris Smalling,Roma,31,27,2.091,3,0,3,0,0,0,Dif,
-2021-22,Brandon Soppy,Udinese,19,28,777,0,0,0,0,4,0,Dif,Cen
-2021-22,Roberto Soriano,Bologna,30,35,2.622,0,4,0,0,6,2,Cen,
-2021-22,Riccardo Sottil,Fiorentina,22,24,1.239,3,2,3,0,4,1,Att,
-2021-22,Matìas Soulé,Juventus,18,2,5,0,0,0,0,0,0,Att,
-2021-22,Adama Soumaoro,Bologna,29,28,2.266,0,0,0,0,6,2,Dif,
-2021-22,Leonardo Spinazzola,Roma,28,3,127,0,0,0,0,1,0,Dif,
-2021-22,Marco Sportiello,Atalanta,29,5,450,0,0,0,0,1,0,Por,
-2021-22,Luca Stanga,Milan,19,1,3,0,0,0,0,0,0,Dif,
-2021-22,Riccardo Stivanello,Bologna,17,1,45,0,0,0,0,0,0,Dif,
-2021-22,Petar Stojanović,Empoli,25,33,2.735,1,1,1,0,11,1,Dif,
-2021-22,Thomas Strakosha,Lazio,26,23,2.07,0,0,0,0,2,0,Por,
-2021-22,Stefan Strandberg,Salernitana,31,11,933,0,0,0,0,2,1,Dif,
-2021-22,Dávid Strelec,Spezia,20,10,502,1,0,1,0,0,0,Att,Cen
-2021-22,Kevin Strootman,Cagliari,31,10,640,0,0,0,0,4,0,Cen,
-2021-22,Jens Stryger Larsen,Udinese,30,11,684,0,1,0,0,0,0,Dif,
-2021-22,Leo Stulac,Empoli,26,23,833,2,2,2,0,1,0,Cen,
-2021-22,Stefano Sturaro,Genoa,28,25,1.766,0,0,0,0,12,0,Cen,
-2021-22,Isaac Success,Udinese,25,22,911,2,6,2,0,1,1,Att,Cen
-2021-22,Vladyslav Supriaha,Sampdoria,21,1,22,0,0,0,0,0,0,Att,
-2021-22,Bosko Sutalo,Hellas Verona,21,24,920,0,0,0,0,0,0,Dif,
-2021-22,Mattias Svanberg,Bologna,22,36,2.564,3,3,3,0,7,0,Cen,
-2021-22,Michael Svoboda,Venezia,22,18,1.236,0,0,0,0,2,1,Dif,
-2021-22,Wojciech Szczęsny,Juventus,31,33,2.97,0,0,0,0,2,0,Por,
-2021-22,Adrien Tameze,Hellas Verona,27,38,2.574,4,2,4,0,4,0,Cen,Dif
-2021-22,Ciprian Tătărușanu,Milan,35,6,540,0,0,0,0,0,0,Por,
-2021-22,Filippo Terracciano,Hellas Verona,18,1,7,0,0,0,0,0,0,Dif,
-2021-22,Pietro Terracciano,Fiorentina,31,32,2.862,0,0,0,0,0,0,Por,
-2021-22,Aleksa Terzić,Fiorentina,21,14,274,0,1,0,0,1,0,Dif,
-2021-22,Tanner Tessmann,Venezia,19,20,680,0,0,0,0,1,1,Cen,
-2021-22,Arthur Theate,Bologna,21,31,2.424,2,1,2,0,6,0,Dif,
-2021-22,Morten Thorsby,Sampdoria,25,35,2.943,3,1,3,0,10,0,Cen,
-2021-22,Jeremy Toljan,Sassuolo,26,20,1.399,0,1,0,0,2,0,Dif,
-2021-22,Rafael Tolói,Atalanta,30,20,1.438,1,1,1,0,6,0,Dif,
-2021-22,Takehiro Tomiyasu,Bologna,22,1,10,0,0,0,0,0,0,Dif,
-2021-22,Fikayo Tomori,Milan,23,31,2.718,0,0,0,0,4,0,Dif,
-2021-22,Sandro Tonali,Milan,21,36,2.6,5,2,5,0,9,0,Cen,
-2021-22,Lorenzo Tonelli,Empoli,31,14,870,0,0,0,0,4,0,Dif,
-2021-22,Ernesto Torregrossa,Sampdoria,29,10,116,0,0,0,0,1,0,Att,
-2021-22,Lucas Torreira,Fiorentina,25,31,2.195,5,1,5,0,10,1,Cen,
-2021-22,Abdoulaye Touré,Genoa,27,8,430,0,0,0,0,1,0,Cen,
-2021-22,Simone Trimboli,Sampdoria,19,5,65,0,0,0,0,1,0,Cen,
-2021-22,Axel Tuanzebe,Napoli,23,1,11,0,0,0,0,0,0,Dif,
-2021-22,Destiny Udogie,Udinese,18,35,2.477,5,3,5,0,4,0,Dif,
-2021-22,Maximilian Ullmann,Venezia,25,5,246,0,0,0,0,0,0,Dif,
-2021-22,Kacper Urbanski,Bologna,16,1,45,0,0,0,0,0,0,Cen,
-2021-22,Antonio Vacca,Venezia,31,21,1.064,0,0,0,0,5,0,Cen,
-2021-22,Zinho Vanheusden,Genoa,22,14,989,0,0,0,0,3,0,Dif,
-2021-22,Johan Vásquez,Genoa,22,28,2.279,1,0,1,0,7,0,Dif,
-2021-22,Denis Vavro,Lazio,25,1,8,0,0,0,0,0,0,Dif,
-2021-22,Matías Vecino,Inter,29,17,377,1,0,1,0,2,0,Cen,
-2021-22,Miguel Veloso,Hellas Verona,35,22,1.343,0,3,0,0,7,1,Cen,
-2021-22,Lorenzo Venuti,Fiorentina,26,23,1.571,0,0,0,0,4,0,Dif,
-2021-22,Daniele Verde,Spezia,25,33,1.957,8,6,7,1,2,0,Att,Cen
-2021-22,Simone Verdi,Torino,29,3,46,1,0,1,0,0,0,Cen,Att
-2021-22,Simone Verdi,Salernitana,29,15,829,5,0,4,1,3,0,Att,Cen
-2021-22,Jordan Veretout,Roma,28,36,2.319,4,8,3,1,6,0,Cen,
-2021-22,Edoardo Vergani,Salernitana,20,6,102,0,0,0,0,0,0,Att,Cen
-2021-22,Valerio Verre,Sampdoria,27,11,420,0,0,0,0,0,0,Cen,Att
-2021-22,Valerio Verre,Empoli,27,8,310,0,1,0,0,2,1,Cen,
-2021-22,Frédéric Veseli,Salernitana,28,9,596,0,0,0,0,3,1,Dif,
-2021-22,Guglielmo Vicario,Empoli,24,38,3.42,0,0,0,0,1,0,Por,
-2021-22,Arturo Vidal,Inter,34,28,741,1,1,1,0,3,0,Cen,
-2021-22,Ronaldo Vieira,Sampdoria,23,14,495,0,0,0,0,3,0,Cen,
-2021-22,Luca Vignali,Spezia,25,2,85,0,0,0,0,0,0,Dif,Cen
-2021-22,Emanuel Vignato,Bologna,20,24,594,0,1,0,0,2,0,Cen,Dif
-2021-22,Matías Viña,Roma,23,26,1.565,0,1,0,0,2,0,Dif,Att
-2021-22,Nicolas Viola,Bologna,31,6,102,0,0,0,0,0,0,Cen,
-2021-22,Mattia Viti,Empoli,19,20,1.491,0,0,0,0,3,1,Dif,
-2021-22,Dušan Vlahović,Fiorentina,21,21,1.857,17,2,12,5,2,0,Att,
-2021-22,Dušan Vlahović,Juventus,21,15,1.076,7,1,7,0,2,0,Att,
-2021-22,Mërgim Vojvoda,Torino,26,29,1.976,0,3,0,0,3,0,Dif,
-2021-22,Cristian Volpato,Roma,17,3,38,1,0,1,0,0,0,Att,Cen
-2021-22,Stefan de Vrij,Inter,29,30,2.41,0,0,0,0,3,0,Dif,
-2021-22,Walace,Udinese,26,36,2.97,1,0,1,0,6,1,Cen,
-2021-22,Sebastian Walukiewicz,Cagliari,21,7,302,0,0,0,0,1,0,Dif,
-2021-22,Magnus Warming,Torino,21,4,58,0,0,0,0,0,0,Cen,Att
-2021-22,Kelvin Yeboah,Genoa,21,17,850,0,1,0,0,2,0,Att,Cen
-2021-22,Gerard Yepes,Sampdoria,18,4,21,0,0,0,0,0,0,Cen,Dif
-2021-22,Maya Yoshida,Sampdoria,32,26,1.823,2,3,2,0,2,0,Dif,
-2021-22,Mattia Zaccagni,Hellas Verona,26,2,180,2,0,1,1,0,0,Cen,
-2021-22,Mattia Zaccagni,Lazio,26,29,1.876,4,5,4,0,6,0,Att,
-2021-22,Denis Zakaria,Juventus,24,9,597,1,1,1,0,1,0,Cen,
-2021-22,Nicola Zalewski,Roma,19,16,793,0,0,0,0,1,0,Dif,
-2021-22,André-Frank Zambo Anguissa,Napoli,25,25,1.926,0,1,0,0,5,0,Cen,
-2021-22,Nicolò Zaniolo,Roma,22,28,1.971,2,1,2,0,12,2,Att,Cen
-2021-22,Alessandro Zanoli,Napoli,20,12,457,0,0,0,0,2,0,Dif,
-2021-22,Mattia Zanotti,Inter,18,1,9,0,0,0,0,0,0,Dif,
-2021-22,Duván Zapata,Atalanta,30,24,1.722,10,4,7,3,3,0,Att,
-2021-22,Gabriele Zappa,Cagliari,21,25,1.144,0,0,0,0,4,1,Dif,
-2021-22,Davide Zappacosta,Atalanta,29,34,2.345,1,5,1,0,6,0,Dif,
-2021-22,Simone Zaza,Torino,30,10,129,0,0,0,0,1,0,Att,Dif
-2021-22,Marvin Zeegelaar,Udinese,30,14,643,0,0,0,0,2,0,Dif,
-2021-22,Piotr Zieliński,Napoli,27,35,2.086,6,5,6,0,1,0,Cen,
-2021-22,David Zima,Torino,20,20,1.314,0,0,0,0,3,0,Dif,
-2021-22,Jeroen Zoet,Spezia,30,7,630,0,0,0,0,0,0,Por,
-2021-22,Nadir Zortea,Salernitana,22,29,1.41,1,2,1,0,3,0,Dif,Cen
-2021-22,Petar Zovko,Spezia,19,1,29,0,0,0,0,1,0,Por,
-2021-22,Szymon Żurkowski,Empoli,23,35,2.307,6,2,6,0,5,0,Cen,
-2021-22,Milan Đurić,Salernitana,31,33,2.165,5,4,4,1,6,0,Att,
-2021-22,Filip Đuričić,Sassuolo,29,12,671,2,1,2,0,1,0,Cen,Att
-2020-21,Gennaro Acampora,Spezia,26,14,441,0,0,0,0,2,0,Cen,Att
-2020-21,Francesco Acerbi,Lazio,32,32,2.813,0,1,0,0,9,1,Dif,
-2020-21,Andrea Adorante,Parma,20,1,10,0,0,0,0,0,0,Att,
-2020-21,Lucien Agoume,Spezia,18,12,800,0,0,0,0,2,0,Cen,
-2020-21,Kevin Agudelo,Spezia,21,29,1.356,1,2,1,0,4,0,Att,
-2020-21,Jean-Daniel Akpa-Akpro,Lazio,27,32,1.056,0,1,0,0,9,0,Cen,
-2020-21,Luis Alberto Romero Alconchel,Lazio,27,34,2.618,9,2,9,0,5,0,Cen,
-2020-21,Bruno Alves,Parma,38,19,1.632,1,0,1,0,3,0,Dif,
-2020-21,Wisdom Amey,Bologna,14,1,2,0,0,0,0,0,0,Dif,
-2020-21,Sofyan Amrabat,Fiorentina,23,31,2.441,0,0,0,0,7,0,Cen,
-2020-21,Djavan Anderson,Lazio,25,3,72,0,0,0,0,0,0,Dif,
-2020-21,Nicolas Andrade,Udinese,32,2,180,0,0,0,0,0,0,Por,
-2020-21,Davide Angelo Ghislandi,Atalanta,19,1,5,0,0,0,0,0,0,Dif,
-2020-21,Philip Ankhrah,Hellas Verona,17,1,13,0,0,0,0,0,0,Cen,
-2020-21,Cristian Ansaldi,Torino,33,31,1.947,1,6,0,1,1,0,Dif,Att
-2020-21,Valentin Antov,Bologna,19,5,232,0,0,0,0,1,0,Dif,
-2020-21,Nicolò Armini,Lazio,19,1,5,0,0,0,0,0,0,Dif,
-2020-21,Tolgay Arslan,Udinese,29,30,1.818,3,0,3,0,9,0,Cen,
-2020-21,Kwadwo Asamoah,Cagliari,31,9,224,0,0,0,0,0,0,Dif,Cen
-2020-21,Kristoffer Askildsen,Sampdoria,19,6,95,0,0,0,0,2,0,Cen,
-2020-21,Emil Audero,Sampdoria,23,37,3.33,0,1,0,0,0,0,Por,
-2020-21,Tommaso Augello,Sampdoria,25,37,3.216,1,3,1,0,2,1,Dif,
-2020-21,Kaan Ayhan,Sassuolo,25,19,796,0,0,0,0,3,0,Dif,
-2020-21,Milan Badelj,Genoa,31,30,2.408,1,4,1,0,7,0,Cen,
-2020-21,Tiémoué Bakayoko,Napoli,25,32,1.964,2,1,2,0,6,1,Cen,
-2020-21,Keita Baldé Diao,Sampdoria,25,25,1.197,7,1,7,0,4,1,Att,
-2020-21,Botond Balogh,Parma,18,3,165,0,0,0,0,1,0,Dif,
-2020-21,Mattia Bani,Genoa,26,11,921,0,0,0,0,4,0,Dif,
-2020-21,Mattia Bani,Parma,26,15,1.145,0,0,0,0,6,0,Dif,
-2020-21,Antonín Barák,Hellas Verona,25,34,2.765,7,3,7,0,5,1,Cen,
-2020-21,Federico Barba,Benevento,26,32,2.659,0,2,0,0,8,0,Dif,
-2020-21,Nicolò Barella,Inter,23,36,2.896,3,7,3,0,5,0,Cen,
-2020-21,Antonio Barreca,Fiorentina,25,3,85,0,0,0,0,0,0,Dif,
-2020-21,Musa Barrow,Bologna,21,38,2.921,8,8,8,0,0,0,Att,Cen
-2020-21,Paolo Bartolomei,Spezia,30,6,320,0,1,0,0,1,0,Cen,
-2020-21,Daniele Baselli,Torino,28,15,396,0,0,0,0,2,0,Cen,
-2020-21,Alessandro Bastoni,Inter,21,33,2.922,0,3,0,0,6,0,Dif,
-2020-21,Simone Bastoni,Spezia,23,22,1.522,1,7,1,0,7,0,Dif,
-2020-21,Bartolomeu Jacinto Quissanga,Lazio,29,2,63,0,0,0,0,0,0,Dif,
-2020-21,Rodrigo Becão,Udinese,24,35,2.78,1,0,1,0,5,0,Dif,
-2020-21,Valon Behrami,Genoa,35,26,892,0,0,0,0,3,1,Cen,
-2020-21,Andrea Belotti,Torino,26,35,2.888,13,6,9,4,4,0,Att,
-2020-21,Ahmad Benali,Crotone,28,18,1.214,0,1,0,0,2,0,Cen,
-2020-21,Ismaël Bennacer,Milan,22,21,1.326,0,2,0,0,4,0,Cen,
-2020-21,Rodrigo Bentancur,Juventus,23,33,2.324,0,4,0,0,8,1,Cen,
-2020-21,Alessandro Berardi,Hellas Verona,29,1,28,0,0,0,0,0,0,Por,
-2020-21,Domenico Berardi,Sassuolo,25,30,2.475,17,7,10,7,4,0,Att,
-2020-21,Alejandro Berenguer,Torino,25,2,131,0,0,0,0,0,0,Cen,
-2020-21,Bartosz Bereszyński,Sampdoria,28,31,2.607,1,0,1,0,2,0,Dif,
-2020-21,Federico Bernardeschi,Juventus,26,27,972,0,2,0,0,3,0,Cen,Dif
-2020-21,Marco Bertini,Lazio,17,1,5,0,0,0,0,0,0,Cen,
-2020-21,Daniel Bessa,Hellas Verona,27,18,615,0,2,0,0,1,0,Cen,
-2020-21,Cristiano Biraghi,Fiorentina,27,35,2.803,1,5,1,0,8,0,Dif,
-2020-21,Davide Biraschi,Genoa,26,13,915,0,0,0,0,2,0,Dif,
-2020-21,Jeremie Boga,Sassuolo,23,27,1.785,4,2,4,0,0,0,Att,Cen
-2020-21,Giacomo Bonaventura,Fiorentina,30,34,2.256,3,2,3,0,5,0,Cen,
-2020-21,Federico Bonazzoli,Torino,23,20,564,2,2,2,0,2,0,Att,
-2020-21,Federico Bonazzoli,Sampdoria,23,2,131,0,1,0,0,0,0,Att,
-2020-21,Kevin Bonifazi,Udinese,24,30,2.469,0,0,0,0,4,0,Dif,
-2020-21,Leonardo Bonucci,Juventus,33,26,2.028,2,0,2,0,4,0,Dif,
-2020-21,Mehdi Bourabia,Sassuolo,28,15,528,1,0,1,0,2,0,Cen,
-2020-21,Edoardo Bove,Roma,18,1,11,0,0,0,0,0,0,Cen,
-2020-21,Jayden Braaf,Udinese,17,4,116,1,0,1,0,0,0,Att,
-2020-21,Gleison Bremer,Torino,23,33,2.935,5,0,5,0,2,0,Dif,
-2020-21,Marcelo Brozović,Inter,27,33,2.581,2,6,2,0,9,1,Cen,
-2020-21,Gastón Brugman,Parma,27,26,1.616,1,1,1,0,7,0,Cen,
-2020-21,Juan Brunetta,Parma,23,12,475,1,2,1,0,3,0,Att,Cen
-2020-21,Gianluigi Buffon,Juventus,42,8,720,0,0,0,0,0,0,Por,
-2020-21,Alessandro Buongiorno,Torino,21,12,858,0,0,0,0,4,0,Dif,
-2020-21,Maxime Busi,Parma,20,24,1.195,0,1,0,0,3,0,Dif,
-2020-21,Martín Cáceres,Fiorentina,33,29,2.238,2,2,2,0,4,0,Dif,
-2020-21,Felipe Caicedo,Lazio,31,25,929,8,0,7,1,5,0,Att,
-2020-21,Arturo Calabresi,Bologna,24,1,20,0,0,0,0,0,0,Dif,Att
-2020-21,Arturo Calabresi,Cagliari,24,2,14,0,0,0,0,0,0,Dif,
-2020-21,Davide Calabria,Milan,23,32,2.647,2,1,2,0,7,0,Dif,
-2020-21,Riccardo Calafiori,Roma,18,3,66,0,0,0,0,2,0,Dif,
-2020-21,Mattia Caldara,Atalanta,26,6,111,0,0,0,0,1,0,Dif,
-2020-21,Luca Caldirola,Benevento,29,25,1.572,2,0,2,0,6,1,Dif,
-2020-21,Hakan Çalhanoğlu,Milan,26,33,2.614,4,9,3,1,4,0,Cen,Att
-2020-21,Fabrizio Caligara,Cagliari,20,10,183,0,0,0,0,2,0,Cen,Att
-2020-21,José María Callejón,Fiorentina,33,20,664,0,1,0,0,0,0,Att,Cen
-2020-21,Drissa Camara,Parma,18,1,15,0,0,0,0,0,0,Cen,
-2020-21,Antonio Candreva,Sampdoria,33,35,2.505,5,8,3,2,1,0,Cen,
-2020-21,Elio Capradossi,Spezia,24,1,90,0,0,0,0,0,0,Dif,
-2020-21,Gianluca Caprari,Benevento,27,30,1.865,5,6,5,0,4,1,Cen,Att
-2020-21,Francesco Caputo,Sassuolo,32,25,1.697,11,5,8,3,1,0,Att,
-2020-21,Andrea Carboni,Cagliari,19,15,1.085,0,1,0,0,2,0,Dif,
-2020-21,Giuseppe Caso,Genoa,21,2,54,0,0,0,0,0,0,Dif,Att
-2020-21,Francesco Cassata,Genoa,23,8,227,0,0,0,0,2,0,Dif,Att
-2020-21,Samu Castillejo,Milan,25,28,1.181,1,0,1,0,5,0,Att,
-2020-21,Gaetano Castrovilli,Fiorentina,23,34,2.332,5,3,5,0,8,1,Cen,
-2020-21,Danilo Cataldi,Lazio,25,19,568,0,0,0,0,4,0,Cen,
-2020-21,Federico Ceccherini,Hellas Verona,28,25,1.738,0,0,0,0,8,0,Dif,
-2020-21,Federico Ceccherini,Fiorentina,28,3,270,0,0,0,0,2,0,Dif,
-2020-21,Luca Ceppitelli,Cagliari,30,19,1.465,0,0,0,0,3,0,Dif,
-2020-21,Alberto Cerri,Cagliari,24,23,369,1,0,1,0,1,0,Att,
-2020-21,Julian Chabot,Spezia,22,25,1.655,1,1,1,0,11,1,Dif,
-2020-21,Giorgio Chiellini,Juventus,35,17,1.386,0,1,0,0,4,0,Dif,
-2020-21,Federico Chiesa,Fiorentina,22,3,240,1,1,1,0,0,0,Dif,
-2020-21,Federico Chiesa,Juventus,22,30,2.21,8,8,8,0,3,1,Cen,Dif
-2020-21,Vlad Chiricheș,Sassuolo,30,24,1.837,2,1,2,0,6,0,Dif,
-2020-21,Luca Cigarini,Crotone,34,14,929,0,0,0,0,5,1,Cen,
-2020-21,Antonio Cioffi,Napoli,17,1,12,0,0,0,0,0,0,Att,
-2020-21,Ebrima Colley,Hellas Verona,20,23,734,1,0,1,0,1,0,Cen,Att
-2020-21,Omar Colley,Sampdoria,27,29,2.591,2,0,2,0,6,0,Dif,
-2020-21,Simone Colombi,Parma,29,2,180,0,0,0,0,0,0,Por,
-2020-21,Lorenzo Colombo,Milan,18,4,94,0,0,0,0,0,0,Att,
-2020-21,Andrea Consigli,Sassuolo,33,37,3.33,0,0,0,0,1,0,Por,
-2020-21,Andrea Conti,Milan,26,3,28,0,0,0,0,0,0,Dif,
-2020-21,Andrea Conti,Parma,26,11,809,0,0,0,0,3,0,Dif,
-2020-21,Alex Cordaz,Crotone,37,36,3.24,0,0,0,0,1,0,Por,
-2020-21,Andreas Cornelius,Parma,27,29,1.898,1,4,1,0,4,0,Att,
-2020-21,Joaquín Correa,Lazio,25,28,1.933,8,3,7,1,3,1,Att,
-2020-21,Félix Correia,Juventus,19,1,7,0,0,0,0,0,0,Cen,
-2020-21,Douglas Costa,Juventus,29,2,42,0,0,0,0,0,0,Cen,Att
-2020-21,Angelo da Costa,Bologna,36,6,540,0,0,0,0,2,0,Por,
-2020-21,Mamadou Coulibaly (calciatore 1999),Udinese,21,3,184,0,0,0,0,0,0,Cen,
-2020-21,Alessio Cragno,Cagliari,26,34,3.06,0,0,0,0,1,0,Por,
-2020-21,Gian Crespi,Crotone,19,1,90,0,0,0,0,0,0,Por,
-2020-21,Domenico Criscito,Genoa,33,23,1.726,1,0,0,1,6,0,Dif,
-2020-21,Bryan Cristante,Roma,25,34,2.155,1,3,1,0,8,0,Dif,Cen
-2020-21,Giovanni Crociata,Crotone,NaN,2,26,0,0,0,0,0,0,Dif,
-2020-21,Juan Cuadrado,Juventus,32,30,2.175,2,10,1,1,9,1,Dif,Cen
-2020-21,Giuseppe Cuomo,Crotone,22,13,801,0,0,0,0,4,0,Dif,
-2020-21,Patrick Cutrone,Fiorentina,22,11,196,0,0,0,0,0,0,Att,
-2020-21,Wylan Cyprien,Parma,25,13,410,0,0,0,0,2,0,Cen,
-2020-21,Lennart-Marten Czyborra,Genoa,21,17,1.173,1,0,1,0,2,0,Dif,
-2020-21,Danilo D'Ambrosio,Inter,31,19,699,3,0,3,0,2,0,Dif,
-2020-21,Bryan Dabo,Benevento,28,25,1.117,0,0,0,0,5,0,Cen,
-2020-21,Diogo Dalot,Milan,21,21,1.09,1,1,1,0,5,0,Dif,
-2020-21,Mikkel Damsgaard,Sampdoria,20,35,1.773,2,4,2,0,3,0,Cen,Att
-2020-21,Danilo Luiz da Silva,Juventus,29,34,2.916,1,4,1,0,6,0,Dif,Cen
-2020-21,Andrea Danzi,Hellas Verona,21,2,104,0,0,0,0,1,0,Dif,
-2020-21,Ebrima Darboe,Roma,19,5,323,0,0,0,0,2,0,Cen,
-2020-21,Matteo Darmian,Parma,30,3,208,0,0,0,0,1,0,Dif,
-2020-21,Matteo Darmian,Inter,30,26,1.16,3,3,3,0,4,0,Dif,
-2020-21,Paweł Dawidowicz,Hellas Verona,25,30,1.86,0,0,0,0,9,0,Dif,
-2020-21,Sebastian De Maio,Udinese,33,15,853,0,0,0,0,1,0,Dif,
-2020-21,Rodrigo de Paul,Udinese,26,36,3.201,9,9,6,3,5,2,Cen,
-2020-21,Mattia De Sciglio,Juventus,27,1,24,0,0,0,0,0,0,Dif,
-2020-21,Lorenzo De Silvestri,Bologna,32,29,2.143,2,0,2,0,4,0,Dif,
-2020-21,Grégoire Defrel,Sassuolo,29,28,1.336,3,3,3,0,1,0,Cen,Att
-2020-21,Alessandro Deiola,Spezia,24,12,360,0,0,0,0,1,0,Cen,
-2020-21,Alessandro Deiola,Cagliari,24,12,615,0,0,0,0,2,0,Cen,
-2020-21,Lorenzo Del Pinto,Benevento,30,1,11,0,0,0,0,0,0,Cen,
-2020-21,Cristian Dell'Orco,Spezia,26,8,262,0,0,0,0,0,0,Dif,
-2020-21,Merih Demiral,Juventus,22,15,940,0,1,0,0,1,0,Dif,
-2020-21,Diego Demme,Napoli,28,24,1.59,2,3,2,0,6,0,Cen,
-2020-21,Stefano Denswil,Bologna,27,5,115,0,0,0,0,0,0,Dif,
-2020-21,Fabio Depaoli,Benevento,23,15,1.12,0,0,0,0,2,0,Dif,
-2020-21,Fabio Depaoli,Sampdoria,23,2,77,0,0,0,0,0,0,Cen,
-2020-21,Fabio Depaoli,Atalanta,23,5,191,0,0,0,0,0,0,Dif,
-2020-21,Kastriot Dermaku,Parma,28,2,100,0,0,0,0,0,0,Dif,
-2020-21,Kiril Despodov,Cagliari,23,1,11,0,0,0,0,0,0,Att,
-2020-21,Mattia Destro,Genoa,29,29,1.606,11,1,11,0,5,0,Att,
-2020-21,Gerard Deulofeu,Udinese,26,13,598,1,1,1,0,0,0,Att,Cen
-2020-21,Jacopo Dezi,Parma,28,2,79,0,0,0,0,0,0,Att,Cen
-2020-21,Samuel Di Carmine,Hellas Verona,31,11,500,0,0,0,0,1,0,Att,
-2020-21,Samuel Di Carmine,Crotone,31,11,475,0,0,0,0,1,0,Att,
-2020-21,Giovanni Di Lorenzo,Napoli,26,36,3.24,3,6,3,0,11,0,Dif,
-2020-21,Alessandro Di Pardo,Juventus,21,4,14,0,0,0,0,0,0,Att,Dif
-2020-21,Giuseppe Di Serio,Benevento,19,16,292,0,0,0,0,1,0,Att,Cen
-2020-21,Amad Diallo,Atalanta,18,1,14,0,0,0,0,1,0,Cen,
-2020-21,Amadou Diambo,Benevento,19,1,3,0,0,0,0,0,0,Att,
-2020-21,Amadou Diawara,Roma,23,18,658,1,0,1,0,4,1,Cen,
-2020-21,Brahim Díaz,Milan,20,27,1.228,4,3,4,0,2,0,Cen,Att
-2020-21,Daan Dierckx,Parma,17,7,471,0,0,0,0,1,0,Dif,
-2020-21,Mitchell Dijks,Bologna,27,20,1.481,0,0,0,0,7,1,Dif,
-2020-21,Federico Dimarco,,22,35,2.613,5,3,5,0,6,0,Dif,
-2020-21,Koffi Djidji,Crotone,27,20,1.524,1,0,1,0,4,0,Dif,
-2020-21,Berat Djimsiti,Atalanta,27,33,2.625,0,3,0,0,8,0,Dif,
-2020-21,Nicolás Domínguez,Bologna,22,28,1.255,1,0,1,0,8,0,Cen,
-2020-21,Gianluigi Donnarumma,Milan,21,37,3.33,0,0,0,0,1,0,Por,
-2020-21,Bartłomiej Drągowski,Fiorentina,22,36,3.148,0,1,0,0,0,1,Por,
-2020-21,Denis Drăguș,Crotone,21,9,177,0,0,0,0,1,0,Att,Cen
-2020-21,Radu Drăgușin,Juventus,18,1,1,0,0,0,0,0,0,Dif,
-2020-21,Léo Duarte,Milan,24,1,19,0,0,0,0,0,0,Dif,
-2020-21,Alfred Duncan,Fiorentina,27,4,162,0,0,0,0,0,0,Cen,
-2020-21,Alfred Duncan,Cagliari,27,19,1.068,0,1,0,0,2,0,Cen,
-2020-21,Paulo Dybala,Juventus,26,20,1.132,4,3,4,0,0,0,Att,
-2020-21,Edin Džeko,Roma,34,27,1.824,7,3,7,0,2,0,Att,
-2020-21,Steeve-Mike Ebongue,Genoa,19,3,52,0,1,0,0,0,0,Cen,
-2020-21,Simone Edera,Torino,23,2,52,0,0,0,0,0,0,Dif,Cen
-2020-21,Albin Ekdal,Sampdoria,31,32,2.299,2,1,2,0,9,0,Cen,
-2020-21,Elif Elmas,Napoli,20,33,740,2,1,2,0,3,0,Cen,Att
-2020-21,Alan Empereur,Hellas Verona,26,4,219,0,0,0,0,1,0,Dif,
-2020-21,Christian Eriksen,Inter,28,26,1.385,3,0,3,0,1,0,Cen,
-2020-21,Martin Erlic,Spezia,22,27,1.798,3,1,3,0,6,0,Dif,
-2020-21,Gonzalo Escalante,Lazio,27,24,733,0,1,0,0,5,0,Cen,
-2020-21,Nahuel Estévez,Spezia,24,27,1.768,0,3,0,0,7,0,Cen,
-2020-21,Valentin Eysseric,Fiorentina,28,16,729,2,0,2,0,2,0,Cen,Att
-2020-21,Nicolò Fagioli,Juventus,19,1,21,0,0,0,0,0,0,Cen,
-2020-21,Iago Falque,Benevento,30,11,358,1,1,1,0,0,0,Cen,Att
-2020-21,Andri Fannar Baldursson,Bologna,18,8,217,0,0,0,0,2,0,Cen,
-2020-21,Paolo Faragò,Bologna,27,1,23,0,0,0,0,0,0,Dif,
-2020-21,Paolo Faragò,Cagliari,27,8,369,0,0,0,0,2,0,Dif,
-2020-21,Davide Faraoni,Hellas Verona,28,34,2.891,4,7,4,0,8,0,Dif,
-2020-21,Mohamed Fares,Lazio,24,21,1.139,0,1,0,0,5,0,Dif,
-2020-21,Diego Farias,Spezia,30,29,1.514,4,2,4,0,5,0,Att,
-2020-21,Andrea Favilli,Hellas Verona,23,11,339,2,0,2,0,1,0,Att,
-2020-21,Federico Fazio,Roma,33,6,406,1,0,1,0,2,0,Dif,
-2020-21,Luiz Felipe Ramos Marchi,Lazio,23,14,909,0,0,0,0,5,0,Dif,
-2020-21,Alex Ferrari,Sampdoria,26,12,880,0,1,0,0,3,0,Dif,
-2020-21,Salvador Ferrer,Spezia,22,18,1.19,0,1,0,0,4,0,Dif,
-2020-21,Marco Festa,Crotone,28,1,90,0,0,0,0,0,0,Por,
-2020-21,Fernando Forestieri,Udinese,30,19,552,1,1,1,0,1,0,Att,Cen
-2020-21,Daam Foulon,Benevento,21,23,1.021,0,1,0,0,4,0,Dif,
-2020-21,Gianluca Frabotta,Juventus,21,15,689,0,1,0,0,5,0,Dif,Cen
-2020-21,Remo Freuler,Atalanta,28,34,2.712,2,3,2,0,5,0,Cen,
-2020-21,Daniel Fuzato,Roma,23,5,450,0,0,0,0,0,0,Por,
-2020-21,Matteo Gabbia,Milan,20,8,557,0,0,0,0,2,0,Dif,
-2020-21,Manolo Gabbiadini,Sampdoria,28,16,870,3,2,2,1,1,0,Att,
-2020-21,Roberto Gagliardini,Inter,26,28,1.232,3,2,3,0,2,0,Cen,
-2020-21,Riccardo Gagliolo,Parma,30,28,1.956,2,2,2,0,6,0,Dif,
-2020-21,Adolfo Gaich,Benevento,21,15,768,2,0,2,0,1,0,Att,
-2020-21,Andrej Gălăbinov,Spezia,31,12,430,3,1,3,0,0,0,Att,
-2020-21,Manuel Gasparini,Udinese,18,1,3,0,0,0,0,0,0,Por,
-2020-21,Gervinho,Parma,33,27,2.021,5,1,5,0,0,0,Att,
-2020-21,Paolo Ghiglione,Genoa,23,23,1.358,0,4,0,0,4,0,Dif,Cen
-2020-21,Faouzi Ghoulam,Napoli,29,11,289,0,0,0,0,1,0,Dif,Att
-2020-21,Kamil Glik,Benevento,32,36,3.206,2,1,2,0,10,1,Dif,
-2020-21,Diego Godín,Cagliari,34,28,2.508,1,0,1,0,3,0,Dif,
-2020-21,Amer Gojak,Torino,23,15,475,1,1,1,0,1,0,Cen,Att
-2020-21,Edoardo Goldaniga,Genoa,26,25,1.857,0,1,0,0,8,0,Dif,
-2020-21,Vladimir Golemić,Crotone,29,30,2.341,2,0,1,1,4,1,Dif,
-2020-21,Pierluigi Gollini,Atalanta,25,25,2.156,0,0,0,0,0,1,Por,
-2020-21,Tomislav Gomelt,Crotone,25,2,19,0,0,0,0,0,0,Cen,
-2020-21,Alejandro Darío Gómez,Atalanta,32,10,666,4,2,4,0,0,0,Cen,Att
-2020-21,Robin Gosens,Atalanta,26,32,2.523,11,6,11,0,9,1,Dif,
-2020-21,Alberto Grassi,Parma,25,23,1.177,0,0,0,0,3,0,Cen,Dif
-2020-21,Koray Günter,Hellas Verona,25,27,1.768,0,2,0,0,4,0,Dif,
-2020-21,Manu Gyabuaa,Atalanta,18,1,2,0,0,0,0,0,0,Cen,
-2020-21,Emmanuel Gyasi,Spezia,26,37,?,4,6,4,0,4,0,Att,
-2020-21,Achraf Hakimi,Inter,21,37,2.665,7,8,7,0,6,0,Dif,
-2020-21,Samir Handanovič,Inter,36,37,3.24,0,0,0,0,1,0,Por,
-2020-21,Lukáš Haraslín,Sassuolo,24,14,333,0,0,0,0,1,1,Att,Cen
-2020-21,Hans Hateboer,Atalanta,26,22,1.762,2,1,2,0,3,0,Dif,
-2020-21,Eduardo Henrique da Silva,Crotone,25,18,924,1,0,1,0,4,0,Cen,
-2020-21,Theo Hernández,Milan,22,33,2.933,7,5,7,0,9,0,Dif,
-2020-21,Hernani Azevedo Júnior,Parma,26,33,2.189,7,3,6,1,11,0,Cen,
-2020-21,Përparim Hetemaj,Benevento,33,31,2.212,0,2,0,0,5,0,Cen,
-2020-21,Aaron Hickey,Bologna,18,11,758,0,0,0,0,3,1,Dif,
-2020-21,Wesley Hoedt,Lazio,26,17,952,0,0,0,0,6,0,Dif,
-2020-21,Elseid Hisaj,Napoli,26,24,1.768,0,2,0,0,2,0,Dif,
-2020-21,Simone Iacoponi,Parma,33,16,1.193,0,0,0,0,3,1,Dif,
-2020-21,Roger Ibanez,Roma,21,30,2.398,0,2,0,0,7,1,Dif,
-2020-21,Zlatan Ibrahimović,Milan,38,19,1.493,15,2,12,3,2,1,Att,
-2020-21,Igor,Fiorentina,22,21,1.168,0,0,0,0,5,0,Dif,
-2020-21,Ivan Ilić,Hellas Verona,19,29,1.835,2,0,2,0,2,0,Cen,
-2020-21,Josip Iličič,Atalanta,32,28,1.526,6,9,4,2,2,0,Cen,Att
-2020-21,Ciro Immobile,Lazio,30,35,2.849,20,6,16,4,4,1,Att,
-2020-21,Riccardo Improta,Benevento,26,34,2.335,1,0,1,0,7,0,Dif,Cen
-2020-21,Roberto Inglese,Parma,28,14,576,0,2,0,0,2,0,Att,
-2020-21,Lorenzo Insigne,Napoli,29,35,2.865,19,8,12,7,2,1,Att,
-2020-21,Roberto Insigne,Benevento,26,30,1.599,2,4,2,0,2,0,Cen,Att
-2020-21,Artur Ioniţă,Benevento,29,36,2.835,2,0,2,0,6,0,Cen,
-2020-21,Ardian Ismajli,Spezia,23,17,1.297,1,1,1,0,3,1,Dif,
-2020-21,Armando Izzo,Torino,28,25,2.004,2,0,2,0,3,0,Dif,
-2020-21,Mato Jajalo,Udinese,32,1,34,0,0,0,0,0,0,Cen,
-2020-21,Jakub Jankto,Sampdoria,24,35,2.409,6,3,6,0,6,0,Cen,
-2020-21,Juan Guilherme Nunes Jesus,Roma,29,5,157,0,0,0,0,0,0,Dif,
-2020-21,Hamed Junior Traorè,Sassuolo,,,,,,,,,,,
-2020-21,Musa Juwara,Bologna,18,5,46,0,0,0,0,1,0,Cen,Dif
-2020-21,Nikola Kalinić,Hellas Verona,32,19,1.063,2,0,2,0,2,0,Att,
-2020-21,Yayah Kallon,Genoa,19,1,45,0,0,0,0,0,0,Att,
-2020-21,Pierre Kalulu,Milan,20,13,727,1,1,1,0,1,0,Dif,
-2020-21,Yann Karamoh,Parma,22,24,1.294,2,1,2,0,3,0,Att,Cen
-2020-21,Isaac Karamoko,Sassuolo,18,1,1,0,0,0,0,0,0,Dif,
-2020-21,Augustus Kargbo,Crotone,20,1,32,0,0,0,0,0,0,Att,
-2020-21,Rick Karsdorp,Roma,25,34,2.544,1,6,1,0,2,0,Dif,
-2020-21,Franck Kessié,Milan,23,37,3.226,13,4,2,11,8,0,Cen,
-2020-21,Omar Khailoti,Bologna,18,1,28,0,0,0,0,0,0,Dif,
-2020-21,Simon Kjær,Milan,31,28,2.393,0,2,0,0,3,0,Dif,
-2020-21,Ragnar Klavan,Cagliari,34,15,770,0,0,0,0,1,0,Dif,
-2020-21,Justin Kluivert,Roma,21,2,19,0,0,0,0,0,0,Cen,
-2020-21,Aleksandr Kokorin,Fiorentina,29,4,94,0,0,0,0,1,0,Att,Cen
-2020-21,Aleksandar Kolarov,Inter,34,7,390,0,1,0,0,0,0,Dif,
-2020-21,Márk Kosznovszky,Parma,18,1,90,0,0,0,0,0,0,Cen,
-2020-21,Christian Kouamé,Fiorentina,22,33,995,1,1,1,0,4,0,Att,
-2020-21,Kalidou Koulibaly,Napoli,29,26,2.209,0,0,0,0,10,1,Dif,
-2020-21,Viktor Kovalenko,Atalanta,24,1,4,0,0,0,0,0,0,Att,
-2020-21,Rade Krunić,Milan,26,25,723,1,2,1,0,3,0,Cen,Att
-2020-21,Juraj Kucka,Parma,33,28,2.334,7,2,3,4,8,0,Cen,Att
-2020-21,Dejan Kulusevski,Juventus,20,35,1.923,4,3,4,0,7,0,Cen,Att
-2020-21,Marash Kumbulla,Roma,20,21,1.363,1,0,1,0,8,0,Dif,
-2020-21,Jasmin Kurtić,Parma,31,34,2.739,4,0,4,0,5,0,Cen,
-2020-21,Giorgos Kyriakopoulos,Sassuolo,24,23,1.456,1,0,1,0,3,1,Dif,
-2020-21,Antonino La Gumina,Sampdoria,24,9,341,0,0,0,0,0,0,Att,
-2020-21,Sam Lammers,Atalanta,23,15,291,2,0,2,0,0,0,Att,Cen
-2020-21,Gianluca Lapadula,Benevento,30,37,2.563,8,2,8,0,2,0,Att,
-2020-21,Danilo Larangeira,Bologna,36,35,3.132,0,1,0,0,8,0,Dif,
-2020-21,Kevin Lasagna,Udinese,27,17,1.103,2,1,2,0,1,0,Att,
-2020-21,Kevin Lasagna,Hellas Verona,27,19,1.267,2,0,2,0,0,0,Att,
-2020-21,Vincent Laurini,Parma,31,14,870,0,0,0,0,1,0,Dif,
-2020-21,Darko Lazović,Hellas Verona,29,32,2.503,3,6,3,0,3,0,Dif,Cen
-2020-21,Manuel Lazzari,Lazio,26,32,2.613,2,5,2,0,2,1,Dif,
-2020-21,Rafael Leão,Milan,21,30,1.924,6,6,6,0,5,0,Att,
-2020-21,Lucas Leiva,Lazio,33,32,2.131,0,0,0,0,10,0,Cen,
-2020-21,Lukas Lerager,Genoa,27,16,1.159,0,1,0,0,0,0,Cen,
-2020-21,Mehdi Léris,Sampdoria,22,20,386,0,0,0,0,1,0,Dif,Cen
-2020-21,Karlo Letica,Sampdoria,23,1,90,0,0,0,0,0,0,Por,
-2020-21,Gaetano Letizia,Benevento,30,24,1.57,3,1,3,0,2,0,Dif,
-2020-21,Matthijs de Ligt,Juventus,20,27,2.22,1,1,1,0,4,0,Dif,
-2020-21,Karol Linetty,Torino,25,27,1.832,1,0,1,0,5,0,Cen,
-2020-21,Pol Lirola,Fiorentina,22,12,498,0,1,0,0,3,0,Dif,Att
-2020-21,Fernando Llorente,Udinese,35,14,713,1,0,1,0,2,0,Att,
-2020-21,Fernando Llorente,Napoli,35,,52,0,0,0,0,0,0,Att,Cen
-2020-21,Stanislav Lobotka,Napoli,25,15,154,0,0,0,0,2,0,Cen,
-2020-21,Manuel Locatelli,Sassuolo,22,34,2.883,4,2,2,2,9,0,Cen,
-2020-21,Maxime Lopez,Sassuolo,22,29,1.864,2,0,2,0,7,0,Cen,
-2020-21,Pau López,Roma,25,21,1.817,0,0,0,0,0,0,Por,
-2020-21,Matteo Lovato,Hellas Verona,20,24,1.386,0,0,0,0,5,0,Dif,
-2020-21,Hirving Lozano,Napoli,25,32,1.965,11,3,11,0,6,0,Att,
-2020-21,José Luis Palomino,Atalanta,30,36,2.428,1,2,1,0,3,0,Dif,
-2020-21,Romelu Lukaku,Inter,27,36,2.884,24,11,18,6,4,0,Att,
-2020-21,Saša Lukić,Torino,23,32,2.106,3,0,3,0,4,0,Cen,
-2020-21,Senad Lulić,Lazio,34,16,718,0,0,0,0,1,0,Dif,
-2020-21,Sebastiano Luperto,Crotone,23,23,1.879,0,0,0,0,5,1,Dif,
-2020-21,Lyanco,Torino,23,23,1.959,0,0,0,0,8,0,Dif,
-2020-21,Charalampos Lykogiannīs,Cagliari,26,31,2.418,4,2,4,0,10,2,Dif,
-2020-21,Lisandro Magallán,Crotone,26,28,2.181,1,2,1,0,10,0,Dif,
-2020-21,Christian Maggio,Benevento,38,8,297,0,0,0,0,2,0,Dif,
-2020-21,Giulio Maggiore,Spezia,22,33,2.214,3,1,3,0,3,0,Cen,
-2020-21,Francesco Magnanelli,Sassuolo,35,10,440,0,0,0,0,2,0,Cen,
-2020-21,Giangiacomo Magnani,Hellas Verona,24,25,1.51,0,0,0,0,8,0,Dif,
-2020-21,Jean-Victor Makengo,Udinese,22,17,522,0,0,0,0,1,0,Cen,
-2020-21,Nikola Maksimović,Napoli,28,17,1.207,0,0,0,0,1,0,Dif,
-2020-21,Kévin Malcuit,Fiorentina,29,5,207,0,0,0,0,0,0,Dif,
-2020-21,Kévin Malcuit,Napoli,29,2,33,0,0,0,0,0,0,Att,Cen
-2020-21,Daniel Maldini,Milan,18,5,29,0,0,0,0,0,0,Att,Dif
-2020-21,Ruslan Malinovs'kyj,Atalanta,27,36,1.876,8,12,7,1,3,0,Cen,Att
-2020-21,Dennis Man,Parma,21,14,699,2,1,2,0,1,0,Att,Cen
-2020-21,Gianluca Mancini,Roma,24,33,2.852,4,2,4,0,10,0,Dif,
-2020-21,Rolando Mandragora,Udinese,23,10,398,0,0,0,0,0,0,Cen,
-2020-21,Rolando Mandragora,Torino,23,17,1.525,3,1,3,0,5,1,Cen,
-2020-21,Mario Mandžukić,Milan,34,10,212,0,0,0,0,1,0,Att,
-2020-21,Niccolò Manfredini,Benevento,32,1,90,0,0,0,0,0,0,Por,
-2020-21,Kostas Manolas,Napoli,29,30,2.298,0,0,0,0,5,0,Dif,
-2020-21,Juan Manuel Ramos,Spezia,23,6,294,0,0,0,0,1,0,Dif,
-2020-21,Federico Marchetti,Genoa,37,4,334,0,0,0,0,0,0,Por,
-2020-21,Riccardo Marchizza,Spezia,22,24,1.561,0,2,0,0,4,0,Dif,
-2020-21,Gian Marco Ferrari,Sassuolo,28,34,3.014,0,4,0,0,7,0,Dif,
-2020-21,Răzvan Marin,Cagliari,24,37,2.965,3,6,3,0,6,0,Cen,
-2020-21,Marlon Santos da Silva Barbosa,Sassuolo,24,24,1.742,0,0,0,0,6,1,Dif,
-2020-21,Luca Marrone,Crotone,30,21,1.588,0,0,0,0,8,0,Dif,
-2020-21,Lautaro Martínez,Inter,22,38,2.561,17,6,15,2,5,0,Att,
-2020-21,Lucas Martínez Quarta,Fiorentina,24,21,1.483,1,0,1,0,4,1,Dif,
-2020-21,Adam Marušić,Lazio,27,36,2.966,2,3,2,0,3,0,Dif,
-2020-21,Andrea Masiello,Genoa,34,30,2.563,0,0,0,0,6,0,Dif,
-2020-21,Giuseppe Mastinu,Spezia,28,3,32,0,0,0,0,0,0,Att,
-2020-21,Ryder Matos,Udinese,27,1,13,0,0,0,0,0,0,Cen,
-2020-21,Federico Mattiello,Spezia,25,1,36,0,0,0,0,0,0,Dif,
-2020-21,Borja Mayoral,Roma,23,31,1.551,10,3,10,0,1,0,Att,
-2020-21,Antonio Mazzotta,Crotone,30,2,56,0,0,0,0,1,0,Dif,
-2020-21,Ibrahima Mbaye,Bologna,25,8,428,1,0,1,0,2,0,Dif,
-2020-21,Weston McKennie,Juventus,21,34,1.702,5,2,5,0,5,0,Cen,
-2020-21,Gary Medel,Bologna,32,11,511,0,1,0,0,1,0,Dif,Cen
-2020-21,Souahilo Meïté,Torino,26,14,920,1,1,1,0,0,0,Cen,
-2020-21,Souahilo Meïté,Milan,26,16,588,0,0,0,0,2,0,Cen,
-2020-21,Filippo Melegoni,Genoa,21,14,389,0,0,0,0,1,0,Cen,Dif
-2020-21,Arthur Melo,Juventus,23,22,1.157,1,0,1,0,3,0,Cen,
-2020-21,Alex Meret,Napoli,23,22,1.98,0,0,0,0,0,0,Por,
-2020-21,Yıldırım Mert Çetin,Hellas Verona,23,6,418,0,0,0,0,1,0,Dif,
-2020-21,Dries Mertens,Napoli,33,29,1.459,9,8,9,0,2,0,Att,Cen
-2020-21,Junior Messias,Crotone,29,36,3.215,9,4,9,0,6,0,Cen,Att
-2020-21,Petar Mićin,Udinese,21,1,15,0,0,0,0,0,0,Cen,
-2020-21,Valentin Mihaila,Parma,20,16,698,3,0,3,0,2,0,Att,Cen
-2020-21,Nikola Milenković,Fiorentina,22,34,3.034,3,1,3,0,7,1,Dif,
-2020-21,Sergej Milinković-Savić,Lazio,25,32,2.746,8,9,8,0,4,0,Cen,
-2020-21,Vanja Milinković-Savić,Torino,23,5,450,0,0,0,0,0,1,Por,
-2020-21,Vincenzo Millico,Torino,19,3,21,0,0,0,0,0,0,Att,Cen
-2020-21,Aleksej Mirančuk,Atalanta,24,25,675,4,2,4,0,0,0,Cen,Att
-2020-21,Antonio Mirante,Roma,37,13,1.153,0,0,0,0,2,0,Por,
-2020-21,Henrix Mxit'aryan,Roma,31,34,2.745,13,10,12,1,2,0,Cen,Att
-2020-21,Johan Mojica,Atalanta,27,11,299,0,0,0,0,1,0,Dif,
-2020-21,Nahuel Molina,Udinese,22,29,1.828,2,5,2,0,1,0,Dif,
-2020-21,Salvatore Molina,Crotone,28,29,2.315,1,4,1,0,1,0,Cen,Dif
-2020-21,Gabriele Moncini,Benevento,24,10,357,0,0,0,0,0,0,Att,Cen
-2020-21,Cristóbal Montiel,Fiorentina,20,2,4,0,0,0,0,0,0,Cen,Att
-2020-21,Lorenzo Montipò,Benevento,24,37,3.33,0,0,0,0,3,0,Por,
-2020-21,Luca Mora,Spezia,32,4,113,0,0,0,0,0,0,Cen,
-2020-21,Álvaro Morata,Juventus,27,32,2.014,11,9,10,1,3,1,Att,
-2020-21,Raúl Moro,Lazio,17,1,11,0,0,0,0,0,0,Att,
-2020-21,Mert Müldür,Sassuolo,21,28,1.672,0,0,0,0,2,0,Dif,
-2020-21,Luis Muriel,Atalanta,29,36,1.436,22,7,20,2,0,0,Att,
-2020-21,Vedat Muriqi,Lazio,26,27,832,1,0,1,0,1,0,Att,
-2020-21,Nicola Murru,Torino,25,14,569,0,0,0,0,0,0,Dif,
-2020-21,Mateo Musacchio,Lazio,29,4,229,0,0,0,0,2,0,Dif,
-2020-21,Mateo Musacchio,Milan,29,1,34,0,0,0,0,0,0,Dif,
-2020-21,Juan Musso,Udinese,26,35,3.147,0,0,0,0,5,0,Por,
-2020-21,Joakim Mæhle,Atalanta,23,20,1.216,0,2,0,0,0,0,Dif,
-2020-21,Radja Nainggolan,Cagliari,32,22,1.841,1,0,1,0,5,0,Cen,
-2020-21,Radja Nainggolan,Inter,32,4,46,0,0,0,0,0,0,Cen,
-2020-21,Nahitan Nández,Cagliari,24,32,2.737,2,2,2,0,8,1,Cen,Dif
-2020-21,Ilija Nestorovski,Udinese,30,22,701,2,2,2,0,1,0,Att,Cen
-2020-21,Nicolas N'Koulou,Torino,30,18,1.358,1,0,1,0,5,0,Dif,
-2020-21,Bram Nuytinck,Udinese,30,20,1.641,1,0,1,0,1,0,Dif,
-2020-21,Simy,Crotone,28,38,2.943,20,2,12,8,1,0,Att,
-2020-21,M'Bala Nzola,Spezia,23,25,1.896,11,3,7,4,5,0,Att,
-2020-21,Pedro Obiang,Sassuolo,28,33,1.469,0,1,0,0,4,1,Cen,
-2020-21,Brian Oddei,Sassuolo,17,5,45,0,2,0,0,0,0,Att,Cen
-2020-21,Stefano Okaka,Udinese,30,22,1.489,4,1,4,0,2,0,Att,
-2020-21,Christian Oliva,Cagliari,24,10,388,0,1,0,0,2,0,Cen,
-2020-21,Maximiliano Olivera,Fiorentina,28,2,91,0,0,0,0,0,0,Dif,
-2020-21,Jérôme Onguéné,Genoa,22,4,181,0,0,0,0,0,0,Dif,
-2020-21,Riccardo Orsolini,Bologna,23,34,1.755,7,3,4,3,0,0,Att,Cen
-2020-21,Victor Osimhen,Napoli,21,24,1.573,10,3,10,0,4,0,Att,
-2020-21,Yordan Osorio,Parma,26,23,1.809,0,0,0,0,2,0,Dif,
-2020-21,David Ospina,Napoli,31,16,1.44,0,1,0,0,2,0,Por,
-2020-21,Adam Ounas,Crotone,23,15,1.199,4,4,4,0,1,0,Att,Cen
-2020-21,Adam Ounas,Cagliari,23,7,308,0,0,0,0,0,0,Cen,Att
-2020-21,Thomas Ouwejan,Udinese,23,15,413,0,2,0,0,0,0,Dif,
-2020-21,Daniele Padelli,Inter,34,1,45,0,0,0,0,0,0,Por,
-2020-21,Mattia Pagliuca,Bologna,18,1,13,0,0,0,0,0,0,Cen,
-2020-21,Rodrigo Palacio,Bologna,38,36,2.502,5,5,5,0,5,0,Att,
-2020-21,Alberto Andrea Paleari,Genoa,27,3,206,0,0,0,0,0,0,Por,
-2020-21,Antonio Palumbo,Sampdoria,23,1,7,0,0,0,0,0,0,Cen,
-2020-21,Martin Palumbo,Udinese,18,3,63,0,0,0,0,0,0,Cen,
-2020-21,Goran Pandev,Genoa,1000,29,1.404,7,3,6,1,5,0,Att,Cen
-2020-21,Ivor Pandur,Hellas Verona,20,4,332,0,0,0,0,0,0,Por,
-2020-21,Vittorio Parigini,Genoa,24,4,56,0,0,0,0,0,0,Cen,Dif
-2020-21,Marco Parolo,Lazio,35,18,653,0,2,0,0,5,0,Dif,Cen
-2020-21,Mario Pašalić,Atalanta,25,25,1.122,6,2,6,0,2,0,Cen,
-2020-21,Christian Pastina,Benevento,19,3,121,0,1,0,0,1,0,Dif,
-2020-21,Javier Pastore,Roma,31,5,82,0,0,0,0,0,0,Cen,Att
-2020-21,Patricio Gabarrón,Lazio,27,25,1.595,0,1,0,0,8,0,Dif,
-2020-21,Leonardo Pavoletti,Cagliari,31,33,1.584,4,3,4,0,8,0,Att,
-2020-21,Nehuén Paz,Bologna,27,6,363,1,0,1,0,0,0,Dif,
-2020-21,Pedro Rodríguez Ledesma,Roma,33,27,1.591,5,2,5,0,5,1,Cen,Att
-2020-21,João Pedro,Cagliari,28,37,3.253,16,3,12,4,4,0,Att,Cen
-2020-21,Gianluca Pegolo,Sassuolo,39,1,90,0,0,0,0,0,0,Por,
-2020-21,Graziano Pellè,Parma,35,13,614,1,2,1,0,1,0,Att,
-2020-21,Lorenzo Pellegrini,Roma,24,34,2.598,7,6,6,1,10,0,Cen,
-2020-21,Luca Pellegrini,Genoa,21,11,639,0,1,0,0,2,0,Dif,Cen
-2020-21,Federico Peluso,Sassuolo,36,7,207,0,0,0,0,1,0,Dif,
-2020-21,Andreas Pereira,Lazio,24,26,543,1,2,1,0,7,1,Att,Cen
-2020-21,Pedro Miguel Pereira,Crotone,22,35,2.549,0,4,0,0,6,0,Dif,
-2020-21,Gastón Pereiro,Cagliari,25,15,272,2,2,2,0,0,0,Cen,Dif
-2020-21,Bruno Peres,Roma,30,30,1.427,1,2,1,0,6,0,Dif,
-2020-21,Roberto Pereyra,Udinese,29,34,2.925,5,7,4,1,8,0,Cen,Att
-2020-21,Carles Pérez,Roma,22,21,773,2,1,2,0,0,0,Cen,Att
-2020-21,Mattia Perin,Genoa,27,32,2.879,0,0,0,0,1,1,Por,
-2020-21,Ivan Perišić,Inter,31,32,1.795,4,3,4,0,3,0,Dif,Att
-2020-21,Matteo Pessina,Atalanta,23,28,1.645,2,2,2,0,2,0,Cen,
-2020-21,Andrea Petagna,Napoli,25,26,964,4,3,4,0,0,0,Att,
-2020-21,Jacopo Petriccione,Crotone,25,20,958,0,0,0,0,5,1,Cen,
-2020-21,Jens Petter Hauge,Milan,20,18,532,2,0,2,0,0,0,Att,
-2020-21,Germán Pezzella,Fiorentina,29,32,2.743,1,0,1,0,5,0,Dif,
-2020-21,Giuseppe Pezzella,Parma,22,24,1.828,1,4,1,0,7,0,Dif,
-2020-21,Cristiano Piccini,Atalanta,27,1,59,0,0,0,0,0,0,Dif,
-2020-21,Roberto Piccoli,Spezia,19,20,703,5,0,5,0,0,0,Att,
-2020-21,Andrea Pinamonti,Inter,21,8,169,1,0,1,0,0,0,Att,
-2020-21,Carlo Pinsoglio,Juventus,30,1,23,0,0,0,0,0,1,Por,
-2020-21,Fabio Pisacane,Cagliari,34,5,228,0,0,0,0,1,0,Dif,
-2020-21,Marko Pjaca,Genoa,25,35,1.418,3,2,3,0,0,0,Att,Cen
-2020-21,Tommaso Pobega,Spezia,21,20,1.229,6,0,6,0,6,0,Cen,
-2020-21,Andrea Poli,Bologna,30,18,383,1,0,1,0,1,0,Cen,
-2020-21,Matteo Politano,Napoli,26,37,1.908,9,4,9,0,3,0,Att,Cen
-2020-21,Manolo Portanova,Genoa,20,3,66,0,0,0,0,0,0,Cen,Att
-2020-21,Manolo Portanova,Juventus,20,2,70,0,0,0,0,1,0,Cen,
-2020-21,Ivan Provedel,Spezia,26,29,2.61,0,0,0,0,1,0,Por,
-2020-21,Erick Pulgar,Fiorentina,26,31,2.002,1,3,1,0,8,0,Cen,
-2020-21,Ignacio Pussetto,Udinese,24,11,754,3,1,3,0,2,0,Att,
-2020-21,Fabio Quagliarella,Sampdoria,37,33,2.204,13,1,11,2,1,0,Att,
-2020-21,Simone Rabbi,Bologna,18,4,35,0,1,0,0,0,0,Att,Dif
-2020-21,Adrien Rabiot,Juventus,25,34,2.313,4,2,4,0,7,1,Cen,
-2020-21,Ivan Radovanović,Genoa,31,33,2.232,0,0,0,0,6,0,Dif,Cen
-2020-21,Ionuț Andrei Radu,Inter,23,2,135,0,0,0,0,0,0,Por,
-2020-21,Ștefan Radu,Lazio,33,31,2.458,0,3,0,0,2,0,Dif,
-2020-21,Rafael de Andrade Bittencourt,Spezia,38,3,207,0,1,0,0,0,0,Por,
-2020-21,Antonio Raimondo,Bologna,16,1,1,0,0,0,0,0,0,Att,
-2020-21,Gastón Ramírez,Sampdoria,29,25,969,0,4,0,0,5,0,Att,Cen
-2020-21,Aaron Ramsey,Juventus,29,22,1.089,2,4,2,0,2,0,Cen,
-2020-21,Andrea Ranocchia,Inter,32,8,703,0,1,0,0,2,0,Dif,
-2020-21,Giacomo Raspadori,Sassuolo,20,27,1.232,6,0,6,0,1,0,Att,Cen
-2020-21,Federico Ravaglia,Bologna,20,4,360,0,0,0,0,0,0,Por,
-2020-21,Ante Rebić,Milan,26,27,1.776,11,4,11,0,4,1,Att,
-2020-21,Arkadiusz Reca,Crotone,25,30,2.313,2,3,2,0,7,0,Dif,
-2020-21,Vasco Regini,Sampdoria,29,3,88,0,0,0,0,0,0,Dif,
-2020-21,José Manuel Reina,Lazio,37,29,2.61,0,0,0,0,1,0,Por,
-2020-21,Bryan Reynolds,Roma,19,5,283,0,0,0,0,0,0,Dif,
-2020-21,Franck Ribéry,Fiorentina,37,29,2.149,2,6,2,0,6,1,Att,
-2020-21,Federico Ricci,Sassuolo,26,1,4,0,0,0,0,0,0,Att,
-2020-21,Giacomo Ricci,Parma,23,3,67,0,0,0,0,0,0,Dif,
-2020-21,Matteo Ricci,Spezia,26,29,2.229,0,2,0,0,5,0,Cen,
-2020-21,Tomás Rincón,Torino,32,36,2.846,1,1,1,0,10,1,Cen,
-2020-21,Andrea Rispoli,Crotone,31,19,652,0,0,0,0,4,0,Dif,
-2020-21,Emmanuel Rivière,Crotone,30,21,640,1,1,1,0,2,0,Att,
-2020-21,Ricardo Rodríguez,Torino,27,16,1.238,0,0,0,0,1,0,Dif,
-2020-21,Marko Rog,Cagliari,25,14,1.165,0,0,0,0,2,0,Cen,
-2020-21,Rogério Oliveira da Silva,Sassuolo,22,28,1.877,0,1,0,0,4,0,Dif,
-2020-21,Luis Rojas,Crotone,18,7,104,0,0,0,0,1,0,Cen,Att
-2020-21,Alessio Romagnoli,Milan,25,22,1.907,1,1,1,0,7,0,Dif,
-2020-21,Cristian Romero,Atalanta,22,31,2.545,2,2,2,0,10,0,Dif,
-2020-21,Cristiano Ronaldo,Juventus,71,33,2.802,29,2,23,6,3,0,Att,
-2020-21,Marten de Roon,Atalanta,29,35,3.021,1,1,1,0,8,1,Cen,
-2020-21,Nicolò Rovella,Genoa,18,20,1.187,0,2,0,0,4,0,Cen,
-2020-21,Amir Rrahmani,Napoli,26,16,1.094,1,0,1,0,2,0,Dif,
-2020-21,Kevin Rüegg,Hellas Verona,21,7,205,0,0,0,0,0,0,Dif,Cen
-2020-21,Daniele Rugani,Cagliari,26,16,1.001,1,1,1,0,2,0,Dif,
-2020-21,Matteo Ruggeri,Atalanta,18,6,208,0,0,0,0,0,0,Dif,
-2020-21,Mário Rui,Napoli,29,27,1.669,0,2,0,0,4,0,Dif,
-2020-21,Fabián Ruiz Peña,Napoli,24,33,2.569,3,1,3,0,1,0,Cen,
-2020-21,Alexis Saelemaekers,Milan,21,32,2.016,2,4,2,0,7,1,Att,
-2020-21,Jacopo Sala,Spezia,28,6,375,0,0,0,0,1,0,Dif,
-2020-21,Eddie Salcedo,Hellas Verona,18,21,755,2,0,2,0,3,0,Cen,Att
-2020-21,Antonio Sanabria,Torino,24,14,978,5,1,5,0,2,0,Att,
-2020-21,Alexis Sánchez,Inter,31,30,1.146,7,5,7,0,0,0,Att,
-2020-21,Alex Sandro Lobo Silva,Juventus,29,26,1.858,2,1,2,0,2,0,Dif,
-2020-21,Siriki Sanogo,Benevento,18,1,10,0,0,0,0,0,0,Cen,
-2020-21,Nicola Sansone,Bologna,28,26,1.169,2,2,2,0,2,0,Att,Cen
-2020-21,Federico Santander,Bologna,29,4,37,0,1,0,0,0,0,Att,
-2020-21,Davide Santon,Roma,29,10,586,0,1,0,0,3,0,Dif,
-2020-21,Samir Caetano de Souza Santos,Udinese,25,30,2.216,1,0,1,0,6,0,Dif,
-2020-21,Riccardo Saponara,Fiorentina,28,2,52,0,0,0,0,0,0,Cen,
-2020-21,Riccardo Saponara,Spezia,28,9,389,2,0,2,0,2,1,Att,Cen
-2020-21,Marco Sau,Benevento,32,24,785,4,2,3,1,1,1,Cen,Att
-2020-21,Gianluca Scamacca,Genoa,21,26,1.352,8,2,6,2,1,0,Att,
-2020-21,Nicolás Schiappacasse,Sassuolo,21,1,15,0,0,0,0,0,0,Cen,
-2020-21,Pasquale Schiattarella,Benevento,33,29,2.247,1,1,1,0,13,1,Cen,
-2020-21,Jerdy Schouten,Bologna,23,34,2.512,1,1,1,0,8,1,Cen,
-2020-21,Matteo Scozzarella,Parma,32,3,153,0,0,0,0,1,0,Cen,
-2020-21,Simone Scuffet,Udinese,24,1,90,0,0,0,0,0,0,Por,
-2020-21,Jacopo Segre,Torino,23,9,191,0,0,0,0,1,0,Cen,
-2020-21,Léo Sena,Spezia,24,16,885,0,0,0,0,0,0,Cen,
-2020-21,Stefano Sensi,Inter,24,18,603,0,0,0,0,1,1,Cen,
-2020-21,Luigi Sepe,Parma,29,36,3.24,0,0,0,0,0,0,Por,
-2020-21,Stephan El Shaarawy,Roma,27,10,572,1,1,1,0,1,0,Cen,Att
-2020-21,Eldor Shomurodov,Genoa,25,31,1.677,8,1,8,0,1,0,Att,
-2020-21,Luca Siligardi,Crotone,32,4,49,0,0,0,0,0,0,Cen,Att
-2020-21,Luca Siligardi,Parma,32,2,34,0,0,0,0,0,0,Att,Cen
-2020-21,Adrien Silva,Sampdoria,31,24,1.599,1,1,1,0,8,1,Cen,
-2020-21,Marco Silvestri,Hellas Verona,29,34,3.06,0,0,0,0,1,0,Por,
-2020-21,Giovanni Simeone,Cagliari,25,33,1.74,6,2,6,0,1,0,Att,
-2020-21,Wilfried Singo,Torino,19,28,1.854,1,2,1,0,4,1,Dif,
-2020-21,Salvatore Sirigu,Torino,33,32,2.88,0,0,0,0,0,0,Por,
-2020-21,Łukasz Skorupski,Bologna,29,28,2.52,0,0,0,0,1,0,Por,
-2020-21,Andreas Skov Olsen,Bologna,20,26,1.179,2,3,2,0,1,0,Att,Dif
-2020-21,Milan Škriniar,Inter,25,32,2.777,3,0,3,0,1,0,Dif,
-2020-21,Chris Smalling,Roma,30,16,1.111,0,1,0,0,3,0,Dif,
-2020-21,Simon Sohm,Parma,19,18,899,1,0,1,0,1,0,Cen,
-2020-21,Roberto Soriano,Bologna,29,37,3.25,9,6,9,0,5,0,Cen,
-2020-21,Riccardo Sottil,Cagliari,21,21,1.184,2,1,2,0,3,0,Att,Cen
-2020-21,Adama Soumaoro,Bologna,28,20,1.755,1,0,1,0,4,0,Dif,
-2020-21,Leonardo Spinazzola,Roma,27,27,2.124,2,4,2,0,0,0,Dif,
-2020-21,Marco Sportiello,Atalanta,28,15,1.261,0,0,0,0,0,0,Por,
-2020-21,Mattia Sprocati,Parma,27,1,22,0,0,0,0,0,0,Cen,Att
-2020-21,Thomas Strakosha,Lazio,25,9,810,0,0,0,0,1,0,Por,
-2020-21,Kevin Strootman,Genoa,30,18,1.314,0,4,0,0,7,0,Cen,
-2020-21,Jens Stryger Larsen,Udinese,29,33,2.638,2,0,2,0,0,0,Dif,
-2020-21,Stefano Sturaro,Hellas Verona,27,10,423,0,0,0,0,5,0,Cen,
-2020-21,Stefano Sturaro,Genoa,27,6,445,1,0,1,0,1,0,Cen,
-2020-21,Bosko Sutalo,Atalanta,20,7,233,0,0,0,0,0,0,Dif,
-2020-21,Mattias Svanberg,Bologna,21,34,1.852,5,2,5,0,8,1,Cen,
-2020-21,Wojciech Szczęsny,Juventus,30,30,2.677,0,1,0,0,0,0,Por,
-2020-21,Adrien Tameze,Hellas Verona,26,33,2.304,1,0,1,0,6,0,Cen,
-2020-21,Ciprian Tătărușanu,Milan,34,1,90,0,0,0,0,0,0,Por,
-2020-21,Andrés Tello,Benevento,23,17,413,1,0,1,0,3,0,Dif,Cen
-2020-21,Hidde ter Avest,Udinese,23,6,351,0,0,0,0,0,0,Dif,
-2020-21,Pietro Terracciano,Fiorentina,30,4,272,0,0,0,0,0,0,Por,
-2020-21,Claudio Terzi,Spezia,36,25,1.869,1,1,1,0,9,1,Dif,
-2020-21,Morten Thorsby,Sampdoria,24,33,2.648,3,1,3,0,10,0,Cen,
-2020-21,Jeremy Toljan,Sassuolo,25,26,1.49,0,2,0,0,2,0,Dif,
-2020-21,Rafael Tolói,Atalanta,29,31,2.537,2,0,2,0,9,0,Dif,
-2020-21,Takehiro Tomiyasu,Bologna,21,31,2.715,2,0,2,0,4,0,Dif,
-2020-21,Fikayo Tomori,Milan,22,17,1.466,1,0,1,0,0,0,Dif,
-2020-21,Sandro Tonali,Milan,20,25,1.33,0,0,0,0,1,1,Cen,
-2020-21,Lorenzo Tonelli,Sampdoria,30,23,1.782,1,0,1,0,11,0,Dif,
-2020-21,Ernesto Torregrossa,Sampdoria,28,6,170,1,0,1,0,0,0,Att,
-2020-21,Mattéo Tramoni,Cagliari,20,6,74,0,0,0,0,1,0,Cen,Att
-2020-21,Chaka Traorè,Parma,15,3,18,0,0,0,0,0,0,Att,Dif
-2020-21,Alessandro Tripaldelli,Cagliari,21,10,300,0,0,0,0,1,0,Dif,
-2020-21,Alessandro Tuia,Benevento,30,27,1.765,1,0,1,0,6,0,Dif,
-2020-21,Ľubomír Tupta,Hellas Verona,22,2,50,0,0,0,0,0,0,Att,
-2020-21,Destiny Udogie,Hellas Verona,17,6,170,0,0,0,0,1,0,Dif,Cen
-2020-21,Samir Ujkani,Torino,32,1,90,0,0,0,0,0,0,Por,
-2020-21,Kacper Urbanski,Bologna,15,1,2,0,0,0,0,0,0,Att,
-2020-21,Lautaro Valenti,Parma,21,11,499,0,0,0,0,0,0,Dif,
-2020-21,Borja Valero,Fiorentina,35,20,491,0,0,0,0,3,0,Cen,Att
-2020-21,Denis Vavro,Lazio,24,1,32,0,0,0,0,0,0,Dif,
-2020-21,Matías Vecino,Inter,28,8,283,1,1,1,0,0,0,Cen,
-2020-21,Miguel Veloso,Hellas Verona,34,21,1.316,2,2,0,2,1,0,Cen,
-2020-21,Lorenzo Venuti,Fiorentina,25,28,1.757,0,1,0,0,3,0,Dif,
-2020-21,Daniele Verde,Spezia,24,21,980,6,1,6,0,1,0,Att,
-2020-21,Simone Verdi,Torino,28,33,1.62,1,5,1,0,6,0,Cen,Att
-2020-21,Jordan Veretout,Roma,27,29,2.053,10,2,5,5,4,0,Cen,
-2020-21,Edoardo Vergani,Bologna,19,1,12,0,0,0,0,0,0,Att,
-2020-21,Valerio Verre,Sampdoria,26,27,998,3,3,3,0,3,0,Att,Cen
-2020-21,Guglielmo Vicario,Cagliari,23,4,360,0,0,0,0,0,0,Por,
-2020-21,Arturo Vidal,Inter,33,23,1.138,1,1,1,0,3,0,Cen,
-2020-21,Ronaldo Vieira,Hellas Verona,22,4,226,0,0,0,0,1,0,Cen,Dif
-2020-21,Luca Vignali,Spezia,24,21,1.59,0,0,0,0,4,1,Dif,
-2020-21,Emanuel Vignato,Bologna,19,31,1.203,1,4,1,0,4,0,Att,Cen
-2020-21,Gonzalo Villar,Roma,22,33,1.859,0,1,0,0,7,0,Cen,
-2020-21,Nicolas Viola,Benevento,30,17,1.036,5,2,1,4,1,0,Cen,
-2020-21,Dušan Vlahović,Fiorentina,20,37,2.923,21,3,15,6,1,0,Att,
-2020-21,Mërgim Vojvoda,Torino,25,24,1.359,2,2,2,0,4,0,Dif,Att
-2020-21,Stefan de Vrij,Inter,28,32,2.734,1,0,1,0,2,0,Dif,
-2020-21,Giacomo Vrioni,Juventus,21,1,1,0,0,0,0,0,0,Att,
-2020-21,Miloš Vulić,Crotone,23,25,1.305,1,1,1,0,2,0,Cen,
-2020-21,Walace,Udinese,25,30,2.055,0,0,0,0,4,0,Cen,
-2020-21,Sebastian Walukiewicz,Cagliari,20,19,1.618,0,1,0,0,1,0,Dif,
-2020-21,Maya Yoshida,Sampdoria,31,32,2.274,1,2,1,0,5,0,Dif,
-2020-21,Ashley Young,Inter,35,26,1.425,1,4,1,0,4,0,Dif,
-2020-21,Mattia Zaccagni,Hellas Verona,25,36,2.609,5,5,4,1,6,0,Cen,
-2020-21,Vasilios Zagaritis,Parma,19,2,65,0,0,0,0,0,0,Dif,
-2020-21,Miha Zajc,Genoa,26,31,1.863,1,3,1,0,4,0,Cen,
-2020-21,Nicola Zalewski,Roma,18,1,11,0,1,0,0,0,0,Cen,
-2020-21,Niccolò Zanellato,Crotone,22,27,1.637,1,1,1,0,3,0,Cen,
-2020-21,Cristián Zapata,Genoa,33,12,968,0,0,0,0,2,0,Dif,
-2020-21,Duván Zapata,Atalanta,29,37,2.379,15,9,14,1,0,0,Att,
-2020-21,Gabriele Zappa,Cagliari,20,34,2.395,0,4,0,0,3,0,Dif,
-2020-21,Davide Zappacosta,Genoa,28,25,2.045,4,2,4,0,3,0,Dif,
-2020-21,Simone Zaza,Torino,29,29,1.491,6,0,6,0,4,0,Att,
-2020-21,Marvin Zeegelaar,Udinese,29,24,1.74,1,0,1,0,6,0,Dif,
-2020-21,Piotr Zieliński,Napoli,26,36,2.523,8,10,8,0,2,0,Cen,
-2020-21,Joshua Zirkzee,Parma,19,4,113,0,0,0,0,0,0,Att,Cen
-2020-21,Jeroen Zoet,Spezia,29,7,603,0,0,0,0,1,0,Por,
-2020-21,Filip Đuričić,Sassuolo,28,32,2.079,5,4,4,1,5,0,Cen,Att
+﻿Età;Genere;Fumatore;Ex-Fumatore;Non-Fumatore;Data;Frequenza Cardiaca;SpO2;OssigenoTerapia;DopoTest6Minuti;Temperatura;Allerta?
+43;F;false;false;true;04/06/2024;104;94;no;False;36;GREEN
+79;M;false;true;false;09/08/2024;85;89;no;False;36,3;GREEN
+81;M;true;false;false;03/08/2024;114;86;no;False;36,2;RED
+81;M;false;false;true;15/08/2024;92;86;no;False;36,5;RED
+48;F;false;false;true;26/06/2024;87;93;no;False;36;YELLOW
+82;M;false;false;true;01/02/2024;78;86;no;False;36;RED
+72;M;false;false;true;27/06/2024;99;91;no;False;36;YELLOW
+78;M;false;true;false;15/07/2024;81;97;no;False;36;GREEN
+82;M;false;false;true;23/03/2024;74;86;no;False;36,2;RED
+81;M;false;false;true;23/05/2024;80;87;no;False;36,1;RED
+82;M;false;false;true;09/07/2024;99;86;no;False;36,4;RED
+81;M;false;true;false;29/08/2024;96;86;no;False;36,3;RED
+81;M;false;true;false;04/12/2024;81;86;no;False;36;RED
+81;M;false;true;false;22/07/2024;106;86;no;False;36,2;RED
+81;M;false;true;false;22/09/2024;105;87;no;False;36,2;RED
+42;M;false;false;true;15/05/2024;72;88;no;False;36,1;YELLOW
+82;M;false;false;true;26/07/2024;92;86;no;False;36;RED
+67;F;false;true;false;16/02/2024;92;96;no;False;36;GREEN
+82;M;false;false;true;24/11/2024;92;86;no;False;36,3;RED
+81;M;false;true;false;25/12/2024;103;86;no;False;36;RED
+81;M;false;true;false;13/12/2024;96;86;no;False;36,5;RED
+58;F;false;false;true;22/07/2024;60;88;venturi_mask;False;36;RED
+58;M;false;true;false;03/11/2024;107;96;no;False;36;GREEN
+81;M;false;true;false;12/07/2024;72;87;no;False;36,2;RED
+76;M;false;true;false;19/08/2024;101;87;no;False;36;RED
+81;M;false;false;true;22/09/2024;87;87;no;False;36;RED
+83;F;false;false;true;09/01/2024;90;89;no;False;36;YELLOW
+86;M;true;false;false;16/01/2024;90;98;no;False;36;GREEN
+77;M;false;false;true;18/08/2024;61;94;no;False;36;GREEN
+81;M;false;false;true;26/09/2024;96;86;no;False;36,2;RED
+91;M;false;false;true;25/06/2024;68;98;no;False;36;GREEN
+81;M;false;true;false;22/02/2024;90;86;no;False;36;RED
+51;M;false;true;false;29/03/2024;82;98;no;False;36;GREEN
+82;M;false;false;true;12/12/2024;107;86;no;False;36;RED
+81;M;false;true;false;09/06/2024;100;86;no;False;36,2;RED
+47;F;false;false;true;08/01/2024;98;100;venturi_mask;False;36;GREEN
+62;F;true;false;false;16/08/2024;88;92;no;False;36;YELLOW
+80;M;false;true;false;09/06/2024;81;91;no;False;39,5;YELLOW
+103;M;false;false;true;12/09/2024;83;90;no;False;36,8;YELLOW
+67;F;false;false;true;05/01/2024;110;91;no;False;36,3;YELLOW
+58;M;false;false;true;09/01/2024;69;89;no;False;36,8;YELLOW
+45;M;true;false;false;04/12/2024;79;89;ox;False;38,8;RED
+108;F;false;false;true;03/01/2024;80;89;no;False;36;YELLOW
+52;M;true;false;false;08/12/2024;95;99;no;False;36;GREEN
+6;M;false;false;true;05/11/2024;62;87;ox;False;36,8;RED
+90;M;true;false;false;28/09/2024;85;99;no;False;36,9;GREEN
+33;M;false;false;true;23/10/2024;64;91;no;False;36;RED
+51;F;false;false;true;06/07/2024;121;93;no;False;37,5;RED
+70;F;false;false;true;27/07/2024;70;93;no;False;36,4;YELLOW
+13;F;true;false;false;19/09/2024;63;92;no;False;38;YELLOW
+100;F;false;false;true;04/03/2024;71;97;no;False;36;GREEN
+83;M;false;false;true;04/12/2024;85;94;ox;False;38,1;YELLOW
+104;F;false;false;true;16/06/2024;74;97;no;False;38,4;YELLOW
+76;M;false;false;true;24/11/2024;95;93;no;False;36,8;GREEN
+108;M;false;false;true;23/12/2024;119;87;no;False;36,6;RED
+45;F;false;true;false;10/07/2024;92;92;ox;False;36;YELLOW
+78;F;false;false;true;27/11/2024;89;98;ox;False;36;GREEN
+57;F;false;false;true;03/10/2024;75;98;no;False;36;GREEN
+83;M;false;false;true;23/03/2024;79;88;no;False;38,9;RED
+87;M;false;false;true;25/12/2024;75;92;no;False;37,2;YELLOW
+25;M;false;true;false;03/02/2024;63;100;no;False;36,3;GREEN
+70;M;false;false;true;04/06/2024;82;95;no;False;38,6;GREEN
+109;M;false;false;true;10/11/2024;69;95;no;False;36,5;GREEN
+66;M;false;false;true;18/10/2024;96;100;no;False;36;GREEN
+60;M;false;false;true;23/01/2024;88;96;no;False;36;GREEN
+73;F;false;false;true;02/05/2024;66;87;no;False;36,6;RED
+28;M;false;false;true;31/07/2024;107;90;no;False;36,2;RED
+24;M;false;false;true;22/03/2024;68;86;ox;False;36,6;RED
+93;F;true;false;false;01/04/2024;67;93;ox;False;37,6;YELLOW
+36;M;false;false;true;true;98;97;no;False;36,3;GREEN
+23;M;false;false;true;24/05/2024;92;96;no;False;36,1;GREEN
+98;F;true;false;false;10/05/2024;75;89;no;False;36;YELLOW
+26;M;false;false;true;19/10/2024;97;96;no;False;38,4;GREEN
+21;F;false;false;true;21/02/2024;91;91;ox;False;36;RED
+33;M;true;false;false;24/12/2024;104;99;ox;False;38;YELLOW
+87;M;false;false;true;10/03/2024;77;89;no;False;36,2;YELLOW
+48;F;true;false;false;25/08/2024;70;98;no;False;37,3;GREEN
+15;F;false;false;true;20/09/2024;61;89;no;False;36,5;RED
+29;M;false;false;true;30/12/2024;92;99;ox;True;37,4;YELLOW
+83;M;false;false;true;02/01/2024;74;90;no;False;39;YELLOW
+94;F;true;false;false;21/11/2024;86;98;no;False;36,3;GREEN
+78;F;false;false;true;03/07/2024;71;98;no;False;36;GREEN
+96;M;false;false;true;20/06/2024;85;94;no;False;37;GREEN
+68;F;false;true;false;01/02/2024;99;91;no;False;36;GREEN
+102;M;false;false;true;14/12/2024;73;88;no;False;38,4;RED
+74;F;false;false;true;06/12/2024;93;95;no;False;38,4;GREEN
+84;F;false;true;false;12/09/2024;75;100;no;False;36,6;GREEN
+63;M;false;true;false;15/11/2024;70;94;no;False;36,6;GREEN
+52;M;false;true;false;04/09/2024;107;96;no;False;36;GREEN
+67;M;false;true;false;20/11/2024;109;92;ox;False;36,2;YELLOW
+91;M;true;false;false;04/06/2024;102;100;no;False;37,6;GREEN
+64;M;false;true;false;08/08/2024;113;89;no;False;36;RED
+92;M;false;false;true;19/11/2024;100;96;no;False;36,9;GREEN
+80;F;false;false;true;14/06/2024;82;94;no;True;37,4;GREEN
+82;F;false;false;true;15/03/2024;87;88;no;False;39;RED
+57;M;false;false;true;16/06/2024;96;88;no;False;36,5;RED
+49;M;false;true;false;06/11/2024;78;94;no;False;36,4;YELLOW
+102;M;true;false;false;20/08/2024;89;95;no;False;36,6;GREEN
+32;M;false;true;false;17/12/2024;121;97;ox;False;38,1;YELLOW
+82;M;false;false;true;08/11/2024;88;98;no;True;36,5;GREEN
+41;M;true;false;false;18/05/2024;118;96;no;False;36;YELLOW
+30;M;false;true;false;19/10/2024;109;91;no;False;36;YELLOW
+63;F;true;false;false;30/11/2024;85;92;no;True;37,5;YELLOW
+85;M;true;false;false;21/06/2024;100;94;no;False;36,2;GREEN
+38;M;false;false;true;08/02/2024;81;100;no;False;36;GREEN
+84;F;false;false;true;21/01/2024;93;93;no;False;36;GREEN
+25;M;false;false;true;26/10/2024;79;98;no;False;36,2;GREEN
+82;M;false;false;true;05/07/2024;96;95;no;False;36;GREEN
+16;F;true;false;false;11/12/2024;62;97;no;False;36;GREEN
+26;F;false;false;true;16/04/2024;69;92;no;False;36,4;YELLOW
+65;F;false;false;true;25/04/2024;91;100;no;False;36,3;GREEN
+46;F;false;false;true;11/02/2024;104;97;no;False;36,4;GREEN
+90;M;false;false;true;12/10/2024;77;89;ox;False;36,5;true
+89;F;false;false;true;06/02/2024;106;99;ox;False;36;YELLOW
+47;M;false;false;true;13/01/2024;96;99;no;False;36;GREEN
+36;M;false;false;true;01/11/2024;97;98;no;False;36;GREEN
+37;M;true;false;false;11/12/2024;79;100;no;False;36;GREEN
+26;M;false;false;true;23/05/2024;82;93;no;False;36,2;GREEN
+96;F;true;false;false;07/08/2024;75;95;no;True;36,7;GREEN
+36;M;false;false;true;27/11/2024;99;98;no;False;36;GREEN
+100;F;false;false;true;13/04/2024;67;88;no;False;39,7;RED
+33;M;true;false;false;04/09/2024;127;96;no;False;37,4;GREEN
+8;M;false;false;true;02/06/2024;89;86;no;False;36,4;RED
+95;F;false;false;true;01/02/2024;84;95;no;False;36,7;GREEN
+38;F;false;false;true;18/10/2024;102;97;ox;False;36;GREEN
+90;F;false;false;true;17/01/2024;80;87;no;False;37,9;RED
+80;M;false;true;false;21/03/2024;92;92;no;False;36,8;YELLOW
+12;F;false;false;true;26/05/2024;71;95;ox;False;37,7;GREEN
+69;M;false;true;false;19/03/2024;69;92;ox;False;36;YELLOW
+79;M;false;true;false;29/04/2024;79;96;no;False;39;GREEN
+80;M;true;false;false;12/09/2024;71;94;no;False;36,4;GREEN
+64;F;false;false;true;04/08/2024;74;90;no;True;37;YELLOW
+66;M;false;true;false;14/08/2024;64;89;no;False;36;RED
+105;M;false;false;true;25/10/2024;81;96;no;False;36,4;GREEN
+79;M;false;false;true;11/02/2024;74;94;no;False;39,3;YELLOW
+49;F;false;false;true;27/11/2024;115;100;no;False;36;YELLOW
+35;F;false;true;false;30/10/2024;64;91;no;False;36;YELLOW
+47;M;true;false;false;13/03/2024;75;90;no;False;36,9;YELLOW
+29;M;false;false;true;23/01/2024;89;99;no;False;36,5;GREEN
+63;M;true;false;false;21/02/2024;85;95;no;False;36,8;GREEN
+65;M;true;false;false;16/10/2024;89;90;no;False;36,8;YELLOW
+35;M;false;false;true;29/06/2024;101;97;no;False;36;GREEN
+92;F;false;false;true;23/11/2024;98;98;ox;False;36,3;GREEN
+60;M;false;false;true;03/03/2024;64;89;ox;False;36,1;RED
+106;M;false;false;true;30/09/2024;94;89;no;False;36;YELLOW
+97;F;false;false;true;07/07/2024;85;99;no;False;36;GREEN
+94;F;false;false;true;01/07/2024;90;92;ox;False;36,1;YELLOW
+90;F;false;false;true;01/06/2024;88;92;ox;False;36;YELLOW
+101;M;false;false;true;13/03/2024;75;87;no;False;36,3;YELLOW
+48;M;false;false;true;01/02/2024;97;97;no;False;36,2;GREEN
+106;F;false;false;true;01/03/2024;67;94;no;False;38,8;YELLOW
+46;M;false;false;true;16/03/2024;84;95;ox;False;36;YELLOW
+21;M;false;false;true;08/06/2024;107;99;no;False;36,1;GREEN
+94;M;false;false;true;03/01/2024;78;93;no;False;38,1;YELLOW
+59;M;false;true;false;21/11/2024;77;89;no;False;39,7;RED
+97;M;false;false;true;28/06/2024;94;88;no;False;36,3;RED
+47;M;true;false;false;02/08/2024;61;94;no;False;36;GREEN
+63;M;false;true;false;13/06/2024;67;92;no;False;36,1;GREEN
+34;F;false;false;true;28/09/2024;92;97;no;False;36,4;GREEN
+77;F;false;true;false;03/08/2024;67;94;no;False;36,7;GREEN
+91;M;false;false;true;28/08/2024;79;90;no;False;36,5;YELLOW
+59;M;false;false;true;23/02/2024;99;88;no;False;36,7;RED
+94;F;false;false;true;03/04/2024;63;95;no;False;37,7;GREEN
+64;F;false;false;true;13/02/2024;66;88;no;False;36;RED
+15;M;false;false;true;11/12/2024;99;99;no;False;36;GREEN
+24;F;false;false;true;31/08/2024;86;92;no;False;36;YELLOW
+61;F;false;true;false;23/08/2024;78;95;no;False;38,4;YELLOW
+16;M;false;false;true;08/08/2024;93;95;no;False;36;GREEN
+103;M;false;false;true;28/05/2024;80;88;no;False;36;RED
+72;M;false;true;false;29/09/2024;62;89;no;False;37,5;RED
+69;M;false;true;false;09/04/2024;81;100;no;False;36,1;GREEN
+20;M;false;false;true;02/10/2024;61;90;ox;False;36;RED
+106;M;false;false;true;21/08/2024;90;89;ox;False;36;YELLOW
+54;M;false;false;true;01/01/2024;97;97;no;False;36;GREEN
+84;F;false;true;false;02/09/2024;66;92;ox;False;39;RED
+87;M;false;false;true;05/11/2024;65;98;no;False;36,1;GREEN
+106;M;false;false;true;21/06/2024;79;91;no;False;36,8;GREEN
+106;F;false;false;true;21/11/2024;114;98;no;False;36,2;GREEN
+79;M;false;true;false;03/07/2024;73;98;no;False;38;YELLOW
+72;F;false;false;true;10/10/2024;74;97;no;False;37;GREEN
+91;M;false;false;true;18/08/2024;93;90;no;False;39,3;RED
+72;F;false;false;true;09/12/2024;67;96;no;False;39,9;RED
+64;M;false;false;true;05/03/2024;91;100;no;False;36;GREEN
+93;F;false;false;true;27/12/2024;81;97;ox;False;36;GREEN
+57;M;false;true;false;06/02/2024;89;87;no;False;36;RED
+38;M;false;true;false;15/03/2024;76;95;no;False;37;GREEN
+28;F;true;false;false;08/12/2024;97;97;no;False;38,7;YELLOW
+62;F;true;false;false;02/05/2024;117;100;no;False;36,1;YELLOW
+88;F;true;false;false;19/03/2024;80;94;no;False;36,4;GREEN
+104;F;true;false;false;28/10/2024;67;88;no;False;37;YELLOW
+99;M;false;false;true;14/10/2024;72;90;no;False;36,7;YELLOW
+17;F;false;false;true;12/04/2024;102;98;ox;False;37,2;GREEN
+41;F;false;true;false;12/09/2024;82;96;no;False;36,6;GREEN
+93;M;false;false;true;26/03/2024;94;95;no;False;36,4;GREEN
+96;F;false;false;true;20/03/2024;70;92;no;False;36,5;GREEN
+14;F;false;false;true;20/03/2024;91;100;ox;False;36,9;GREEN
+43;M;false;true;false;03/09/2024;65;99;ox;False;36;GREEN
+78;M;false;true;false;29/03/2024;86;96;ox;False;37;GREEN
+26;F;false;false;true;20/05/2024;103;98;no;True;36;GREEN
+63;M;false;false;true;23/03/2024;102;89;ox;False;36,3;RED
+74;M;false;true;false;17/04/2024;114;95;no;False;36;GREEN
+78;F;true;false;false;12/11/2024;68;96;ox;False;38,4;YELLOW
+87;M;true;false;false;16/03/2024;65;86;ox;False;36,9;RED
+82;M;false;false;true;12/04/2024;88;94;ox;False;38,8;YELLOW
+100;F;false;false;true;25/08/2024;65;90;no;False;36;GREEN
+20;F;false;false;true;04/08/2024;99;99;no;True;36,5;GREEN
+85;F;false;false;true;11/04/2024;75;91;no;False;37,8;YELLOW
+53;F;false;false;true;25/12/2024;65;89;no;False;39,1;RED
+66;F;false;true;false;14/06/2024;72;100;no;False;36,7;GREEN
+98;F;false;false;true;30/11/2024;96;97;no;False;36,2;GREEN
+31;F;false;false;true;30/10/2024;111;100;no;False;38,8;YELLOW
+54;M;false;false;true;13/02/2024;101;96;no;False;36,6;GREEN
+98;M;false;false;true;28/08/2024;85;98;no;False;36,4;GREEN
+70;M;false;true;false;17/11/2024;70;92;no;False;38,4;YELLOW
+98;M;false;false;true;19/11/2024;74;93;no;False;36,2;GREEN
+87;F;false;false;true;17/02/2024;70;95;no;False;37,1;GREEN
+56;M;false;true;false;02/10/2024;68;90;no;False;36,8;GREEN
+69;F;false;false;true;04/01/2024;77;94;no;False;36,6;GREEN
+88;M;false;false;true;21/08/2024;86;94;no;False;36,6;GREEN
+97;M;true;false;false;04/03/2024;70;100;no;False;36,5;GREEN
+105;M;false;false;true;13/05/2024;87;98;no;False;36,8;GREEN
+103;F;false;false;true;07/08/2024;95;87;no;False;36,4;RED
+99;F;false;false;true;21/08/2024;81;100;no;False;36;GREEN
+94;M;false;false;true;31/01/2024;104;97;ox;False;36;GREEN
+87;M;false;false;true;24/04/2024;83;92;no;False;36;GREEN
+35;F;false;false;true;07/08/2024;84;92;no;False;36;YELLOW
+83;M;false;false;true;21/02/2024;95;88;no;False;37,2;RED
+97;M;false;false;true;12/05/2024;76;92;no;False;36;GREEN
+109;F;false;false;true;14/05/2024;80;98;no;False;36,1;GREEN
+61;F;false;false;true;09/11/2024;117;90;no;True;37,7;YELLOW
+49;F;false;true;false;22/07/2024;64;96;no;True;36,3;GREEN
+45;M;false;false;true;31/08/2024;91;99;no;False;36,1;GREEN
+82;M;false;false;true;28/09/2024;78;93;no;False;38,5;YELLOW
+108;M;true;false;false;03/07/2024;76;92;ox;False;36,5;YELLOW
+43;F;false;false;true;23/07/2024;65;94;no;False;36,1;GREEN
+91;M;false;false;true;06/03/2024;90;91;no;False;36,7;YELLOW
+51;F;false;false;true;31/08/2024;115;100;no;False;36,5;GREEN
+18;M;false;false;true;17/06/2024;74;100;no;True;37,7;GREEN
+100;M;false;false;true;11/04/2024;NaN;89;no;False;36;YELLOW
+78;F;false;false;true;23/04/2024;86;91;no;False;36;GREEN
+44;M;false;false;true;26/05/2024;90;93;no;False;36;GREEN
+77;F;false;false;true;26/02/2024;70;91;no;False;39,7;YELLOW
+70;M;false;true;false;01/08/2024;77;90;no;False;37;YELLOW
+82;M;false;false;true;07/03/2024;74;95;no;False;36;GREEN
+91;M;true;false;false;07/05/2024;83;89;ox;False;38,6;RED
+75;M;false;true;false;20/08/2024;97;97;no;False;36;GREEN
+63;F;false;false;true;18/08/2024;88;98;no;False;36,2;GREEN
+93;M;false;false;true;21/08/2024;82;93;no;False;36,8;GREEN
+62;M;true;false;false;22/02/2024;80;98;no;False;37,1;GREEN
+10;F;false;false;true;28/05/2024;96;92;no;False;37;RED
+101;M;false;false;true;12/12/2024;78;91;no;False;36,9;GREEN
+97;M;false;false;true;12/12/2024;81;91;no;False;36,5;GREEN
+71;M;false;false;true;01/03/2024;78;90;ox;False;39,4;RED
+102;M;false;false;true;22/08/2024;99;94;no;False;36,5;GREEN
+68;M;false;true;false;25/02/2024;75;90;no;False;36,7;YELLOW
+82;F;false;false;true;27/04/2024;87;100;no;False;36,1;GREEN
+79;F;true;false;false;21/12/2024;75;88;no;True;36,6;YELLOW
+108;F;false;false;true;16/10/2024;75;95;no;False;38,7;RED
+71;M;false;false;true;18/09/2024;83;92;no;False;37,4;GREEN
+85;F;false;true;false;14/06/2024;73;98;no;False;39,1;RED
+55;F;true;false;false;05/10/2024;63;97;no;False;38,9;YELLOW
+103;M;false;false;true;20/11/2024;85;91;no;False;36,7;GREEN
+98;F;true;false;false;22/01/2024;116;94;no;False;36,4;GREEN
+55;F;false;false;true;01/09/2024;75;93;no;False;37,6;YELLOW
+73;M;false;true;false;18/10/2024;98;89;no;False;38,9;RED
+106;F;false;false;true;24/08/2024;87;91;no;False;36,7;GREEN
+36;M;false;false;true;16/03/2024;119;100;no;True;36;GREEN
+32;F;false;false;true;22/12/2024;118;92;no;False;38,2;YELLOW
+57;F;true;false;false;30/07/2024;109;98;no;False;36;GREEN
+57;M;false;false;true;10/08/2024;96;97;no;False;36;GREEN
+19;F;false;false;true;06/12/2024;82;95;no;False;36;GREEN
+26;F;true;false;false;25/08/2024;91;95;no;False;36;GREEN
+100;M;false;false;true;03/08/2024;74;94;no;False;36,8;GREEN
+76;F;true;false;false;24/05/2024;63;93;ox;False;36,7;YELLOW
+31;M;false;false;true;25/02/2024;63;99;no;False;36;GREEN
+70;M;false;false;true;01/05/2024;83;96;no;True;36,9;GREEN
+29;M;false;false;true;06/08/2024;97;98;no;True;36,2;GREEN
+44;F;false;false;true;24/10/2024;109;93;ox;False;36;YELLOW
+69;F;false;true;false;20/06/2024;74;96;no;False;39,2;YELLOW
+32;F;true;false;false;06/10/2024;92;94;no;False;36,1;GREEN
+102;M;false;false;true;19/04/2024;77;95;no;False;36,5;GREEN
+84;F;false;false;true;29/05/2024;71;90;no;False;38,1;YELLOW
+49;F;false;false;true;14/01/2024;91;97;ox;False;37;GREEN
+24;M;false;false;true;03/11/2024;93;94;no;False;38,3;GREEN
+38;M;false;false;true;20/05/2024;83;89;no;False;36;RED
+108;F;true;false;false;11/03/2024;88;87;no;False;36,9;YELLOW
+65;F;false;true;false;20/04/2024;69;87;no;False;36,5;RED
+88;M;false;false;true;06/02/2024;75;90;no;False;36,8;YELLOW
+99;M;false;false;true;05/08/2024;75;92;no;False;36,1;GREEN
+52;F;false;false;true;01/03/2024;122;94;ox;False;36,1;YELLOW
+47;M;false;true;false;12/09/2024;75;94;no;False;36,9;GREEN
+92;F;true;false;false;25/03/2024;84;89;no;False;36,8;GREEN
+80;M;false;true;false;09/02/2024;72;90;no;False;36,9;GREEN
+17;M;false;false;true;18/04/2024;70;94;ox;False;36,7;RED
+87;M;false;false;true;10/01/2024;126;99;no;False;36,3;YELLOW
+54;M;false;false;true;08/08/2024;86;92;no;False;39,3;RED
+73;M;false;true;false;18/02/2024;94;91;no;False;38,6;RED
+90;M;true;false;false;18/07/2024;73;96;no;False;36,8;GREEN
+100;F;false;false;true;01/05/2024;102;97;no;False;36,4;GREEN
+37;M;false;false;true;25/07/2024;119;95;no;True;36,6;GREEN
+86;F;false;false;true;20/04/2024;67;98;no;False;36;GREEN
+22;F;false;false;true;11/02/2024;72;97;no;False;36;GREEN
+58;M;false;false;true;23/02/2024;75;97;no;False;36;GREEN
+90;F;false;false;true;11/12/2024;71;94;no;False;36,5;GREEN
+88;M;false;false;true;01/01/2024;106;100;no;False;36,1;GREEN
+61;F;false;false;true;31/10/2024;95;90;no;False;36,4;YELLOW
+101;F;false;false;true;23/02/2024;89;96;no;False;38,5;RED
+14;F;false;false;true;28/01/2024;71;99;ox;False;37,2;GREEN
+71;F;false;true;false;18/02/2024;78;98;no;False;36,2;GREEN
+106;M;false;false;true;13/07/2024;101;96;ox;False;36,5;GREEN
+36;F;false;false;true;24/05/2024;97;98;no;False;36;GREEN
+43;F;false;false;true;05/06/2024;91;99;;False;36,3;GREEN
+79;M;false;true;false;10/08/2024;70;93;venturi_mask;False;36;YELLOW
+81;M;true;false;false;04/08/2024;124;91;no;False;36,5;YELLOW
+81;M;false;false;true;16/08/2024;120;92;ox;False;36,6;RED
+48;F;false;false;true;27/06/2024;97;95;venturi_mask;False;36,1;YELLOW
+82;M;false;false;true;02/02/2024;121;92;ox;False;36,6;RED
+72;M;false;false;true;28/06/2024;68;98;no;False;36;GREEN
+78;M;false;true;false;16/07/2024;70;95;no;False;36,3;GREEN
+82;M;false;false;true;24/03/2024;123;90;ox;False;36,5;RED
+81;M;false;false;true;24/05/2024;126;92;no;False;36,5;YELLOW
+82;M;false;false;true;10/07/2024;122;93;ox;False;36,4;YELLOW
+81;M;false;true;false;30/08/2024;118;92;ox;False;36,6;YELLOW
+81;M;false;true;false;05/12/2024;122;91;no;False;36,5;YELLOW
+81;M;false;true;false;23/07/2024;127;92;ox;False;36,6;RED
+81;M;false;true;false;23/09/2024;116;92;ox;False;36,5;RED
+42;M;false;false;true;16/05/2024;72;95;venturi_mask;False;36,5;GREEN
+82;M;false;false;true;27/07/2024;122;90;ox;False;36,5;RED
+67;F;false;true;false;17/02/2024;95;95;no;False;36,3;GREEN
+82;M;false;false;true;25/11/2024;120;91;ox;False;36,5;RED
+81;M;false;true;false;26/12/2024;118;92;ox;False;36,6;RED
+81;M;false;true;false;14/12/2024;121;91;no;False;36,6;YELLOW
+58;F;false;false;true;23/07/2024;66;99;venturi_mask;False;36,1;GREEN
+58;M;false;true;false;04/11/2024;73;96;no;False;36,3;GREEN
+81;M;false;true;false;13/07/2024;123;92;ox;False;36,6;YELLOW
+76;M;false;true;false;20/08/2024;60;96;no;False;36,3;GREEN
+81;M;false;false;true;23/09/2024;119;92;ox;False;36,5;RED
+83;F;false;false;true;10/01/2024;69;97;no;False;36;GREEN
+86;M;true;false;false;17/01/2024;75;95;no;False;36,3;GREEN
+77;M;false;false;true;19/08/2024;80;96;no;False;36,1;GREEN
+81;M;false;false;true;27/09/2024;124;92;no;False;36,6;YELLOW
+91;M;false;false;true;26/06/2024;87;95;no;False;36,3;GREEN
+81;M;false;true;false;23/02/2024;120;90;no;False;36,6;YELLOW
+51;M;false;true;false;30/03/2024;67;96;no;False;36,3;GREEN
+82;M;false;false;true;13/12/2024;128;91;ox;False;36,5;RED
+81;M;false;true;false;10/06/2024;121;91;ox;False;36,5;RED
+47;F;false;false;true;09/01/2024;77;100;venturi_mask;False;36;GREEN
+62;F;true;false;false;17/08/2024;75;98;no;False;36,5;GREEN
+80;M;false;true;false;10/06/2024;71;97;no;False;36;GREEN
+103;M;false;false;true;13/09/2024;83;96;no;False;36,5;GREEN
+67;F;false;false;true;06/01/2024;101;96;ox;False;36;YELLOW
+58;M;false;false;true;10/01/2024;66;99;no;True;36;GREEN
+45;M;true;false;false;05/12/2024;103;97;no;False;36;GREEN
+108;F;false;false;true;04/01/2024;83;97;no;False;36,1;GREEN
+52;M;true;false;false;09/12/2024;75;98;no;False;36;GREEN
+6;M;false;false;true;;;;;;;
+90;M;true;false;false;29/09/2024;94;97;no;False;36,2;GREEN
+33;M;false;false;true;24/10/2024;81;97;no;False;36,1;GREEN
+51;F;false;false;true;07/07/2024;99;92;no;False;36;YELLOW
+70;F;false;false;true;28/07/2024;111;100;no;False;36;GREEN
+13;F;true;false;false;20/09/2024;89;91;no;False;36;RED
+100;F;false;false;true;05/03/2024;90;97;no;False;36,2;GREEN
+83;M;false;false;true;05/12/2024;95;100;no;False;36;GREEN
+104;F;false;false;true;17/06/2024;108;95;no;False;36,5;GREEN
+76;M;false;false;true;25/11/2024;89;97;no;False;36;GREEN
+108;M;false;false;true;24/12/2024;74;94;ox;False;36;GREEN
+45;F;false;true;false;11/07/2024;80;95;no;False;36;GREEN
+78;F;false;false;true;28/11/2024;86;91;ox;False;36;YELLOW
+57;F;false;false;true;04/10/2024;96;99;no;False;36,1;GREEN
+83;M;false;false;true;24/03/2024;98;97;no;False;36;GREEN
+87;M;false;false;true;26/12/2024;79;97;no;False;36,3;GREEN
+25;M;false;true;false;04/02/2024;87;89;no;False;36,2;RED
+70;M;false;false;true;05/06/2024;104;98;ox;False;36;GREEN
+109;M;false;false;true;11/11/2024;89;98;no;False;36;GREEN
+66;M;false;false;true;19/10/2024;69;99;no;False;36;GREEN
+60;M;false;false;true;24/01/2024;97;100;no;False;36;GREEN
+73;F;false;false;true;;;;;;;
+28;M;false;false;true;01/08/2024;89;92;no;True;36;YELLOW
+24;M;false;false;true;;;;;;;
+93;F;true;false;false;02/04/2024;99;99;no;False;36,2;GREEN
+36;M;false;false;true;24/03/2024;68;98;no;False;36,1;GREEN
+23;M;false;false;true;25/05/2024;82;93;no;False;36;YELLOW
+98;F;true;false;false;11/05/2024;101;92;ox;True;38,7;YELLOW
+26;M;false;false;true;20/10/2024;84;99;no;False;36,1;GREEN
+21;F;false;false;true;22/02/2024;84;95;no;False;36,6;GREEN
+33;M;true;false;false;25/12/2024;74;92;ox;False;36,1;RED
+87;M;false;false;true;11/03/2024;96;100;no;False;36;GREEN
+48;F;true;false;false;26/08/2024;99;90;ox;False;36;RED
+15;F;false;false;true;21/09/2024;91;89;ox;False;36,2;RED
+29;M;false;false;true;31/12/2024;104;87;no;False;36,4;RED
+83;M;false;false;true;03/01/2024;92;99;no;False;36;GREEN
+94;F;true;false;false;22/11/2024;65;97;no;False;36,2;GREEN
+78;F;false;false;true;04/07/2024;96;100;no;False;36,6;GREEN
+96;M;false;false;true;21/06/2024;104;95;no;False;36;GREEN
+68;F;false;true;false;02/02/2024;87;93;ox;False;36;YELLOW
+102;M;false;false;true;15/12/2024;108;99;no;False;36,2;GREEN
+74;F;false;false;true;07/12/2024;116;87;no;False;36;RED
+84;F;false;true;false;13/09/2024;93;97;no;False;39,4;YELLOW
+63;M;false;true;false;16/11/2024;85;97;no;False;36;GREEN
+52;M;false;true;false;05/09/2024;66;87;no;False;36;RED
+67;M;false;true;false;21/11/2024;63;88;no;False;36,1;RED
+91;M;true;false;false;05/06/2024;106;97;no;False;36;GREEN
+64;M;false;true;false;;;;;;;
+92;M;false;false;true;20/11/2024;104;99;ox;False;36;GREEN
+80;F;false;false;true;15/06/2024;103;97;ox;False;36;GREEN
+82;F;false;false;true;16/03/2024;98;95;no;False;36,1;GREEN
+57;M;false;false;true;;;;;;;
+49;M;false;true;false;;;;;;;
+102;M;true;false;false;21/08/2024;113;100;no;False;36;GREEN
+32;M;false;true;false;18/12/2024;137;87;no;False;36;RED
+82;M;false;false;true;09/11/2024;96;100;no;False;36,1;GREEN
+41;M;true;false;false;19/05/2024;82;88;no;False;36;RED
+30;M;false;true;false;20/10/2024;77;98;no;False;36;GREEN
+63;F;true;false;false;01/12/2024;92;99;no;False;36,2;GREEN
+85;M;true;false;false;22/06/2024;106;99;no;False;36;GREEN
+38;M;false;false;true;09/02/2024;73;99;no;False;36;GREEN
+84;F;false;false;true;22/01/2024;106;99;no;False;36;GREEN
+25;M;false;false;true;27/10/2024;68;89;no;True;36;RED
+82;M;false;false;true;06/07/2024;81;97;no;False;36;GREEN
+16;F;true;false;false;12/12/2024;144;91;no;True;36;RED
+26;F;false;false;true;17/04/2024;87;98;no;False;36;GREEN
+65;F;false;false;true;26/04/2024;79;92;no;True;36;GREEN
+46;F;false;false;true;12/02/2024;87;96;ox;True;36;GREEN
+90;M;false;false;true;;;;;;;
+89;F;false;false;true;07/02/2024;71;96;no;False;36;GREEN
+47;M;false;false;true;14/01/2024;84;99;no;False;36,2;GREEN
+36;M;false;false;true;02/11/2024;62;93;no;False;36,1;GREEN
+37;M;true;false;false;12/12/2024;103;87;no;False;36;RED
+26;M;false;false;true;24/05/2024;;;;;;
+96;F;true;false;false;08/08/2024;93;92;no;False;36;GREEN
+36;M;false;false;true;28/11/2024;74;95;no;False;36;GREEN
+100;F;false;false;true;14/04/2024;110;97;no;False;36,2;GREEN
+33;M;true;false;false;05/09/2024;135;88;no;False;36,5;RED
+8;M;false;false;true;03/06/2024;;;;;;
+95;F;false;false;true;02/02/2024;88;92;no;False;36;GREEN
+38;F;false;false;true;19/10/2024;97;92;no;False;36;YELLOW
+90;F;false;false;true;18/01/2024;110;98;ox;False;36;GREEN
+80;M;false;true;false;22/03/2024;105;100;no;False;39,3;YELLOW
+12;F;false;false;true;27/05/2024;119;94;ox;False;36;RED
+69;M;false;true;false;;;;;;;
+79;M;false;true;false;30/04/2024;94;97;no;True;37,2;GREEN
+80;M;true;false;false;13/09/2024;69;95;no;False;36;GREEN
+64;F;false;false;;05/08/2024;88;100;no;False;36;GREEN
+66;M;false;true;false;15/08/2024;66;93;no;False;36;GREEN
+105;M;false;false;true;;;;;;;
+79;M;false;false;true;12/02/2024;93;92;ox;False;36;GREEN
+49;F;false;false;true;28/11/2024;84;98;no;True;36,1;GREEN
+35;F;false;true;false;31/10/2024;67;94;no;False;36;YELLOW
+47;M;true;false;false;14/03/2024;111;97;ox;False;36;GREEN
+29;M;false;false;true;24/01/2024;80;97;no;False;36,1;GREEN
+63;M;true;false;false;22/02/2024;63;100;no;False;36;GREEN
+65;M;true;false;false;17/10/2024;107;96;no;False;36,2;GREEN
+35;M;false;false;true;30/06/2024;64;93;no;False;36;YELLOW
+92;F;false;false;true;24/11/2024;90;91;no;False;36;GREEN
+60;M;false;false;true;04/03/2024;102;98;no;False;200;GREEN
+106;M;false;false;true;01/10/2024;64;95;ox;True;36,3;GREEN
+97;F;false;false;true;08/07/2024;100;97;no;False;36;GREEN
+94;F;false;false;true;02/07/2024;141;87;ox;False;37,5;RED
+90;F;false;false;true;02/06/2024;106;99;ox;False;36,1;GREEN
+101;M;false;false;true;14/03/2024;88;95;no;False;36,2;GREEN
+48;M;false;false;true;02/02/2024;71;90;no;False;36;YELLOW
+106;F;false;false;true;02/03/2024;121;99;no;False;36;GREEN
+46;M;false;false;true;17/03/2024;72;95;no;False;37,3;GREEN
+21;M;false;false;true;09/06/2024;79;86;no;False;36,3;RED
+94;M;false;false;true;04/01/2024;119;99;no;False;36,4;GREEN
+59;M;false;true;false;22/11/2024;95;99;no;False;36;GREEN
+97;M;false;false;true;29/06/2024;98;100;no;False;36,2;GREEN
+47;M;true;false;false;03/08/2024;64;99;no;True;36;GREEN
+63;M;false;true;false;14/06/2024;99;97;no;False;36;GREEN
+34;F;false;false;true;29/09/2024;67;95;no;False;36,3;GREEN
+77;F;false;true;false;04/08/2024;92;100;no;False;36;GREEN
+91;M;false;false;true;29/08/2024;98;98;no;False;36,3;GREEN
+59;M;false;false;true;24/02/2024;91;95;ox;False;36;YELLOW
+94;F;false;false;true;04/04/2024;106;90;no;False;36;GREEN
+64;F;false;false;true;14/02/2024;102;100;no;False;38,9;RED
+15;M;false;false;true;12/12/2024;92;96;no;False;36,2;YELLOW
+24;F;false;false;true;01/09/2024;69;92;no;False;36;RED
+61;F;false;true;false;24/08/2024;107;98;no;False;36,1;GREEN
+16;M;false;false;true;09/08/2024;78;94;no;False;36,7;RED
+103;M;false;false;true;29/05/2024;102;99;no;False;36;GREEN
+72;M;false;true;false;30/09/2024;64;96;no;False;36;GREEN
+69;M;false;true;false;10/04/2024;61;94;ox;False;36,5;GREEN
+20;M;false;false;true;03/10/2024;141;94;ox;False;36,5;RED
+106;M;false;false;true;;;;;;;
+54;M;false;false;true;02/01/2024;67;91;no;True;36;YELLOW
+84;F;false;true;false;03/09/2024;100;95;no;False;36;GREEN
+87;M;false;false;true;06/11/2024;72;95;no;False;36,1;GREEN
+106;M;false;false;true;22/06/2024;97;95;no;False;37;GREEN
+106;F;false;false;true;22/11/2024;65;91;no;False;36;GREEN
+79;M;false;true;false;04/07/2024;102;97;no;False;36,2;GREEN
+72;F;false;false;true;11/10/2024;106;98;no;True;36;GREEN
+91;M;false;false;true;19/08/2024;106;97;no;False;36,1;GREEN
+72;F;false;false;true;10/12/2024;113;99;no;False;36;GREEN
+64;M;false;false;true;06/03/2024;95;95;ox;True;36;GREEN
+93;F;false;false;true;28/12/2024;106;100;no;False;36,1;GREEN
+57;M;false;true;false;07/02/2024;92;95;no;False;36;GREEN
+38;M;false;true;false;;;;;;;
+28;F;true;false;false;09/12/2024;140;90;no;False;36;RED
+62;F;true;false;false;03/05/2024;85;94;no;False;36;GREEN
+88;F;true;false;false;20/03/2024;101;99;no;False;36,1;GREEN
+104;F;true;false;false;29/10/2024;76;99;no;False;36;GREEN
+99;M;false;false;true;15/10/2024;108;95;no;True;36,3;GREEN
+17;F;false;false;true;13/04/2024;115;92;ox;False;36;RED
+41;F;false;true;false;13/09/2024;73;95;no;False;36,1;GREEN
+93;M;false;false;true;27/03/2024;90;96;ox;False;36,1;GREEN
+96;F;false;false;true;21/03/2024;115;99;ox;False;36,1;GREEN
+14;F;false;false;true;21/03/2024;102;86;no;False;36;RED
+43;M;false;true;false;04/09/2024;76;91;no;True;36;YELLOW
+78;M;false;true;false;30/03/2024;108;100;no;False;36,2;GREEN
+26;F;false;false;true;21/05/2024;73;89;no;False;36,1;RED
+63;M;false;false;true;24/03/2024;108;92;no;False;36;GREEN
+74;M;false;true;false;18/04/2024;64;90;ox;False;36;YELLOW
+78;F;true;false;false;13/11/2024;111;99;no;False;36;GREEN
+87;M;true;false;false;;;;;;;
+82;M;false;false;true;13/04/2024;113;99;no;False;36;GREEN
+100;F;false;false;true;26/08/2024;75;95;no;True;36;GREEN
+20;F;false;false;true;05/08/2024;80;97;no;False;36;GREEN
+85;F;false;false;true;12/04/2024;108;100;no;False;36,1;GREEN
+53;F;false;false;true;26/12/2024;82;95;no;False;36;GREEN
+66;F;false;true;false;15/06/2024;106;96;no;False;36,2;GREEN
+98;F;false;false;true;01/12/2024;89;98;no;True;36;GREEN
+31;F;false;false;true;31/10/2024;81;98;no;False;36;GREEN
+54;M;false;false;true;14/02/2024;74;91;no;False;36,7;YELLOW
+98;M;false;false;true;29/08/2024;77;96;ox;False;36;GREEN
+70;M;false;true;false;18/11/2024;89;100;no;False;36,1;GREEN
+98;M;false;false;true;20/11/2024;90;100;no;False;36;GREEN
+87;F;false;false;true;18/02/2024;82;95;ox;False;36,1;GREEN
+56;M;false;true;false;;;;;;;
+69;F;false;false;true;05/01/2024;400;95;no;False;36;GREEN
+88;M;false;false;true;22/08/2024;114;100;ox;False;36;GREEN
+97;M;true;false;false;;;;;;;
+105;M;false;false;true;14/05/2024;92;98;no;False;36;GREEN
+103;F;false;false;true;08/08/2024;;;;;;
+99;F;false;false;true;22/08/2024;89;99;no;False;36,1;GREEN
+94;M;false;false;true;;;;;;;
+87;M;false;false;true;25/04/2024;86;95;no;False;36;GREEN
+35;F;false;false;true;08/08/2024;71;89;no;False;36,5;RED
+83;M;false;false;true;22/02/2024;91;100;no;False;36;GREEN
+97;M;false;false;true;13/05/2024;84;95;no;False;36;GREEN
+109;F;false;false;true;15/05/2024;95;94;no;False;36;GREEN
+61;F;false;false;true;10/11/2024;126;98;no;False;36,4;GREEN
+49;F;false;true;false;23/07/2024;97;98;ox;False;36,7;GREEN
+45;M;false;false;true;01/09/2024;87;99;no;False;36,1;GREEN
+82;M;false;false;true;29/09/2024;114;100;no;False;38;YELLOW
+108;M;true;false;false;;;;;;;
+43;F;false;false;true;24/07/2024;92;89;no;False;36,9;GREEN
+91;M;false;false;true;07/03/2024;98;100;no;False;36;GREEN
+51;F;false;false;true;01/09/2024;142;96;no;False;36;YELLOW
+18;M;false;false;true;18/06/2024;76;90;no;False;36,3;RED
+100;M;false;false;true;12/04/2024;104;98;no;False;36;GREEN
+78;F;false;false;true;24/04/2024;76;92;no;False;36;GREEN
+44;M;false;false;true;27/05/2024;106;89;no;False;36;RED
+77;F;false;false;true;27/02/2024;71;96;no;False;36;GREEN
+70;M;false;true;false;02/08/2024;111;91;no;False;36;YELLOW
+82;M;false;false;true;08/03/2024;67;91;no;False;36,1;GREEN
+91;M;true;false;false;08/05/2024;122;98;no;False;36,3;GREEN
+75;M;false;true;false;21/08/2024;98;98;no;False;36;GREEN
+63;F;false;false;true;19/08/2024;68;97;no;False;36;GREEN
+1926;M;false;false;true;22/08/2024;103;95;no;False;36;GREEN
+62;M;true;false;false;23/02/2024;82;95;no;False;36;GREEN
+10;F;false;false;true;29/05/2024;132;94;no;False;36;RED
+101;M;false;false;true;13/12/2024;100;98;no;False;36;GREEN
+97;M;false;false;true;13/12/2024;90;98;no;False;36;GREEN
+71;M;false;false;true;02/03/2024;78;100;no;False;36;GREEN
+102;M;false;false;true;23/08/2024;104;92;no;False;36;GREEN
+68;M;false;true;false;26/02/2024;;;;;;
+82;F;false;false;true;28/04/2024;77;87;no;False;36,2;RED
+79;F;true;false;false;22/12/2024;78;98;no;False;36;GREEN
+108;F;false;false;true;17/10/2024;74;97;no;False;36;GREEN
